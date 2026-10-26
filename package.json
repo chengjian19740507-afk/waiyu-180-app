@@ -1,0 +1,14 @@
+{
+  "name": "waiyu-180-app",
+  "version": "2.0.0",
+  "description": "出境无忧180句 · 13 语种 2340 句速查 · 18 个真实场景 · 离线发音",
+  "private": true,
+  "scripts": {
+    "check:atlas": "node scripts/check-atlas.mjs",
+    "serve": "python3 -m http.server 8000",
+    "build:og": "python3 render_og_cover.py"
+  },
+  "keywords": ["chinese","travel","language-learning","phrasebook","offline-first","pwa","wechat-miniprogram","tts"],
+  "license": "MIT",
+  "author": "成键 / Cheng Jian (北极虎)"
+}

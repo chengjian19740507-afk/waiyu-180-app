@@ -1281,7 +1281,7 @@
   },
   {
     "id": 161,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Xin hỏi quý tên?",
     "romanization": "Xin hỏi quý tên?",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": 162,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Tên tôi là ...",
     "romanization": "Tên tôi là ...",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 163,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Rất hân hạnh được gặp quý vị",
     "romanization": "Rất hân hạnh được gặp quý vị",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": 164,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Chức vụ của bạn là gì?",
     "romanization": "Chức vụ của bạn là gì?",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": 165,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Chúng ta hẹn gặp được không?",
     "romanization": "Chúng ta hẹn gặp được không?",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 166,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Đây là danh thiếp của tôi",
     "romanization": "Đây là danh thiếp của tôi",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": 167,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Xin gửi email cho tôi",
     "romanization": "Xin gửi email cho tôi",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": 168,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Xin thêm tôi vào WeChat",
     "romanization": "Xin thêm tôi vào WeChat",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 169,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Cảm ơn sự tiếp đãi của quý vị",
     "romanization": "Cảm ơn sự tiếp đãi của quý vị",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": 170,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Hy vọng được gặp lại",
     "romanization": "Hy vọng được gặp lại",

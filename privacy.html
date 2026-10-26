@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>隐私协议 · 出境无忧180句</title>
+<meta name="description" content="出境无忧180句 隐私协议：本工具不收集任何用户个人信息，所有数据本地存储。">
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="style.css">
+<style>
+  .legal { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; line-height: 1.85; font-size: 15px; color: var(--fg); }
+  .legal h1 { font-size: 24px; margin: 0 0 6px; }
+  .legal h2 { font-size: 17px; margin: 32px 0 10px; color: var(--accent); }
+  .legal .meta { color: var(--fg-dim); font-size: 13px; margin-bottom: 24px; }
+  .legal table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 14px; }
+  .legal th, .legal td { border: 1px solid var(--border); padding: 8px 10px; text-align: left; }
+  .legal th { background: var(--bg-2); }
+  .legal code { background: var(--bg-2); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+  .legal ul { padding-left: 22px; }
+  .legal a { color: var(--accent); }
+</style>
+</head>
+<body>
+<article class="legal">
+  <h1>隐私协议</h1>
+  <p class="meta">出境无忧180句 · 更新日期 2026-10-27 · 生效日期：发布之日</p>
+
+  <h2>一、我们不收集什么</h2>
+  <p>本工具是<strong>纯本地离线工具</strong>。我们不收集任何可识别你身份的个人信息。</p>
+  <table>
+    <thead><tr><th>类型</th><th>是否收集</th><th>说明</th></tr></thead>
+    <tbody>
+      <tr><td>微信账号 / 手机号</td><td>不收集</td><td>无需注册、无需登录</td></tr>
+      <tr><td>位置信息</td><td>不收集</td><td>工具不含任何定位功能</td></tr>
+      <tr><td>通讯录</td><td>不收集</td><td>无相关功能</td></tr>
+      <tr><td>设备标识 / IMEI</td><td>不收集</td><td>不读取</td></tr>
+      <tr><td>使用日志 / 埋点</td><td>不收集</td><td>不含任何第三方统计 SDK</td></tr>
+    </tbody>
+  </table>
+
+  <h2>二、数据存储</h2>
+  <ul>
+    <li>全部句库（13 语种 2340 句）与词库（7 语种 7000 词）<strong>随程序打包分发</strong>，不联网获取。</li>
+    <li>你的「当前语种」「解锁状态」等偏好<strong>仅保存在本机</strong>（网页版 <code>localStorage</code>；小程序版 <code>wx.setStorage</code>）。</li>
+    <li>这些数据<strong>不会上传到任何服务器</strong>，也不会同步到其他设备。</li>
+    <li>清除浏览器数据 / 清除小程序数据即可彻底删除，且无法恢复。</li>
+  </ul>
+
+  <h2>三、语音朗读（TTS）</h2>
+  <p>点击「朗读」按钮时，会把你<strong>当前浏览的那一句文本</strong>发送给语音合成服务以生成音频。该请求<strong>不包含</strong>你的账号、位置、设备标识或任何身份信息。</p>
+  <table>
+    <thead><tr><th>形态</th><th>引擎</th><th>数据流向</th></tr></thead>
+    <tbody>
+      <tr><td>网页版</td><td>浏览器原生 SpeechSynthesis（Chrome / Safari / Edge 自带）</td><td>文本<strong>不离开你的设备</strong>，完全本地合成</td></tr>
+      <tr><td>微信小程序版</td><td>本地语音合成服务 / 微软 edge-tts</td><td>仅发送待朗读文字</td></tr>
+    </tbody>
+  </table>
+  <p>第三方语音服务由对应服务商按其自身隐私政策处理数据。若你不希望触发任何网络请求，可<strong>完全不使用朗读功能</strong>——查阅功能在离线状态下完全可用。</p>
+
+  <h2>四、第三方服务</h2>
+  <p>本工具不接入广告、不接入统计、不接入任何第三方追踪。除上述语音合成外，运行时<strong>不与任何服务器通信</strong>。</p>
+
+  <h2>五、你的权利</h2>
+  <ul>
+    <li>随时清除本地缓存（浏览器：清除站点数据；微信：设置 → 清除小程序数据）</li>
+    <li>随时卸载小程序或关闭网页，本地数据一并删除</li>
+    <li>无需注册即可使用全部浏览功能</li>
+    <li>本工具不收集数据，因此不存在「查询 / 更正 / 删除个人数据」的请求场景——因为我们没有你的个人数据</li>
+  </ul>
+
+  <h2>六、未成年人保护</h2>
+  <p>本工具为通用外语学习工具，未成年人可在监护人陪同下使用。由于不收集任何个人信息，未成年人不涉及个人信息处理风险。</p>
+
+  <h2>七、协议变更</h2>
+  <p>如有重大变更，会在本页与小程序内显著位置公告。继续使用即视为接受变更后的协议。</p>
+
+  <h2>八、联系我们</h2>
+  <p>开发者：成键（北极虎） · 邮箱：<a href="mailto:chengjian19740507@gmail.com">chengjian19740507@gmail.com</a></p>
+
+  <h2>九、相关文件</h2>
+  <ul>
+    <li><a href="terms.html">用户协议</a></li>
+    <li><a href="./">返回应用</a></li>
+  </ul>
+</article>
+</body>
+</html>

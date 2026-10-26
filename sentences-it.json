@@ -1281,7 +1281,7 @@
   },
   {
     "id": 161,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Posso chiedere il Suo cognome?",
     "romanization": "Posso chiedere il Suo cognome?",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": 162,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Mi chiamo...",
     "romanization": "Mi chiamo...",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 163,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Piacere di conoscerLa",
     "romanization": "Piacere di conoscerLa",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": 164,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Qual è la Sua posizione?",
     "romanization": "Qual è la Sua posizione?",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": 165,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Possiamo fissare un appuntamento?",
     "romanization": "Possiamo fissare un appuntamento?",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 166,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Ecco il mio biglietto da visita",
     "romanization": "Ecco il mio biglietto da visita",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": 167,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Mi può mandare una email",
     "romanization": "Mi può mandare una email",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": 168,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Mi può aggiungere su WeChat",
     "romanization": "Mi può aggiungere su WeChat",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 169,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "La ringrazio per la Sua ospitalità",
     "romanization": "La ringrazio per la Sua ospitalità",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": 170,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "Spero di rivederLa",
     "romanization": "Spero di rivederLa",

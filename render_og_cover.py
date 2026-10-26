@@ -13,7 +13,11 @@ async def main():
     if not SRC.exists():
         sys.exit(f"missing {SRC}")
     async with async_playwright() as p:
-        browser = await p.chromium.launch()
+        # 优先用系统 Chrome，回退到 playwright 自带 chromium
+        try:
+            browser = await p.chromium.launch(channel="chrome")
+        except Exception:
+            browser = await p.chromium.launch()
         ctx = await browser.new_context(viewport={"width": W, "height": H},
                                         device_scale_factor=1)
         page = await ctx.new_page()

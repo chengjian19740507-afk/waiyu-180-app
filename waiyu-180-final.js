@@ -130,6 +130,7 @@
     { key: 'medical', zh: '医疗' },
     { key: 'work', zh: '工作场景' },
     { key: 'social', zh: '社交礼仪' },
+    { key: 'visa', zh: '签证类型' },
     { key: 'all', zh: '全部' },
   ];
 
@@ -166,10 +167,17 @@
     }
   }
 
+  // 当前语种实际包含的类别（各语种场景略有差异，如 de/hi/pt/vi/it/th 有 visa 而无 social）
+  function availableCats() {
+    if (!allData.length) return catDefs;
+    const present = new Set(allData.map(s => s.category));
+    return catDefs.filter(c => c.key === 'all' || present.has(c.key));
+  }
+
   function renderCats() {
     catsEl.innerHTML = '';
     const unlocked = isUnlocked();
-    for (const cat of catDefs) {
+    for (const cat of availableCats()) {
       const btn = document.createElement('button');
       const isFree = FREE_CATS.has(cat.key);
       // 「全部」与付费分类都需解锁后才可见；仅免费分类（问候/自我介绍）默认开放
@@ -488,6 +496,7 @@
       });
       allData = await load(lang);
       currentCat = 'all';
+      renderCats();
       render();
     });
   }
@@ -575,8 +584,8 @@
   langsEl.querySelectorAll('.lang-chip').forEach(b => {
     b.classList.toggle('active', b.dataset.lang === currentLang);
   });
-  renderCats();
   allData = await load(currentLang);
+  renderCats();
   render();
 
   // ============ 词汇表模式（1000 词）============

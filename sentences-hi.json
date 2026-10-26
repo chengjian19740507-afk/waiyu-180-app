@@ -1281,7 +1281,7 @@
   },
   {
     "id": 161,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "आपका कुलनाम क्या है?",
     "romanization": "Aapaka kulnaam kya hai?",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": 162,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "मेरा नाम...",
     "romanization": "Mera naam...",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 163,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "आपसे मिलकर प्रसन्नता हुई",
     "romanization": "Aapse milkar prasannata hui",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": 164,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "आपका पद क्या है?",
     "romanization": "Aapaka pad kya hai?",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": 165,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "क्या हम मीटिंग का समय तय कर सकते हैं?",
     "romanization": "Kya ham meeting ka samay tay kar sakte hain?",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 166,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "यह मेरा विज़िटिंग कार्ड है",
     "romanization": "Yah mera visiting card hai",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": 167,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "कृपया मुझे ईमेल कीजिए",
     "romanization": "Kripaya mujhe email kijiye",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": 168,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "कृपया मुझे वीचैट पर जोड़िए",
     "romanization": "Kripaya mujhe WeChat par jodein",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 169,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "आपकी आतिथ्य के लिए धन्यवाद",
     "romanization": "Aapki aatithay ke liye dhanyavaad",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": 170,
-    "category": "work_business",
+    "category": "work",
     "category_zh": "工作场景",
     "text": "फिर मिलेंगे",
     "romanization": "Phir milenge",

@@ -1,7 +1,7 @@
 {
-  "name": "外语日常 150 句",
-  "short_name": "外语 150",
-  "description": "海外旅游日常用语 · 7 语种 160 句 · 文字 + 罗马字 + 中文 + 浏览器发音",
+  "name": "出境无忧180句",
+  "short_name": "出境180句",
+  "description": "出境无忧180句 · 13 语种 2340 句 · 18 场景 · 文字 + 罗马字 + 中文 + 离线发音",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

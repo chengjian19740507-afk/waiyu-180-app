@@ -1138,3 +1138,46 @@ html, body {
 
 /* RTL 阿语 */
 [dir="rtl"] .vocab-rank { text-align: left; }
+
+/* ============ 微信小程序 CTA ============ */
+.miniapp {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 14px auto 0;
+  max-width: 460px;
+  padding: 14px 16px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  text-align: left;
+}
+.miniapp-text { flex: 1; min-width: 0; }
+.miniapp-title { margin: 0 0 6px; font-size: 14px; font-weight: 700; color: var(--fg); }
+.miniapp-desc { margin: 0; font-size: 12px; line-height: 1.6; color: var(--fg-dim); }
+.miniapp-desc strong { color: var(--accent); }
+.miniapp-qr {
+  width: 92px; height: 92px;
+  border-radius: 10px;
+  background: #fff;
+  padding: 4px;
+  flex: 0 0 auto;
+}
+.tip .links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 20px;
+  margin: 18px 0 0;
+}
+.tip .links a {
+  color: var(--fg-dim);
+  font-size: 12px;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.tip .links a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+@media (max-width: 420px) {
+  .miniapp { flex-direction: column; text-align: center; }
+  .miniapp-qr { width: 108px; height: 108px; }
+}

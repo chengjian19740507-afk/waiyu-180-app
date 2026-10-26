@@ -1,1 +1,4 @@
 tip-alipay-src.jpg
+.DS_Store
+*.pyc
+__pycache__/
