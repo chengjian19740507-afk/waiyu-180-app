@@ -5,7 +5,7 @@
 **One phrase per moment. Say it the moment you land. 13 languages · 2,340 phrases · 18 real travel scenarios · offline speech.**
 
 [Live Demo](https://chengjian19740507-afk.github.io/waiyu-180-app/) ·
-[Privacy Policy](https://chengjian19740507afk.github.io/waiyu-180-app/privacy.html) ·
+[Privacy Policy](https://chengjian19740507-afk.github.io/waiyu-180-app/privacy.html) ·
 [Terms of Use](https://chengjian19740507-afk.github.io/waiyu-180-app/terms.html) ·
 [中文](README.md)
 
