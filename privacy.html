@@ -47,18 +47,28 @@
   </ul>
 
   <h2>三、语音朗读（TTS）</h2>
-  <p>点击「朗读」按钮时，会把你<strong>当前浏览的那一句文本</strong>发送给语音合成服务以生成音频。该请求<strong>不包含</strong>你的账号、位置、设备标识或任何身份信息。</p>
+  <p>本工具的朗读<strong>不发送你的任何数据到第三方</strong>。发音有两种方式：</p>
   <table>
-    <thead><tr><th>形态</th><th>引擎</th><th>数据流向</th></tr></thead>
+    <thead><tr><th>形态</th><th>方式</th><th>数据流向</th></tr></thead>
     <tbody>
       <tr><td>网页版</td><td>浏览器原生 SpeechSynthesis（Chrome / Safari / Edge 自带）</td><td>文本<strong>不离开你的设备</strong>，完全本地合成</td></tr>
-      <tr><td>微信小程序版</td><td>本地语音合成服务 / 微软 edge-tts</td><td>仅发送待朗读文字</td></tr>
+      <tr><td>网页版（微信内置浏览器等无语音合成环境）</td><td>下载开发者<strong>预生成</strong>的 mp3 音频文件</td><td>仅下载音频文件，<strong>不上传任何数据</strong></td></tr>
+      <tr><td>微信小程序版</td><td>微信云开发（CloudBase）云存储下载预生成 mp3</td><td>仅下载音频文件，<strong>不上传任何数据</strong></td></tr>
     </tbody>
   </table>
-  <p>第三方语音服务由对应服务商按其自身隐私政策处理数据。若你不希望触发任何网络请求，可<strong>完全不使用朗读功能</strong>——查阅功能在离线状态下完全可用。</p>
+  <p>音频是<strong>开发者离线生成后上传的静态内容</strong>，与用户无关：同一段句子对所有用户都是同一个 mp3 文件。小程序版使用<strong>腾讯科技</strong>的微信云开发服务（云存储 + 云调用）承载音频下载。</p>
+  <p>若你不希望触发任何网络请求，可<strong>完全不使用朗读功能</strong>——查阅功能在离线状态下完全可用；已缓存的音频在断网时照常发音。</p>
 
   <h2>四、第三方服务</h2>
-  <p>本工具不接入广告、不接入统计、不接入任何第三方追踪。除上述语音合成外，运行时<strong>不与任何服务器通信</strong>。</p>
+  <p>本工具不接入广告、不接入统计、不接入任何第三方追踪。除下表的音频分发服务外，运行时<strong>不与任何服务器通信</strong>。</p>
+  <table>
+    <thead><tr><th>服务</th><th>提供方</th><th>用途</th><th>数据流向</th></tr></thead>
+    <tbody>
+      <tr><td>微信云开发（CloudBase）云存储 / 云调用</td><td>腾讯科技</td><td>存放并分发预生成发音音频</td><td>仅下载音频文件，无上传</td></tr>
+      <tr><td>GitHub Pages</td><td>GitHub, Inc.（美国）</td><td>托管本静态网页与音频仓库</td><td>常规网页访问日志</td></tr>
+    </tbody>
+  </table>
+  <p>各服务由对应提供商按其自身隐私政策处理数据。</p>
 
   <h2>五、你的权利</h2>
   <ul>
