@@ -143,6 +143,25 @@
   let currentSearch = '';
   let currentUtter = null;
   let currentCard = null;
+  let currentAudioEl = null;
+  // 离线发音音频库（macOS say 生成，13 语种 × 180 句）
+  const AUDIO_BASE = 'https://chengjian19740507-afk.github.io/waiyu-180-audio/audio';
+
+  // 播放离线 mp3 兜底（微信内置浏览器等无 speechSynthesis 的环境）
+  function playMp3Fallback(lang, id) {
+    if (currentAudioEl) {
+      try { currentAudioEl.pause(); currentAudioEl = null; } catch (e) {}
+    }
+    const a = new Audio(`${AUDIO_BASE}/${lang}/${id}.mp3`);
+    currentAudioEl = a;
+    a.onended = () => { currentAudioEl = null; stopCurrent(); };
+    a.onerror = () => {
+      currentAudioEl = null;
+      console.warn(`离线发音 ${lang}/${id} 加载失败`);
+      stopCurrent();
+    };
+    a.play().catch(() => {});
+  }
 
   function matchesSearch(s, q) {
     if (!q) return true;
@@ -330,6 +349,9 @@
     if (currentUtter) {
       window.speechSynthesis.cancel();
     }
+    if (currentAudioEl) {
+      try { currentAudioEl.pause(); currentAudioEl = null; } catch (e) {}
+    }
     if (currentCard) {
       currentCard.classList.remove('playing');
       const pb = currentCard.querySelector('.play');
@@ -346,8 +368,7 @@
     currentCard = node;
 
     if (!('speechSynthesis' in window)) {
-      alert('当前浏览器不支持语音合成');
-      stopCurrent();
+      playMp3Fallback(currentLang, s.id);
       return;
     }
 
