@@ -95,6 +95,11 @@ npm run check:atlas
 
 欢迎提 issue、加语种、补场景、改进 UI。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+## 配套数据集
+
+结构化数据（2340 句 + 7000 词，含离线发音 URL）单独发布：
+**https://github.com/chengjian19740507-afk/waiyu-180-dataset**（npm: `waiyu-180`）
+
 ## 致谢
 
 感谢每一位提出 issue、补充语种、翻译校对、推荐工具的朋友。
