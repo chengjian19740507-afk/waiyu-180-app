@@ -114,5 +114,5 @@ npm run check:atlas
 ---
 
 <div align="center">
-<sub>© 2026 成键 / Cheng Jian（北极虎）· 上海市住建委 · 上海世界城市日事务协调中心</sub>
+<sub>© 2026 成键 / Cheng Jian（北极虎）· 个人作品</sub>
 </div>

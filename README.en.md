@@ -107,5 +107,5 @@ Please keep the credit **"Author: 北极虎 / Cheng Jian"** and link back when y
 ---
 
 <div align="center">
-<sub>© 2026 成键 / Cheng Jian — Shanghai Municipal Commission of Housing &amp; Urban-Rural Development · World Cities Day Coordination Centre</sub>
+<sub>© 2026 成键 / Cheng Jian (北极虎) — personal project</sub>
 </div>
