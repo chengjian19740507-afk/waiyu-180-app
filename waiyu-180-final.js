@@ -147,12 +147,17 @@
   // 离线发音音频库（macOS say 生成，13 语种 × 180 句）
   const AUDIO_BASE = 'https://chengjian19740507-afk.github.io/waiyu-180-audio/audio';
 
+  // 离线音频相对路径：句子 audio/<lang>/<id>.mp3，词表 vocab_audio/<lang>/<rank>.mp3
+  function audioRelPath(kind, lang, id) {
+    return `${kind}/${lang}/${id}.mp3`;
+  }
+
   // 播放离线 mp3 兜底（微信内置浏览器等无 speechSynthesis 的环境）
-  function playMp3Fallback(lang, id) {
+  function playMp3Fallback(relPath) {
     if (currentAudioEl) {
       try { currentAudioEl.pause(); currentAudioEl = null; } catch (e) {}
     }
-    const a = new Audio(`${AUDIO_BASE}/${lang}/${id}.mp3`);
+    const a = new Audio(`${AUDIO_BASE}/${relPath}`);
     currentAudioEl = a;
     a.onended = () => { currentAudioEl = null; stopCurrent(); };
     a.onerror = () => {
@@ -368,7 +373,7 @@
     currentCard = node;
 
     if (!('speechSynthesis' in window)) {
-      playMp3Fallback(currentLang, s.id);
+      playMp3Fallback(audioRelPath('audio', currentLang, s.id));
       return;
     }
 
@@ -640,7 +645,7 @@
     vocabTbodyEl.innerHTML = visible.map(v => `
       <tr>
         <td class="vocab-rank">${v.rank}</td>
-        <td class="vocab-word" data-word="${escapeHtml(v.word)}" data-lang="${currentLang}">${escapeHtml(v.word)}</td>
+        <td class="vocab-word" data-word="${escapeHtml(v.word)}" data-lang="${currentLang}" data-rank="${v.rank}">${escapeHtml(v.word)}</td>
         <td class="vocab-ipa">${escapeHtml(v.ipa || '')}</td>
         <td class="vocab-trans">${escapeHtml(v.translation || '')}</td>
       </tr>
@@ -692,8 +697,13 @@
     if (!cell) return;
     const word = cell.dataset.word;
     const lang = cell.dataset.lang;
-    if (!word || !('speechSynthesis' in window)) return;
+    const rank = cell.dataset.rank;
+    if (!word) return;
     stopCurrent();
+    if (!('speechSynthesis' in window)) {
+      if (rank) playMp3Fallback(audioRelPath('vocab_audio', lang, rank));
+      return;
+    }
     const cfg = LANGS[lang];
     const u = new SpeechSynthesisUtterance(word);
     u.lang = cfg.lang;
