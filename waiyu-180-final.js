@@ -145,7 +145,7 @@
   let currentCard = null;
   let currentAudioEl = null;
   // 离线发音音频库（macOS say 生成，13 语种 × 180 句）
-  const AUDIO_BASE = 'https://chengjian19740507-afk.github.io/waiyu-180-audio/audio';
+  const AUDIO_BASE = 'https://chengjian19740507-afk.github.io/waiyu-180-audio';
 
   // 离线音频相对路径：句子 audio/<lang>/<id>.mp3，词表 vocab_audio/<lang>/<rank>.mp3
   function audioRelPath(kind, lang, id) {
