@@ -1,4 +1,4 @@
-// 出境无忧180句 · 7 语种
+// 出国旅游常用外语 · 13 语种 × 210 句
 (async () => {
   try {
   const langsEl = document.getElementById('langs');
@@ -77,25 +77,30 @@
   ensureVoices(); // 预加载
 
   const LANGS = {
-    en: { label: '英语出境无忧180句', sub: '文字+语音 · 英语母语发音 · 出境无忧 180 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
-    es: { label: '西语出境无忧180句', sub: '文字+语音 · 西语母语发音 · 出境无忧 180 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
-    fr: { label: '法语出境无忧180句', sub: '文字+语音 · 法语母语发音 · 出境无忧 180 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
-    ar: { label: '阿语出境无忧180句', sub: '文字+罗马字 · 阿语母语发音 · 出境无忧 180 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
-    ru: { label: '俄语出境无忧180句', sub: '文字+语音 · 俄语母语发音 · 出境无忧 180 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
-    de: { label: '德语出境无忧180句', sub: '文字+语音 · 德语母语发音 · 出境无忧 180 句', file: 'sentences-de.json', tts: 'speech', lang: 'de-DE' },
-    hi: { label: '印地语出境无忧180句', sub: '文字+罗马字 · 印地语母语发音 · 出境无忧 180 句', file: 'sentences-hi.json', tts: 'speech', lang: 'hi-IN' },
-    pt: { label: '葡萄牙语出境无忧180句', sub: '文字+语音 · 葡萄牙语母语发音 · 出境无忧 180 句', file: 'sentences-pt.json', tts: 'speech', lang: 'pt-BR' },
-    ja: { label: '日语出境无忧180句', sub: '文字+罗马字 · 日语假名发音 · 出境无忧 180 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
-    ko: { label: '韩语出境无忧180句', sub: '文字+罗马字 · 韩语母语发音 · 出境无忧 180 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
-    vi: { label: '越南语出境无忧180句', sub: '文字+罗马字 · 越南语母语发音 · 出境无忧 180 句', file: 'sentences-vi.json', tts: 'speech', lang: 'vi-VN' },
-    it: { label: '意大利语出境无忧180句', sub: '文字+语音 · 意大利语母语发音 · 出境无忧 180 句', file: 'sentences-it.json', tts: 'speech', lang: 'it-IT' },
-    th: { label: '泰语出境无忧180句', sub: '文字+罗马字 · 泰语母语发音 · 出境无忧 180 句', file: 'sentences-th.json', tts: 'speech', lang: 'th-TH' },
+    en: { label: '英语出国旅游常用外语', sub: '文字+语音 · 英语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
+    es: { label: '西语出国旅游常用外语', sub: '文字+语音 · 西语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
+    fr: { label: '法语出国旅游常用外语', sub: '文字+语音 · 法语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
+    ar: { label: '阿语出国旅游常用外语', sub: '文字+罗马字 · 阿语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
+    ru: { label: '俄语出国旅游常用外语', sub: '文字+语音 · 俄语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    de: { label: '德语出国旅游常用外语', sub: '文字+语音 · 德语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-de.json', tts: 'speech', lang: 'de-DE' },
+    hi: { label: '印地语出国旅游常用外语', sub: '文字+罗马字 · 印地语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-hi.json', tts: 'speech', lang: 'hi-IN' },
+    pt: { label: '葡萄牙语出国旅游常用外语', sub: '文字+语音 · 葡萄牙语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-pt.json', tts: 'speech', lang: 'pt-BR' },
+    ja: { label: '日语出国旅游常用外语', sub: '文字+罗马字 · 日语假名发音 · 出国旅游常用外语 210 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
+    ko: { label: '韩语出国旅游常用外语', sub: '文字+罗马字 · 韩语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
+    vi: { label: '越南语出国旅游常用外语', sub: '文字+罗马字 · 越南语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-vi.json', tts: 'speech', lang: 'vi-VN' },
+    it: { label: '意大利语出国旅游常用外语', sub: '文字+语音 · 意大利语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-it.json', tts: 'speech', lang: 'it-IT' },
+    th: { label: '泰语出国旅游常用外语', sub: '文字+罗马字 · 泰语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-th.json', tts: 'speech', lang: 'th-TH' },
   };
 
 
   // ============ 付费门控 ============
   // 免费仅问候 + 自我介绍两类，其他 16 类需打赏后解锁
-  const FREE_CATS = new Set(['greetings', 'intro']);
+  // 免费 11 类（与小程序 v1.3.0 完全一致）
+  // 紧急求助免费 = 紧急时刻不该撞付费墙，且是最好的获客钩子
+  const FREE_CATS = new Set([
+    'emergency', 'greetings', 'intro', 'airport', 'hotel', 'frontdesk',
+    'restaurant', 'transport', 'directions', 'shopping', 'food'
+  ]);
   const UNLOCK_HASH = '9e6c21a3ae299809c8f25fad38a79809f7b86d33654ebddd31a88bdd5b0181ee';
 
   async function sha256(text) {
@@ -112,22 +117,26 @@
     return hash === UNLOCK_HASH;
   }
 
+  // 类目定义（2026-11-08 与小程序 v1.3.0 完全对齐）
+  // 顺序原则：紧急求助排第一 → 免费类目聚在一起（旅行动线）→ 付费类目聚在一起（游客价值）
   const catDefs = [
+    { key: 'emergency', zh: '紧急求助' },
     { key: 'greetings', zh: '问候' },
     { key: 'intro', zh: '自我介绍' },
     { key: 'airport', zh: '机场海关' },
     { key: 'hotel', zh: '宾馆入住' },
     { key: 'frontdesk', zh: '前台常用' },
-    { key: 'food', zh: '饮食' },
+    { key: 'restaurant', zh: '餐厅' },
     { key: 'transport', zh: '交通' },
-    { key: 'shopping', zh: '购物' },
-    { key: 'time', zh: '时间日期' },
     { key: 'directions', zh: '问路' },
+    { key: 'shopping', zh: '购物' },
+    { key: 'food', zh: '饮食' },
+    { key: 'travel', zh: '旅游实用' },
+    { key: 'medical', zh: '医疗' },
+    { key: 'common', zh: '常用表达' },
+    { key: 'time', zh: '时间日期' },
     { key: 'numbers', zh: '数字' },
     { key: 'family', zh: '家庭' },
-    { key: 'common', zh: '常用表达' },
-    { key: 'restaurant', zh: '餐厅' },
-    { key: 'medical', zh: '医疗' },
     { key: 'work', zh: '工作场景' },
     { key: 'social', zh: '社交礼仪' },
     { key: 'visa', zh: '签证类型' },
@@ -144,7 +153,7 @@
   let currentUtter = null;
   let currentCard = null;
   let currentAudioEl = null;
-  // 离线发音音频库（macOS say 生成，13 语种 × 180 句）
+  // 离线发音音频库（macOS say 生成，13 语种 × 210 句）
   const AUDIO_BASE = 'https://chengjian19740507-afk.github.io/waiyu-180-audio';
 
   // 离线音频相对路径：句子 audio/<lang>/<id>.mp3，词表 vocab_audio/<lang>/<rank>.mp3
@@ -299,8 +308,8 @@
       cardsEl.innerHTML = `
         <div style="padding:60px 20px;text-align:center;color:#94a3b8">
           <div style="font-size:48px;margin-bottom:16px">🔒</div>
-          <div style="font-size:18px;color:#475569;margin-bottom:12px;font-weight:600">解锁后查看全部 180 句</div>
-          <div style="font-size:14px;margin-bottom:24px">当前已开放：<strong style="color:#10b981">${freeCount} 句</strong>（免费分类）<br>解锁后：180 句 · 18 个分类 · 全部语种</div>
+          <div style="font-size:18px;color:#475569;margin-bottom:12px;font-weight:600">解锁后查看全部 210 句</div>
+          <div style="font-size:14px;margin-bottom:24px">当前已开放：<strong style="color:#10b981">${freeCount} 句</strong>（免费分类）<br>解锁后：210 句 · 19 个分类 · 全部语种</div>
           <button onclick="document.getElementById('paywall-trigger-btn')?.click() || document.getElementById('paywall-modal').removeAttribute('hidden')"
                   style="padding:12px 32px;background:#3b82f6;color:white;border:none;border-radius:8px;font-size:16px;cursor:pointer;font-weight:500">
             输入解锁码
@@ -308,7 +317,7 @@
           <div style="font-size:12px;margin-top:24px;color:#94a3b8">也可以先点击 <strong style="color:#475569">问候 / 自我介绍</strong> 查看免费内容</div>
         </div>
       `;
-      statsEl.textContent = `共 180 句 · 当前 0（未解锁）`;
+      statsEl.textContent = `共 210 句 · 当前 0（未解锁）`;
       return;
     }
     let list;

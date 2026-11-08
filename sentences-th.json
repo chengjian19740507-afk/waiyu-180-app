@@ -1,5 +1,125 @@
 [
   {
+    "id": 200,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ช่วยด้วย!",
+    "romanization": "Chuai duay!",
+    "translation": "救命！"
+  },
+  {
+    "id": 201,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมต้องการความช่วยเหลือครับ",
+    "romanization": "Phom tonggan khwam chuai leu krap",
+    "translation": "我需要帮助！"
+  },
+  {
+    "id": 202,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "กรุณาเรียกรถพยาบาลครับ",
+    "romanization": "Kanuna riak rot phayaban krap",
+    "translation": "请叫救护车！急救电话怎么说"
+  },
+  {
+    "id": 203,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "กรุณาเรียกตำรวจครับ",
+    "romanization": "Kanuna riak tamruat krap",
+    "translation": "请报警。报警电话是多少"
+  },
+  {
+    "id": 204,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "เบอร์โทรฉุกเฉินที่นี่คืออะไรครับ",
+    "romanization": "Boer thon chukchoen thi ni khu arai krap",
+    "translation": "这里的紧急电话是多少？紧急电话号码"
+  },
+  {
+    "id": 205,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมทำหนังสือเดินทางหายครับ",
+    "romanization": "Phom thamnangsueu dn thang hai krap",
+    "translation": "我的护照丢了。护照遗失"
+  },
+  {
+    "id": 206,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "กระเป๋าเงินของผมถูกขโมยครับ",
+    "romanization": "Krapho ngoen khong phom thuk khomy krap",
+    "translation": "我的钱包被偷了。东西被偷"
+  },
+  {
+    "id": 207,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมต้องการติดต่อสถานทูตครับ",
+    "romanization": "Phom tonggan tottor satanthut krap",
+    "translation": "我要联系大使馆。领事馆"
+  },
+  {
+    "id": 208,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมไม่สบายครับ",
+    "romanization": "Phom mai sabai krap",
+    "translation": "我身体不舒服。生病了"
+  },
+  {
+    "id": 209,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมมีไข้ครับ",
+    "romanization": "Phom mi khai krap",
+    "translation": "我发烧了。体温高"
+  },
+  {
+    "id": 210,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมแพ้ยาเพนิซิลลินครับ",
+    "romanization": "Phom phae ya phenisillin krap",
+    "translation": "我对青霉素过敏。药物过敏"
+  },
+  {
+    "id": 211,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหนครับ",
+    "romanization": "Rong phayaban thi klai thisut yu thinai krap",
+    "translation": "最近的医院在哪？看医生"
+  },
+  {
+    "id": 212,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ร้านขายยาที่ใกล้ที่สุดอยู่ที่ไหนครับ",
+    "romanization": "Ran khaai yaa thi klai thisut yu thinai krap",
+    "translation": "最近的药店在哪？买药"
+  },
+  {
+    "id": 213,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "ผมต้องการพบหมอทันทีครับ",
+    "romanization": "Phom tonggan phop moo thanthi krap",
+    "translation": "我现在就要看医生。急诊"
+  },
+  {
+    "id": 214,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "มีคนตามผมอยู่ครับ",
+    "romanization": "Mi khon tam phom yu krap",
+    "translation": "有人在跟踪我。被跟踪"
+  },
+  {
     "id": 1,
     "category": "greetings",
     "category_zh": "问候",
@@ -158,646 +278,6 @@
     "text": "ลาก่อนครับ",
     "romanization": "La kon krap",
     "translation": "再见"
-  },
-  {
-    "id": 21,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ผมหิวครับ",
-    "romanization": "Phom hiu krap",
-    "translation": "我饿了"
-  },
-  {
-    "id": 22,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ผมกระหายน้ำครับ",
-    "romanization": "Phom krahai nam krap",
-    "translation": "我渴了"
-  },
-  {
-    "id": 23,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ผมต้องการอาหารครับ",
-    "romanization": "Phom tong kan ahah krap",
-    "translation": "我想要食物"
-  },
-  {
-    "id": 24,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ผมต้องการน้ำครับ",
-    "romanization": "Phom tong kan nam krap",
-    "translation": "我想要水"
-  },
-  {
-    "id": 25,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "อาหารที่คุณชอบคืออะไรครับ?",
-    "romanization": "Ahah thi khun chop khue arai krap?",
-    "translation": "你最喜欢的食物？"
-  },
-  {
-    "id": 26,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "เนื้อวัว",
-    "romanization": "Nuea wua",
-    "translation": "牛肉"
-  },
-  {
-    "id": 27,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "เนื้อไก่",
-    "romanization": "Nuea kai",
-    "translation": "鸡肉"
-  },
-  {
-    "id": 28,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ปลา",
-    "romanization": "Pla",
-    "translation": "鱼"
-  },
-  {
-    "id": 29,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ข้าว",
-    "romanization": "Khao",
-    "translation": "米饭"
-  },
-  {
-    "id": 30,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "ขนมปัง",
-    "romanization": "Khanom pang",
-    "translation": "面包"
-  },
-  {
-    "id": 31,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "สนามบินอยู่ที่ไหนครับ?",
-    "romanization": "Sanam bin yu thi nai krap?",
-    "translation": "机场在哪？"
-  },
-  {
-    "id": 32,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ผมต้องการตั๋วครับ",
-    "romanization": "Phom tong kan tua krap",
-    "translation": "我想要一张票"
-  },
-  {
-    "id": 33,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ราคาเท่าไหร่ครับ?",
-    "romanization": "Rakha tao rai krap?",
-    "translation": "多少钱？"
-  },
-  {
-    "id": 34,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "รถไฟออกกี่โมงครับ?",
-    "romanization": "Rot fai ok kee mong krap?",
-    "translation": "火车几点开？"
-  },
-  {
-    "id": 35,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "สถานีไหนครับ?",
-    "romanization": "Sathani nai krap?",
-    "translation": "在哪个站？"
-  },
-  {
-    "id": 36,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ขอโทษครับ ... อยู่ที่ไหน?",
-    "romanization": "Kho thot krap ... yu thi nai?",
-    "translation": "请问...在哪？"
-  },
-  {
-    "id": 37,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ผมต้องการแท็กซี่ครับ",
-    "romanization": "Phom tong kan taeksi krap",
-    "translation": "我要打车"
-  },
-  {
-    "id": 38,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ถึงที่นี่ครับ",
-    "romanization": "Thueng thi ni krap",
-    "translation": "到这里"
-  },
-  {
-    "id": 39,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "กรุณาหยุดที่นี่ครับ",
-    "romanization": "Karu na yud thi ni krap",
-    "translation": "请停车"
-  },
-  {
-    "id": 40,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ไกลแค่ไหนครับ?",
-    "romanization": "Klai khae nai krap?",
-    "translation": "距离多远？"
-  },
-  {
-    "id": 41,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ราคาเท่าไหร่ครับ?",
-    "romanization": "Rakha tao rai krap?",
-    "translation": "这个多少钱？"
-  },
-  {
-    "id": 42,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "แพงมากครับ",
-    "romanization": "Phaeng mak krap",
-    "translation": "太贵了"
-  },
-  {
-    "id": 43,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ถูกครับ",
-    "romanization": "Thuk krap",
-    "translation": "便宜"
-  },
-  {
-    "id": 44,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ต่อราคาได้ไหมครับ?",
-    "romanization": "Tor rakha dai mai krap?",
-    "translation": "能讲价吗？"
-  },
-  {
-    "id": 45,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ผมเอาอันนี้ครับ",
-    "romanization": "Phom ao an ni krap",
-    "translation": "我要这个"
-  },
-  {
-    "id": 46,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ร้าน...อยู่ที่ไหนครับ?",
-    "romanization": "Ran ... yu thi nai krap?",
-    "translation": "...店在哪？"
-  },
-  {
-    "id": 47,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ขนาด",
-    "romanization": "Khanat",
-    "translation": "尺寸"
-  },
-  {
-    "id": 48,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ผมต้องการกระเป๋าครับ",
-    "romanization": "Phom tong kan krapao krap",
-    "translation": "我要一个包"
-  },
-  {
-    "id": 49,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "เงินทอน",
-    "romanization": "Ngoen thon",
-    "translation": "找零"
-  },
-  {
-    "id": 50,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "ใบเสร็จ",
-    "romanization": "Bai set",
-    "translation": "收据"
-  },
-  {
-    "id": 51,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "เวลา",
-    "romanization": "Wela",
-    "translation": "时间"
-  },
-  {
-    "id": 52,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "วันนี้",
-    "romanization": "Wan ni",
-    "translation": "今天"
-  },
-  {
-    "id": 53,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "เมื่อวาน",
-    "romanization": "Muea waan",
-    "translation": "昨天"
-  },
-  {
-    "id": 54,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "พรุ่งนี้",
-    "romanization": "Phrung ni",
-    "translation": "明天"
-  },
-  {
-    "id": 55,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "ตอนเช้า",
-    "romanization": "Ton chao",
-    "translation": "早上"
-  },
-  {
-    "id": 56,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "ตอนเย็น",
-    "romanization": "Ton yen",
-    "translation": "晚上"
-  },
-  {
-    "id": 57,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "ตอนกลางคืน",
-    "romanization": "Ton klang khun",
-    "translation": "夜里"
-  },
-  {
-    "id": 58,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "ตอนนี้แปดโมง",
-    "romanization": "Ton ni paet mong",
-    "translation": "现在是8点"
-  },
-  {
-    "id": 59,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "นานแค่ไหนครับ?",
-    "romanization": "Nan khae nai krap?",
-    "translation": "多久？"
-  },
-  {
-    "id": 60,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "ห้าโมง",
-    "romanization": "Ha mong",
-    "translation": "5点钟"
-  },
-  {
-    "id": 61,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ห้องน้ำอยู่ที่ไหนครับ?",
-    "romanization": "Hong nam yu thi nai krap?",
-    "translation": "洗手间在哪？"
-  },
-  {
-    "id": 62,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "เลี้ยวขวา",
-    "romanization": "Liao khwa",
-    "translation": "向右"
-  },
-  {
-    "id": 63,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "เลี้ยวซ้าย",
-    "romanization": "Liao sai",
-    "translation": "向左"
-  },
-  {
-    "id": 64,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ตรงไป",
-    "romanization": "Trong pai",
-    "translation": "直走"
-  },
-  {
-    "id": 65,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ไกลครับ",
-    "romanization": "Klai krap",
-    "translation": "远"
-  },
-  {
-    "id": 66,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ใกล้ครับ",
-    "romanization": "Klai krap",
-    "translation": "近"
-  },
-  {
-    "id": 67,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ที่นี่",
-    "romanization": "Thi ni",
-    "translation": "这里"
-  },
-  {
-    "id": 68,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ที่นั่น",
-    "romanization": "Thi nan",
-    "translation": "那里"
-  },
-  {
-    "id": 69,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "ถนน",
-    "romanization": "Thanon",
-    "translation": "街道"
-  },
-  {
-    "id": 70,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "แผนที่",
-    "romanization": "Phan thi",
-    "translation": "地图"
-  },
-  {
-    "id": 71,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "หนึ่ง",
-    "romanization": "Nueng",
-    "translation": "一"
-  },
-  {
-    "id": 72,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "สอง",
-    "romanization": "Song",
-    "translation": "二"
-  },
-  {
-    "id": 73,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "สาม",
-    "romanization": "Sam",
-    "translation": "三"
-  },
-  {
-    "id": 74,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "สี่",
-    "romanization": "Si",
-    "translation": "四"
-  },
-  {
-    "id": 75,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "ห้า",
-    "romanization": "Ha",
-    "translation": "五"
-  },
-  {
-    "id": 76,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "หก",
-    "romanization": "Hok",
-    "translation": "六"
-  },
-  {
-    "id": 77,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "เจ็ด",
-    "romanization": "Chet",
-    "translation": "七"
-  },
-  {
-    "id": 78,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "แปด",
-    "romanization": "Paet",
-    "translation": "八"
-  },
-  {
-    "id": 79,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "เก้า",
-    "romanization": "Kao",
-    "translation": "九"
-  },
-  {
-    "id": 80,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "สิบ",
-    "romanization": "Sip",
-    "translation": "十"
-  },
-  {
-    "id": 81,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "พ่อ",
-    "romanization": "Pho",
-    "translation": "父亲"
-  },
-  {
-    "id": 82,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "แม่",
-    "romanization": "Mae",
-    "translation": "母亲"
-  },
-  {
-    "id": 83,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "พี่ชาย",
-    "romanization": "Phi chai",
-    "translation": "兄弟"
-  },
-  {
-    "id": 84,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "พี่สาว",
-    "romanization": "Phi sao",
-    "translation": "姐妹"
-  },
-  {
-    "id": 85,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "สามี",
-    "romanization": "Sami",
-    "translation": "丈夫"
-  },
-  {
-    "id": 86,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "ภรรยา",
-    "romanization": "Phanraya",
-    "translation": "妻子"
-  },
-  {
-    "id": 87,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "ลูกชาย",
-    "romanization": "Luk chai",
-    "translation": "儿子"
-  },
-  {
-    "id": 88,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "ลูกสาว",
-    "romanization": "Luk sao",
-    "translation": "女儿"
-  },
-  {
-    "id": 89,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "ครอบครัว",
-    "romanization": "Khop khrua",
-    "translation": "家庭"
-  },
-  {
-    "id": 90,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "ปู่",
-    "romanization": "Puu",
-    "translation": "祖父"
-  },
-  {
-    "id": 91,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "ใช่ครับ",
-    "romanization": "Chai krap",
-    "translation": "是"
-  },
-  {
-    "id": 92,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "ไม่ใช่ครับ",
-    "romanization": "Mai chai krap",
-    "translation": "不"
-  },
-  {
-    "id": 93,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "กรุณาครับ",
-    "romanization": "Karu na krap",
-    "translation": "请"
-  },
-  {
-    "id": 94,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "ขอโทษครับ",
-    "romanization": "Kho thot krap",
-    "translation": "对不起"
-  },
-  {
-    "id": 95,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "ผมไม่เข้าใจครับ",
-    "romanization": "Phom mai khao jai krap",
-    "translation": "我不懂"
-  },
-  {
-    "id": 96,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "ผมไม่พูดภาษาอังกฤษครับ",
-    "romanization": "Phom mai phut phasa Angkrit krap",
-    "translation": "我不会说英语"
-  },
-  {
-    "id": 97,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "คุณพูดภาษาจีนได้ไหมครับ?",
-    "romanization": "Khun phut phasa Chin dai mai krap?",
-    "translation": "你会说中文吗？"
-  },
-  {
-    "id": 98,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "คำนี้พูดว่าอย่างไรครับ?",
-    "romanization": "Kham ni phut wa yangrai krap?",
-    "translation": "这个词怎么说？"
-  },
-  {
-    "id": 99,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "หมายความว่าอะไรครับ?",
-    "romanization": "Mai khwam wa arai krap?",
-    "translation": "什么意思？"
-  },
-  {
-    "id": 100,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "ผมจะลองครับ",
-    "romanization": "Phom cha long krap",
-    "translation": "我试试"
   },
   {
     "id": 101,
@@ -960,54 +440,6 @@
     "translation": "请打扫房间"
   },
   {
-    "id": 121,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ผมมาทำงานครับ",
-    "romanization": "Phom ma tham ngan krap",
-    "translation": "我是来商务出差的"
-  },
-  {
-    "id": 122,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ผมมีวีซ่าธุรกิจครับ",
-    "romanization": "Phom mi wi sa thurakit krap",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 123,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ผมมาทำงานครับ",
-    "romanization": "Phom ma tham ngan krap",
-    "translation": "我来工作"
-  },
-  {
-    "id": 124,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ผมมาเรียนครับ",
-    "romanization": "Phom ma rian krap",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 125,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "ผมมีวีซ่านักเรียนครับ",
-    "romanization": "Phom mi wi sa nak rian krap",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 126,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "วัตถุประสงค์ของผมคือการเรียนครับ",
-    "romanization": "Wattaphu prasong thi khong phom khue kan rian krap",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 127,
     "category": "frontdesk",
     "category_zh": "前台常用",
@@ -1078,6 +510,14 @@
     "text": "กรุณาเรียกแท็กซี่ให้ผมครับ",
     "romanization": "Karu na riap taeksi hai phom krap",
     "translation": "请帮我叫出租车"
+  },
+  {
+    "id": 171,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "อาหารเช้าเวลาไหนครับ?",
+    "romanization": "Ahah chao wela nai krap?",
+    "translation": "请问早餐时间？"
   },
   {
     "id": 136,
@@ -1160,44 +600,324 @@
     "translation": "可以打包吗？"
   },
   {
-    "id": 146,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "ผมต้องการหมอครับ",
-    "romanization": "Phom tong kan mot krap",
-    "translation": "我需要医生"
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "สนามบินอยู่ที่ไหนครับ?",
+    "romanization": "Sanam bin yu thi nai krap?",
+    "translation": "机场在哪？"
   },
   {
-    "id": 147,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "โรงพยาบาลอยู่ที่ไหนครับ?",
-    "romanization": "Rong phayaban yu thi nai krap?",
-    "translation": "医院在哪？"
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ผมต้องการตั๋วครับ",
+    "romanization": "Phom tong kan tua krap",
+    "translation": "我想要一张票"
   },
   {
-    "id": 148,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "ร้านขายยาอยู่ที่ไหนครับ?",
-    "romanization": "Ran khai ya yu thi nai krap?",
-    "translation": "药店在哪？"
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ราคาเท่าไหร่ครับ?",
+    "romanization": "Rakha tao rai krap?",
+    "translation": "多少钱？"
   },
   {
-    "id": 149,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "ผมปวดหัวครับ",
-    "romanization": "Phom puad hua krap",
-    "translation": "我头痛"
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "รถไฟออกกี่โมงครับ?",
+    "romanization": "Rot fai ok kee mong krap?",
+    "translation": "火车几点开？"
   },
   {
-    "id": 150,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "ผมเป็นไข้ครับ",
-    "romanization": "Phom pen khai krap",
-    "translation": "我发烧"
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "สถานีไหนครับ?",
+    "romanization": "Sathani nai krap?",
+    "translation": "在哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ขอโทษครับ ... อยู่ที่ไหน?",
+    "romanization": "Kho thot krap ... yu thi nai?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ผมต้องการแท็กซี่ครับ",
+    "romanization": "Phom tong kan taeksi krap",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ถึงที่นี่ครับ",
+    "romanization": "Thueng thi ni krap",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "กรุณาหยุดที่นี่ครับ",
+    "romanization": "Karu na yud thi ni krap",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ไกลแค่ไหนครับ?",
+    "romanization": "Klai khae nai krap?",
+    "translation": "距离多远？"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ห้องน้ำอยู่ที่ไหนครับ?",
+    "romanization": "Hong nam yu thi nai krap?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "เลี้ยวขวา",
+    "romanization": "Liao khwa",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "เลี้ยวซ้าย",
+    "romanization": "Liao sai",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ตรงไป",
+    "romanization": "Trong pai",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ไกลครับ",
+    "romanization": "Klai krap",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ใกล้ครับ",
+    "romanization": "Klai krap",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ที่นี่",
+    "romanization": "Thi ni",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ที่นั่น",
+    "romanization": "Thi nan",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "ถนน",
+    "romanization": "Thanon",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "แผนที่",
+    "romanization": "Phan thi",
+    "translation": "地图"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ราคาเท่าไหร่ครับ?",
+    "romanization": "Rakha tao rai krap?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "แพงมากครับ",
+    "romanization": "Phaeng mak krap",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ถูกครับ",
+    "romanization": "Thuk krap",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ต่อราคาได้ไหมครับ?",
+    "romanization": "Tor rakha dai mai krap?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ผมเอาอันนี้ครับ",
+    "romanization": "Phom ao an ni krap",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ร้าน...อยู่ที่ไหนครับ?",
+    "romanization": "Ran ... yu thi nai krap?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ขนาด",
+    "romanization": "Khanat",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ผมต้องการกระเป๋าครับ",
+    "romanization": "Phom tong kan krapao krap",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "เงินทอน",
+    "romanization": "Ngoen thon",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "ใบเสร็จ",
+    "romanization": "Bai set",
+    "translation": "收据"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ผมหิวครับ",
+    "romanization": "Phom hiu krap",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ผมกระหายน้ำครับ",
+    "romanization": "Phom krahai nam krap",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ผมต้องการอาหารครับ",
+    "romanization": "Phom tong kan ahah krap",
+    "translation": "我想要食物"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ผมต้องการน้ำครับ",
+    "romanization": "Phom tong kan nam krap",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "อาหารที่คุณชอบคืออะไรครับ?",
+    "romanization": "Ahah thi khun chop khue arai krap?",
+    "translation": "你最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "เนื้อวัว",
+    "romanization": "Nuea wua",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "เนื้อไก่",
+    "romanization": "Nuea kai",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ปลา",
+    "romanization": "Pla",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ข้าว",
+    "romanization": "Khao",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "ขนมปัง",
+    "romanization": "Khanom pang",
+    "translation": "面包"
   },
   {
     "id": 151,
@@ -1280,92 +1000,164 @@
     "translation": "紧急电话是多少？"
   },
   {
-    "id": 161,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "ขอสอบถามนามสกุลครับ?",
-    "romanization": "Kho sop tham nam sakun krap?",
-    "translation": "请问您贵姓？"
+    "id": 220,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "เปิดกี่โมงครับ",
+    "romanization": "Bphet gi mong krap",
+    "translation": "几点开门？营业时间"
   },
   {
-    "id": 162,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "ผมชื่อ...",
-    "romanization": "Phom chue...",
-    "translation": "我叫..."
+    "id": 221,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ปิดกี่โมงครับ",
+    "romanization": "Pit gi mong krap",
+    "translation": "几点关门？营业时间是几点"
   },
   {
-    "id": 163,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "ยินดีที่ได้รู้จักครับ",
-    "romanization": "Yindee thi dai ru jak krap",
-    "translation": "很高兴认识您"
+    "id": 222,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ที่นั่งนี้ว่างไหมครับ",
+    "romanization": "Thanang ni wang mai krap",
+    "translation": "这个座位有人吗？可以坐这里"
   },
   {
-    "id": 164,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "ตำแหน่งของคุณคืออะไรครับ?",
-    "romanization": "Tamnaeng khong khun khue arai krap?",
-    "translation": "请问您的职务是？"
+    "id": 223,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ที่ขายตั๋วอยู่ที่ไหนครับ",
+    "romanization": "Than khaai dtue yu thinai krap",
+    "translation": "售票处在哪？买票"
   },
   {
-    "id": 165,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "นัดประชุมได้ไหมครับ?",
-    "romanization": "Nat prachum dai mai krap?",
-    "translation": "我们能约个时间吗？"
+    "id": 224,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ค่าเข้าชมเท่าไหร่ครับ",
+    "romanization": "Kha khao chom thaorai krap",
+    "translation": "门票多少钱？景点门票价格"
   },
   {
-    "id": 166,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "นี่คือนามบัตรของผมครับ",
-    "romanization": "Ni khue nam bat khong phom krap",
-    "translation": "这是我的名片"
+    "id": 225,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ต้องจองล่วงหน้าไหมครับ",
+    "romanization": "Tong jong longnanga mai krap",
+    "translation": "需要提前预订吗？要预约吗"
   },
   {
-    "id": 167,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "กรุณาส่งอีเมลถึงผมครับ",
-    "romanization": "Karu na song email thueng phom krap",
-    "translation": "请发邮件给我"
+    "id": 226,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "มีส่วนลดนักเรียนไหมครับ",
+    "romanization": "Mi suan lot nakrian mai krap",
+    "translation": "有学生票吗？学生优惠"
   },
   {
-    "id": 168,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "กรุณาเพิ่มเพื่อนในไวเก็ตครับ",
-    "romanization": "Karu na phoem phuen nai WeChat krap",
-    "translation": "请加我微信"
+    "id": 227,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ต้องให้ทิปไหมครับ",
+    "romanization": "Tong hai tip mai krap",
+    "translation": "需要付小费吗？tip 小费"
   },
   {
-    "id": 169,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "ขอบคุณสำหรับการต้อนรับครับ",
-    "romanization": "Khob khun samrap kan ton rap krap",
-    "translation": "谢谢您的款待"
+    "id": 228,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ถ่ายรูปตรงนี้ได้ไหมครับ",
+    "romanization": "Thay rup trong ni dai mai krap",
+    "translation": "这里可以拍照吗？能拍照吗"
   },
   {
-    "id": 170,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "หวังว่าจะได้พบอีกครับ",
-    "romanization": "Wang wa cha dai phop ik krap",
-    "translation": "后会有期"
+    "id": 229,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "สูบบุหรี่ตรงนี้ได้ไหมครับ",
+    "romanization": "Sup boo ri trong ni dai mai krap",
+    "translation": "这里允许吸烟吗？禁烟规定"
   },
   {
-    "id": 171,
-    "category": "frontdesk",
-    "category_zh": "前台常用",
-    "text": "อาหารเช้าเวลาไหนครับ?",
-    "romanization": "Ahah chao wela nai krap?",
-    "translation": "请问早餐时间？"
+    "id": 230,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ผมต้องการร้องเรียนครับ",
+    "romanization": "Phom tonggan rongrian krap",
+    "translation": "我要投诉。投诉服务员"
+  },
+  {
+    "id": 231,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "เบอร์โทรฉุกเฉินท้องถิ่นคืออะไรครับ",
+    "romanization": "Boer thon chukchoen thong thin khu arai krap",
+    "translation": "当地的紧急电话是多少？当地报警电话"
+  },
+  {
+    "id": 232,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "หาแท็กซี่ได้ที่ไหนครับ",
+    "romanization": "Ha taek si dai thi thinai krap",
+    "translation": "哪里可以打车？出租车在哪"
+  },
+  {
+    "id": 233,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "ใช้เวลานานแค่ไหนครับ",
+    "romanization": "Chai wela nan khae nai krap",
+    "translation": "这需要多长时间？要多久"
+  },
+  {
+    "id": 234,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "เวลาทำการคืออะไรครับ",
+    "romanization": "Wela tham kan khu arai krap",
+    "translation": "营业时间是几点？开门时间"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "ผมต้องการหมอครับ",
+    "romanization": "Phom tong kan mot krap",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "โรงพยาบาลอยู่ที่ไหนครับ?",
+    "romanization": "Rong phayaban yu thi nai krap?",
+    "translation": "医院在哪？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "ร้านขายยาอยู่ที่ไหนครับ?",
+    "romanization": "Ran khai ya yu thi nai krap?",
+    "translation": "药店在哪？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "ผมปวดหัวครับ",
+    "romanization": "Phom puad hua krap",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "ผมเป็นไข้ครับ",
+    "romanization": "Phom pen khai krap",
+    "translation": "我发烧"
   },
   {
     "id": 172,
@@ -1408,6 +1200,374 @@
     "translation": "请叫救护车"
   },
   {
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ใช่ครับ",
+    "romanization": "Chai krap",
+    "translation": "是"
+  },
+  {
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ไม่ใช่ครับ",
+    "romanization": "Mai chai krap",
+    "translation": "不"
+  },
+  {
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "กรุณาครับ",
+    "romanization": "Karu na krap",
+    "translation": "请"
+  },
+  {
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ขอโทษครับ",
+    "romanization": "Kho thot krap",
+    "translation": "对不起"
+  },
+  {
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ผมไม่เข้าใจครับ",
+    "romanization": "Phom mai khao jai krap",
+    "translation": "我不懂"
+  },
+  {
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ผมไม่พูดภาษาอังกฤษครับ",
+    "romanization": "Phom mai phut phasa Angkrit krap",
+    "translation": "我不会说英语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "คุณพูดภาษาจีนได้ไหมครับ?",
+    "romanization": "Khun phut phasa Chin dai mai krap?",
+    "translation": "你会说中文吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "คำนี้พูดว่าอย่างไรครับ?",
+    "romanization": "Kham ni phut wa yangrai krap?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "หมายความว่าอะไรครับ?",
+    "romanization": "Mai khwam wa arai krap?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "ผมจะลองครับ",
+    "romanization": "Phom cha long krap",
+    "translation": "我试试"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "เวลา",
+    "romanization": "Wela",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "วันนี้",
+    "romanization": "Wan ni",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "เมื่อวาน",
+    "romanization": "Muea waan",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "พรุ่งนี้",
+    "romanization": "Phrung ni",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "ตอนเช้า",
+    "romanization": "Ton chao",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "ตอนเย็น",
+    "romanization": "Ton yen",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "ตอนกลางคืน",
+    "romanization": "Ton klang khun",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "ตอนนี้แปดโมง",
+    "romanization": "Ton ni paet mong",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "นานแค่ไหนครับ?",
+    "romanization": "Nan khae nai krap?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "ห้าโมง",
+    "romanization": "Ha mong",
+    "translation": "5点钟"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "หนึ่ง",
+    "romanization": "Nueng",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "สอง",
+    "romanization": "Song",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "สาม",
+    "romanization": "Sam",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "สี่",
+    "romanization": "Si",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "ห้า",
+    "romanization": "Ha",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "หก",
+    "romanization": "Hok",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "เจ็ด",
+    "romanization": "Chet",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "แปด",
+    "romanization": "Paet",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "เก้า",
+    "romanization": "Kao",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "สิบ",
+    "romanization": "Sip",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "พ่อ",
+    "romanization": "Pho",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "แม่",
+    "romanization": "Mae",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "พี่ชาย",
+    "romanization": "Phi chai",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "พี่สาว",
+    "romanization": "Phi sao",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "สามี",
+    "romanization": "Sami",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "ภรรยา",
+    "romanization": "Phanraya",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "ลูกชาย",
+    "romanization": "Luk chai",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "ลูกสาว",
+    "romanization": "Luk sao",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "ครอบครัว",
+    "romanization": "Khop khrua",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "ปู่",
+    "romanization": "Puu",
+    "translation": "祖父"
+  },
+  {
+    "id": 121,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ผมมาทำงานครับ",
+    "romanization": "Phom ma tham ngan krap",
+    "translation": "我是来商务出差的"
+  },
+  {
+    "id": 122,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ผมมีวีซ่าธุรกิจครับ",
+    "romanization": "Phom mi wi sa thurakit krap",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 123,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ผมมาทำงานครับ",
+    "romanization": "Phom ma tham ngan krap",
+    "translation": "我来工作"
+  },
+  {
+    "id": 124,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ผมมาเรียนครับ",
+    "romanization": "Phom ma rian krap",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 125,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "ผมมีวีซ่านักเรียนครับ",
+    "romanization": "Phom mi wi sa nak rian krap",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 126,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "วัตถุประสงค์ของผมคือการเรียนครับ",
+    "romanization": "Wattaphu prasong thi khong phom khue kan rian krap",
+    "translation": "我的目的是学习"
+  },
+  {
     "id": 177,
     "category": "visa",
     "category_zh": "签证类型",
@@ -1438,5 +1598,85 @@
     "text": "ผมต้องการขอต่ออายุครับ",
     "romanization": "Phom tong kan kho tor ayu krap",
     "translation": "我想申请延期"
+  },
+  {
+    "id": 161,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "ขอสอบถามนามสกุลครับ?",
+    "romanization": "Kho sop tham nam sakun krap?",
+    "translation": "请问您贵姓？"
+  },
+  {
+    "id": 162,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "ผมชื่อ...",
+    "romanization": "Phom chue...",
+    "translation": "我叫..."
+  },
+  {
+    "id": 163,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "ยินดีที่ได้รู้จักครับ",
+    "romanization": "Yindee thi dai ru jak krap",
+    "translation": "很高兴认识您"
+  },
+  {
+    "id": 164,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "ตำแหน่งของคุณคืออะไรครับ?",
+    "romanization": "Tamnaeng khong khun khue arai krap?",
+    "translation": "请问您的职务是？"
+  },
+  {
+    "id": 165,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "นัดประชุมได้ไหมครับ?",
+    "romanization": "Nat prachum dai mai krap?",
+    "translation": "我们能约个时间吗？"
+  },
+  {
+    "id": 166,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "นี่คือนามบัตรของผมครับ",
+    "romanization": "Ni khue nam bat khong phom krap",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 167,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "กรุณาส่งอีเมลถึงผมครับ",
+    "romanization": "Karu na song email thueng phom krap",
+    "translation": "请发邮件给我"
+  },
+  {
+    "id": 168,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "กรุณาเพิ่มเพื่อนในไวเก็ตครับ",
+    "romanization": "Karu na phoem phuen nai WeChat krap",
+    "translation": "请加我微信"
+  },
+  {
+    "id": 169,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "ขอบคุณสำหรับการต้อนรับครับ",
+    "romanization": "Khob khun samrap kan ton rap krap",
+    "translation": "谢谢您的款待"
+  },
+  {
+    "id": 170,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "หวังว่าจะได้พบอีกครับ",
+    "romanization": "Wang wa cha dai phop ik krap",
+    "translation": "后会有期"
   }
 ]

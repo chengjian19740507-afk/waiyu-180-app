@@ -1,5 +1,125 @@
 [
   {
+    "id": 200,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Aiuto!",
+    "romanization": "Aiuto!",
+    "translation": "救命！"
+  },
+  {
+    "id": 201,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Ho bisogno di aiuto!",
+    "romanization": "Ho bisogno di aiuto!",
+    "translation": "我需要帮助！"
+  },
+  {
+    "id": 202,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Chiami un'ambulanza, per favore!",
+    "romanization": "Chiami un'ambulanza, per favore!",
+    "translation": "请叫救护车！急救电话怎么说"
+  },
+  {
+    "id": 203,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Chiami la polizia, per favore.",
+    "romanization": "Chiami la polizia, per favore.",
+    "translation": "请报警。报警电话是多少"
+  },
+  {
+    "id": 204,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Qual è il numero di emergenza qui?",
+    "romanization": "Qual è il numero di emergenza qui?",
+    "translation": "这里的紧急电话是多少？紧急电话号码"
+  },
+  {
+    "id": 205,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Ho perso il passaporto.",
+    "romanization": "Ho perso il passaporto.",
+    "translation": "我的护照丢了。护照遗失"
+  },
+  {
+    "id": 206,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Mi hanno rubato il portafoglio.",
+    "romanization": "Mi hanno rubato il portafoglio.",
+    "translation": "我的钱包被偷了。东西被偷"
+  },
+  {
+    "id": 207,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Devo contattare la mia ambasciata.",
+    "romanization": "Devo contattare la mia ambasciata.",
+    "translation": "我要联系大使馆。领事馆"
+  },
+  {
+    "id": 208,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Sto male.",
+    "romanization": "Sto male.",
+    "translation": "我身体不舒服。生病了"
+  },
+  {
+    "id": 209,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Ho la febbre.",
+    "romanization": "Ho la febbre.",
+    "translation": "我发烧了。体温高"
+  },
+  {
+    "id": 210,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Sono allergico alla penicillina.",
+    "romanization": "Sono allergico alla penicillina.",
+    "translation": "我对青霉素过敏。药物过敏"
+  },
+  {
+    "id": 211,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Dov'è l'ospedale più vicino?",
+    "romanization": "Dov'è l'ospedale più vicino?",
+    "translation": "最近的医院在哪？看医生"
+  },
+  {
+    "id": 212,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Dov'è la farmacia più vicina?",
+    "romanization": "Dov'è la farmacia più vicina?",
+    "translation": "最近的药店在哪？买药"
+  },
+  {
+    "id": 213,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Ho bisogno di vedere un medico subito.",
+    "romanization": "Ho bisogno di vedere un medico subito.",
+    "translation": "我现在就要看医生。急诊"
+  },
+  {
+    "id": 214,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Qualcuno mi sta seguendo.",
+    "romanization": "Qualcuno mi sta seguendo.",
+    "translation": "有人在跟踪我。被跟踪"
+  },
+  {
     "id": 1,
     "category": "greetings",
     "category_zh": "问候",
@@ -158,646 +278,6 @@
     "text": "Arrivederci",
     "romanization": "Arrivederci",
     "translation": "再见"
-  },
-  {
-    "id": 21,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Ho fame",
-    "romanization": "Ho fame",
-    "translation": "我饿了"
-  },
-  {
-    "id": 22,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Ho sete",
-    "romanization": "Ho sete",
-    "translation": "我渴了"
-  },
-  {
-    "id": 23,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Vorrei qualcosa da mangiare",
-    "romanization": "Vorrei qualcosa da mangiare",
-    "translation": "我想要食物"
-  },
-  {
-    "id": 24,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Vorrei dell'acqua",
-    "romanization": "Vorrei dell'acqua",
-    "translation": "我想要水"
-  },
-  {
-    "id": 25,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Qual è il Suo cibo preferito?",
-    "romanization": "Qual è il Suo cibo preferito?",
-    "translation": "你最喜欢的食物？"
-  },
-  {
-    "id": 26,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Manzo",
-    "romanization": "Manzo",
-    "translation": "牛肉"
-  },
-  {
-    "id": 27,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Pollo",
-    "romanization": "Pollo",
-    "translation": "鸡肉"
-  },
-  {
-    "id": 28,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Pesce",
-    "romanization": "Pesce",
-    "translation": "鱼"
-  },
-  {
-    "id": 29,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Riso",
-    "romanization": "Riso",
-    "translation": "米饭"
-  },
-  {
-    "id": 30,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Pane",
-    "romanization": "Pane",
-    "translation": "面包"
-  },
-  {
-    "id": 31,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Dov'è l'aeroporto?",
-    "romanization": "Dov'è l'aeroporto?",
-    "translation": "机场在哪？"
-  },
-  {
-    "id": 32,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Vorrei un biglietto",
-    "romanization": "Vorrei un biglietto",
-    "translation": "我想要一张票"
-  },
-  {
-    "id": 33,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Quanto costa?",
-    "romanization": "Quanto costa?",
-    "translation": "多少钱？"
-  },
-  {
-    "id": 34,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "A che ora parte il treno?",
-    "romanization": "A che ora parte il treno?",
-    "translation": "火车几点开？"
-  },
-  {
-    "id": 35,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Quale stazione?",
-    "romanization": "Quale stazione?",
-    "translation": "在哪个站？"
-  },
-  {
-    "id": 36,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Mi scusi, dov'è...?",
-    "romanization": "Mi scusi, dov'è...?",
-    "translation": "请问...在哪？"
-  },
-  {
-    "id": 37,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Vorrei un taxi",
-    "romanization": "Vorrei un taxi",
-    "translation": "我要打车"
-  },
-  {
-    "id": 38,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Qui",
-    "romanization": "Qui",
-    "translation": "到这里"
-  },
-  {
-    "id": 39,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Si fermi qui, per favore",
-    "romanization": "Si fermi qui, per favore",
-    "translation": "请停车"
-  },
-  {
-    "id": 40,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Quanto è lontano?",
-    "romanization": "Quanto è lontano?",
-    "translation": "距离多远？"
-  },
-  {
-    "id": 41,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Quanto costa questo?",
-    "romanization": "Quanto costa questo?",
-    "translation": "这个多少钱？"
-  },
-  {
-    "id": 42,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Troppo caro",
-    "romanization": "Troppo caro",
-    "translation": "太贵了"
-  },
-  {
-    "id": 43,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "È economico",
-    "romanization": "È economico",
-    "translation": "便宜"
-  },
-  {
-    "id": 44,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Posso negoziare?",
-    "romanization": "Posso negoziare?",
-    "translation": "能讲价吗？"
-  },
-  {
-    "id": 45,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Vorrei questo",
-    "romanization": "Vorrei questo",
-    "translation": "我要这个"
-  },
-  {
-    "id": 46,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Dov'è il negozio di...?",
-    "romanization": "Dov'è il negozio di...?",
-    "translation": "...店在哪？"
-  },
-  {
-    "id": 47,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "La taglia",
-    "romanization": "La taglia",
-    "translation": "尺寸"
-  },
-  {
-    "id": 48,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Vorrei una borsa",
-    "romanization": "Vorrei una borsa",
-    "translation": "我要一个包"
-  },
-  {
-    "id": 49,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Il resto",
-    "romanization": "Il resto",
-    "translation": "找零"
-  },
-  {
-    "id": 50,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Lo scontrino",
-    "romanization": "Lo scontrino",
-    "translation": "收据"
-  },
-  {
-    "id": 51,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "L'ora",
-    "romanization": "L'ora",
-    "translation": "时间"
-  },
-  {
-    "id": 52,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Oggi",
-    "romanization": "Oggi",
-    "translation": "今天"
-  },
-  {
-    "id": 53,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Ieri",
-    "romanization": "Ieri",
-    "translation": "昨天"
-  },
-  {
-    "id": 54,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Domani",
-    "romanization": "Domani",
-    "translation": "明天"
-  },
-  {
-    "id": 55,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Di mattina",
-    "romanization": "Di mattina",
-    "translation": "早上"
-  },
-  {
-    "id": 56,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Di sera",
-    "romanization": "Di sera",
-    "translation": "晚上"
-  },
-  {
-    "id": 57,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Di notte",
-    "romanization": "Di notte",
-    "translation": "夜里"
-  },
-  {
-    "id": 58,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Sono le otto adesso",
-    "romanization": "Sono le otto adesso",
-    "translation": "现在是8点"
-  },
-  {
-    "id": 59,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Quanto tempo?",
-    "romanization": "Quanto tempo?",
-    "translation": "多久？"
-  },
-  {
-    "id": 60,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Alle cinque",
-    "romanization": "Alle cinque",
-    "translation": "5点钟"
-  },
-  {
-    "id": 61,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Dov'è il bagno?",
-    "romanization": "Dov'è il bagno?",
-    "translation": "洗手间在哪？"
-  },
-  {
-    "id": 62,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Giri a destra",
-    "romanization": "Giri a destra",
-    "translation": "向右"
-  },
-  {
-    "id": 63,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Giri a sinistra",
-    "romanization": "Giri a sinistra",
-    "translation": "向左"
-  },
-  {
-    "id": 64,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Vada dritto",
-    "romanization": "Vada dritto",
-    "translation": "直走"
-  },
-  {
-    "id": 65,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "È lontano",
-    "romanization": "È lontano",
-    "translation": "远"
-  },
-  {
-    "id": 66,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "È vicino",
-    "romanization": "È vicino",
-    "translation": "近"
-  },
-  {
-    "id": 67,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Qui",
-    "romanization": "Qui",
-    "translation": "这里"
-  },
-  {
-    "id": 68,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Lì",
-    "romanization": "Lì",
-    "translation": "那里"
-  },
-  {
-    "id": 69,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "La strada",
-    "romanization": "La strada",
-    "translation": "街道"
-  },
-  {
-    "id": 70,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "La mappa",
-    "romanization": "La mappa",
-    "translation": "地图"
-  },
-  {
-    "id": 71,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Uno",
-    "romanization": "Uno",
-    "translation": "一"
-  },
-  {
-    "id": 72,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Due",
-    "romanization": "Due",
-    "translation": "二"
-  },
-  {
-    "id": 73,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Tre",
-    "romanization": "Tre",
-    "translation": "三"
-  },
-  {
-    "id": 74,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Quattro",
-    "romanization": "Quattro",
-    "translation": "四"
-  },
-  {
-    "id": 75,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Cinque",
-    "romanization": "Cinque",
-    "translation": "五"
-  },
-  {
-    "id": 76,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Sei",
-    "romanization": "Sei",
-    "translation": "六"
-  },
-  {
-    "id": 77,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Sette",
-    "romanization": "Sette",
-    "translation": "七"
-  },
-  {
-    "id": 78,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Otto",
-    "romanization": "Otto",
-    "translation": "八"
-  },
-  {
-    "id": 79,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Nove",
-    "romanization": "Nove",
-    "translation": "九"
-  },
-  {
-    "id": 80,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Dieci",
-    "romanization": "Dieci",
-    "translation": "十"
-  },
-  {
-    "id": 81,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Padre",
-    "romanization": "Padre",
-    "translation": "父亲"
-  },
-  {
-    "id": 82,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Madre",
-    "romanization": "Madre",
-    "translation": "母亲"
-  },
-  {
-    "id": 83,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Fratello",
-    "romanization": "Fratello",
-    "translation": "兄弟"
-  },
-  {
-    "id": 84,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Sorella",
-    "romanization": "Sorella",
-    "translation": "姐妹"
-  },
-  {
-    "id": 85,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Marito",
-    "romanization": "Marito",
-    "translation": "丈夫"
-  },
-  {
-    "id": 86,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Moglie",
-    "romanization": "Moglie",
-    "translation": "妻子"
-  },
-  {
-    "id": 87,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Figlio",
-    "romanization": "Figlio",
-    "translation": "儿子"
-  },
-  {
-    "id": 88,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Figlia",
-    "romanization": "Figlia",
-    "translation": "女儿"
-  },
-  {
-    "id": 89,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Famiglia",
-    "romanization": "Famiglia",
-    "translation": "家庭"
-  },
-  {
-    "id": 90,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Nonno",
-    "romanization": "Nonno",
-    "translation": "祖父"
-  },
-  {
-    "id": 91,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Sì",
-    "romanization": "Sì",
-    "translation": "是"
-  },
-  {
-    "id": 92,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "No",
-    "romanization": "No",
-    "translation": "不"
-  },
-  {
-    "id": 93,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Per favore",
-    "romanization": "Per favore",
-    "translation": "请"
-  },
-  {
-    "id": 94,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Mi scusi",
-    "romanization": "Mi scusi",
-    "translation": "对不起"
-  },
-  {
-    "id": 95,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Non capisco",
-    "romanization": "Non capisco",
-    "translation": "我不懂"
-  },
-  {
-    "id": 96,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Non parlo inglese",
-    "romanization": "Non parlo inglese",
-    "translation": "我不会说英语"
-  },
-  {
-    "id": 97,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Parla cinese?",
-    "romanization": "Parla cinese?",
-    "translation": "你会说中文吗？"
-  },
-  {
-    "id": 98,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Come si dice questa parola?",
-    "romanization": "Come si dice questa parola?",
-    "translation": "这个词怎么说？"
-  },
-  {
-    "id": 99,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Che cosa significa?",
-    "romanization": "Che cosa significa?",
-    "translation": "什么意思？"
-  },
-  {
-    "id": 100,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Proverò",
-    "romanization": "Proverò",
-    "translation": "我试试"
   },
   {
     "id": 101,
@@ -960,54 +440,6 @@
     "translation": "请打扫房间"
   },
   {
-    "id": 121,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Sono in viaggio d'affari",
-    "romanization": "Sono in viaggio d'affari",
-    "translation": "我是来商务出差的"
-  },
-  {
-    "id": 122,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Ho un visto d'affari",
-    "romanization": "Ho un visto d'affari",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 123,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Sono qui per lavoro",
-    "romanization": "Sono qui per lavoro",
-    "translation": "我来工作"
-  },
-  {
-    "id": 124,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Sto studiando qui",
-    "romanization": "Sto studiando qui",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 125,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Ho un visto di studio",
-    "romanization": "Ho un visto di studio",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 126,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Il mio scopo è studiare",
-    "romanization": "Il mio scopo è studiare",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 127,
     "category": "frontdesk",
     "category_zh": "前台常用",
@@ -1078,6 +510,14 @@
     "text": "Può chiamarmi un taxi?",
     "romanization": "Può chiamarmi un taxi?",
     "translation": "请帮我叫出租车"
+  },
+  {
+    "id": 171,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "A che ora è la colazione?",
+    "romanization": "A che ora è la colazione?",
+    "translation": "请问早餐时间？"
   },
   {
     "id": 136,
@@ -1160,44 +600,324 @@
     "translation": "可以打包吗？"
   },
   {
-    "id": 146,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Ho bisogno di un medico",
-    "romanization": "Ho bisogno di un medico",
-    "translation": "我需要医生"
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Dov'è l'aeroporto?",
+    "romanization": "Dov'è l'aeroporto?",
+    "translation": "机场在哪？"
   },
   {
-    "id": 147,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Dov'è l'ospedale?",
-    "romanization": "Dov'è l'ospedale?",
-    "translation": "医院在哪？"
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Vorrei un biglietto",
+    "romanization": "Vorrei un biglietto",
+    "translation": "我想要一张票"
   },
   {
-    "id": 148,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Dov'è la farmacia?",
-    "romanization": "Dov'è la farmacia?",
-    "translation": "药店在哪？"
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Quanto costa?",
+    "romanization": "Quanto costa?",
+    "translation": "多少钱？"
   },
   {
-    "id": 149,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Ho mal di testa",
-    "romanization": "Ho mal di testa",
-    "translation": "我头痛"
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "A che ora parte il treno?",
+    "romanization": "A che ora parte il treno?",
+    "translation": "火车几点开？"
   },
   {
-    "id": 150,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Ho la febbre",
-    "romanization": "Ho la febbre",
-    "translation": "我发烧"
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Quale stazione?",
+    "romanization": "Quale stazione?",
+    "translation": "在哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Mi scusi, dov'è...?",
+    "romanization": "Mi scusi, dov'è...?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Vorrei un taxi",
+    "romanization": "Vorrei un taxi",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Qui",
+    "romanization": "Qui",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Si fermi qui, per favore",
+    "romanization": "Si fermi qui, per favore",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Quanto è lontano?",
+    "romanization": "Quanto è lontano?",
+    "translation": "距离多远？"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Dov'è il bagno?",
+    "romanization": "Dov'è il bagno?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Giri a destra",
+    "romanization": "Giri a destra",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Giri a sinistra",
+    "romanization": "Giri a sinistra",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Vada dritto",
+    "romanization": "Vada dritto",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "È lontano",
+    "romanization": "È lontano",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "È vicino",
+    "romanization": "È vicino",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Qui",
+    "romanization": "Qui",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Lì",
+    "romanization": "Lì",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "La strada",
+    "romanization": "La strada",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "La mappa",
+    "romanization": "La mappa",
+    "translation": "地图"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Quanto costa questo?",
+    "romanization": "Quanto costa questo?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Troppo caro",
+    "romanization": "Troppo caro",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "È economico",
+    "romanization": "È economico",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Posso negoziare?",
+    "romanization": "Posso negoziare?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Vorrei questo",
+    "romanization": "Vorrei questo",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Dov'è il negozio di...?",
+    "romanization": "Dov'è il negozio di...?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "La taglia",
+    "romanization": "La taglia",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Vorrei una borsa",
+    "romanization": "Vorrei una borsa",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Il resto",
+    "romanization": "Il resto",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Lo scontrino",
+    "romanization": "Lo scontrino",
+    "translation": "收据"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Ho fame",
+    "romanization": "Ho fame",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Ho sete",
+    "romanization": "Ho sete",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Vorrei qualcosa da mangiare",
+    "romanization": "Vorrei qualcosa da mangiare",
+    "translation": "我想要食物"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Vorrei dell'acqua",
+    "romanization": "Vorrei dell'acqua",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Qual è il Suo cibo preferito?",
+    "romanization": "Qual è il Suo cibo preferito?",
+    "translation": "你最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Manzo",
+    "romanization": "Manzo",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Pollo",
+    "romanization": "Pollo",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Pesce",
+    "romanization": "Pesce",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Riso",
+    "romanization": "Riso",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Pane",
+    "romanization": "Pane",
+    "translation": "面包"
   },
   {
     "id": 151,
@@ -1280,92 +1000,164 @@
     "translation": "紧急电话是多少？"
   },
   {
-    "id": 161,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Posso chiedere il Suo cognome?",
-    "romanization": "Posso chiedere il Suo cognome?",
-    "translation": "请问您贵姓？"
+    "id": 220,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "A che ora aprite?",
+    "romanization": "A che ora aprite?",
+    "translation": "几点开门？营业时间"
   },
   {
-    "id": 162,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Mi chiamo...",
-    "romanization": "Mi chiamo...",
-    "translation": "我叫..."
+    "id": 221,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "A che ora chiudete?",
+    "romanization": "A che ora chiudete?",
+    "translation": "几点关门？营业时间是几点"
   },
   {
-    "id": 163,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Piacere di conoscerLa",
-    "romanization": "Piacere di conoscerLa",
-    "translation": "很高兴认识您"
+    "id": 222,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Questo posto è libero?",
+    "romanization": "Questo posto è libero?",
+    "translation": "这个座位有人吗？可以坐这里"
   },
   {
-    "id": 164,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Qual è la Sua posizione?",
-    "romanization": "Qual è la Sua posizione?",
-    "translation": "请问您的职务是？"
+    "id": 223,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Dov'è la biglietteria?",
+    "romanization": "Dov'è la biglietteria?",
+    "translation": "售票处在哪？买票"
   },
   {
-    "id": 165,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Possiamo fissare un appuntamento?",
-    "romanization": "Possiamo fissare un appuntamento?",
-    "translation": "我们能约个时间吗？"
+    "id": 224,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Quanto costa l'ingresso?",
+    "romanization": "Quanto costa l'ingresso?",
+    "translation": "门票多少钱？景点门票价格"
   },
   {
-    "id": 166,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Ecco il mio biglietto da visita",
-    "romanization": "Ecco il mio biglietto da visita",
-    "translation": "这是我的名片"
+    "id": 225,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Devo prenotare in anticipo?",
+    "romanization": "Devo prenotare in anticipo?",
+    "translation": "需要提前预订吗？要预约吗"
   },
   {
-    "id": 167,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Mi può mandare una email",
-    "romanization": "Mi può mandare una email",
-    "translation": "请发邮件给我"
+    "id": 226,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "C'è uno sconto per studenti?",
+    "romanization": "C'è uno sconto per studenti?",
+    "translation": "有学生票吗？学生优惠"
   },
   {
-    "id": 168,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Mi può aggiungere su WeChat",
-    "romanization": "Mi può aggiungere su WeChat",
-    "translation": "请加我微信"
+    "id": 227,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Devo lasciare la mancia?",
+    "romanization": "Devo lasciare la mancia?",
+    "translation": "需要付小费吗？tip 小费"
   },
   {
-    "id": 169,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "La ringrazio per la Sua ospitalità",
-    "romanization": "La ringrazio per la Sua ospitalità",
-    "translation": "谢谢您的款待"
+    "id": 228,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Posso fare foto qui?",
+    "romanization": "Posso fare foto qui?",
+    "translation": "这里可以拍照吗？能拍照吗"
   },
   {
-    "id": 170,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Spero di rivederLa",
-    "romanization": "Spero di rivederLa",
-    "translation": "后会有期"
+    "id": 229,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Si può fumare qui?",
+    "romanization": "Si può fumare qui?",
+    "translation": "这里允许吸烟吗？禁烟规定"
   },
   {
-    "id": 171,
-    "category": "frontdesk",
-    "category_zh": "前台常用",
-    "text": "A che ora è la colazione?",
-    "romanization": "A che ora è la colazione?",
-    "translation": "请问早餐时间？"
+    "id": 230,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Voglio fare un reclamo.",
+    "romanization": "Voglio fare un reclamo.",
+    "translation": "我要投诉。投诉服务员"
+  },
+  {
+    "id": 231,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Qual è il numero di emergenza locale?",
+    "romanization": "Qual è il numero di emergenza locale?",
+    "translation": "当地的紧急电话是多少？当地报警电话"
+  },
+  {
+    "id": 232,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Dove posso prendere un taxi?",
+    "romanization": "Dove posso prendere un taxi?",
+    "translation": "哪里可以打车？出租车在哪"
+  },
+  {
+    "id": 233,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Quanto tempo ci vuole?",
+    "romanization": "Quanto tempo ci vuole?",
+    "translation": "这需要多长时间？要多久"
+  },
+  {
+    "id": 234,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Quali sono gli orari di apertura?",
+    "romanization": "Quali sono gli orari di apertura?",
+    "translation": "营业时间是几点？开门时间"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Ho bisogno di un medico",
+    "romanization": "Ho bisogno di un medico",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Dov'è l'ospedale?",
+    "romanization": "Dov'è l'ospedale?",
+    "translation": "医院在哪？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Dov'è la farmacia?",
+    "romanization": "Dov'è la farmacia?",
+    "translation": "药店在哪？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Ho mal di testa",
+    "romanization": "Ho mal di testa",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Ho la febbre",
+    "romanization": "Ho la febbre",
+    "translation": "我发烧"
   },
   {
     "id": 172,
@@ -1408,6 +1200,374 @@
     "translation": "请叫救护车"
   },
   {
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Sì",
+    "romanization": "Sì",
+    "translation": "是"
+  },
+  {
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "No",
+    "romanization": "No",
+    "translation": "不"
+  },
+  {
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Per favore",
+    "romanization": "Per favore",
+    "translation": "请"
+  },
+  {
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Mi scusi",
+    "romanization": "Mi scusi",
+    "translation": "对不起"
+  },
+  {
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Non capisco",
+    "romanization": "Non capisco",
+    "translation": "我不懂"
+  },
+  {
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Non parlo inglese",
+    "romanization": "Non parlo inglese",
+    "translation": "我不会说英语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Parla cinese?",
+    "romanization": "Parla cinese?",
+    "translation": "你会说中文吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Come si dice questa parola?",
+    "romanization": "Come si dice questa parola?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Che cosa significa?",
+    "romanization": "Che cosa significa?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Proverò",
+    "romanization": "Proverò",
+    "translation": "我试试"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "L'ora",
+    "romanization": "L'ora",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Oggi",
+    "romanization": "Oggi",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Ieri",
+    "romanization": "Ieri",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Domani",
+    "romanization": "Domani",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Di mattina",
+    "romanization": "Di mattina",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Di sera",
+    "romanization": "Di sera",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Di notte",
+    "romanization": "Di notte",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Sono le otto adesso",
+    "romanization": "Sono le otto adesso",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Quanto tempo?",
+    "romanization": "Quanto tempo?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Alle cinque",
+    "romanization": "Alle cinque",
+    "translation": "5点钟"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Uno",
+    "romanization": "Uno",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Due",
+    "romanization": "Due",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Tre",
+    "romanization": "Tre",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Quattro",
+    "romanization": "Quattro",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Cinque",
+    "romanization": "Cinque",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Sei",
+    "romanization": "Sei",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Sette",
+    "romanization": "Sette",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Otto",
+    "romanization": "Otto",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Nove",
+    "romanization": "Nove",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Dieci",
+    "romanization": "Dieci",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Padre",
+    "romanization": "Padre",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Madre",
+    "romanization": "Madre",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Fratello",
+    "romanization": "Fratello",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Sorella",
+    "romanization": "Sorella",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Marito",
+    "romanization": "Marito",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Moglie",
+    "romanization": "Moglie",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Figlio",
+    "romanization": "Figlio",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Figlia",
+    "romanization": "Figlia",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Famiglia",
+    "romanization": "Famiglia",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Nonno",
+    "romanization": "Nonno",
+    "translation": "祖父"
+  },
+  {
+    "id": 121,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Sono in viaggio d'affari",
+    "romanization": "Sono in viaggio d'affari",
+    "translation": "我是来商务出差的"
+  },
+  {
+    "id": 122,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Ho un visto d'affari",
+    "romanization": "Ho un visto d'affari",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 123,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Sono qui per lavoro",
+    "romanization": "Sono qui per lavoro",
+    "translation": "我来工作"
+  },
+  {
+    "id": 124,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Sto studiando qui",
+    "romanization": "Sto studiando qui",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 125,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Ho un visto di studio",
+    "romanization": "Ho un visto di studio",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 126,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Il mio scopo è studiare",
+    "romanization": "Il mio scopo è studiare",
+    "translation": "我的目的是学习"
+  },
+  {
     "id": 177,
     "category": "visa",
     "category_zh": "签证类型",
@@ -1438,5 +1598,85 @@
     "text": "Vorrei richiedere una proroga",
     "romanization": "Vorrei richiedere una proroga",
     "translation": "我想申请延期"
+  },
+  {
+    "id": 161,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Posso chiedere il Suo cognome?",
+    "romanization": "Posso chiedere il Suo cognome?",
+    "translation": "请问您贵姓？"
+  },
+  {
+    "id": 162,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Mi chiamo...",
+    "romanization": "Mi chiamo...",
+    "translation": "我叫..."
+  },
+  {
+    "id": 163,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Piacere di conoscerLa",
+    "romanization": "Piacere di conoscerLa",
+    "translation": "很高兴认识您"
+  },
+  {
+    "id": 164,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Qual è la Sua posizione?",
+    "romanization": "Qual è la Sua posizione?",
+    "translation": "请问您的职务是？"
+  },
+  {
+    "id": 165,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Possiamo fissare un appuntamento?",
+    "romanization": "Possiamo fissare un appuntamento?",
+    "translation": "我们能约个时间吗？"
+  },
+  {
+    "id": 166,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Ecco il mio biglietto da visita",
+    "romanization": "Ecco il mio biglietto da visita",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 167,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Mi può mandare una email",
+    "romanization": "Mi può mandare una email",
+    "translation": "请发邮件给我"
+  },
+  {
+    "id": 168,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Mi può aggiungere su WeChat",
+    "romanization": "Mi può aggiungere su WeChat",
+    "translation": "请加我微信"
+  },
+  {
+    "id": 169,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "La ringrazio per la Sua ospitalità",
+    "romanization": "La ringrazio per la Sua ospitalità",
+    "translation": "谢谢您的款待"
+  },
+  {
+    "id": 170,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Spero di rivederLa",
+    "romanization": "Spero di rivederLa",
+    "translation": "后会有期"
   }
 ]

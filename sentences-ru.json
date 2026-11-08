@@ -1,5 +1,125 @@
 [
   {
+    "id": 200,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Помогите!",
+    "romanization": "Pomogite!",
+    "translation": "救命！"
+  },
+  {
+    "id": 201,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Мне нужна помощь!",
+    "romanization": "Mne nuzhna pomoshch!",
+    "translation": "我需要帮助！"
+  },
+  {
+    "id": 202,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Пожалуйста, вызовите скорую!",
+    "romanization": "Pozhaluysta, vyzovite skoruyu!",
+    "translation": "请叫救护车！急救电话怎么说"
+  },
+  {
+    "id": 203,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Пожалуйста, вызовите полицию.",
+    "romanization": "Pozhaluysta, vyzovite politsiyu.",
+    "translation": "请报警。报警电话是多少"
+  },
+  {
+    "id": 204,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Какой здесь номер экстренных служб?",
+    "romanization": "Kakoy zdes nomer ekstrennykh sluzhb?",
+    "translation": "这里的紧急电话是多少？紧急电话号码"
+  },
+  {
+    "id": 205,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Я потерял паспорт.",
+    "romanization": "Ya poteryal pasport.",
+    "translation": "我的护照丢了。护照遗失"
+  },
+  {
+    "id": 206,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "У меня украли кошелёк.",
+    "romanization": "U menya ukrali koshelyok.",
+    "translation": "我的钱包被偷了。东西被偷"
+  },
+  {
+    "id": 207,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Мне нужно связаться с посольством.",
+    "romanization": "Mne nuzhno svyazatsya s posolstvom.",
+    "translation": "我要联系大使馆。领事馆"
+  },
+  {
+    "id": 208,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Мне плохо.",
+    "romanization": "Mne plokho.",
+    "translation": "我身体不舒服。生病了"
+  },
+  {
+    "id": 209,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "У меня жар.",
+    "romanization": "U menya zhar.",
+    "translation": "我发烧了。体温高"
+  },
+  {
+    "id": 210,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "У меня аллергия на пенициллин.",
+    "romanization": "U menya allergiya na penicillin.",
+    "translation": "我对青霉素过敏。药物过敏"
+  },
+  {
+    "id": 211,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Где ближайшая больница?",
+    "romanization": "Gde blizhayshaya bolnitsa?",
+    "translation": "最近的医院在哪？看医生"
+  },
+  {
+    "id": 212,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Где ближайшая аптека?",
+    "romanization": "Gde blizhayshaya apteka?",
+    "translation": "最近的药店在哪？买药"
+  },
+  {
+    "id": 213,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Мне нужно срочно увидеть врача.",
+    "romanization": "Mne nuzhno srochno uvidet vracha.",
+    "translation": "我现在就要看医生。急诊"
+  },
+  {
+    "id": 214,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "За мной кто-то следит.",
+    "romanization": "Za mnoi kto-to sledit.",
+    "translation": "有人在跟踪我。被跟踪"
+  },
+  {
     "id": 1,
     "category": "greetings",
     "category_zh": "问候",
@@ -158,646 +278,6 @@
     "text": "До свидания",
     "romanization": "Do svidaniya",
     "translation": "再见"
-  },
-  {
-    "id": 21,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Я голоден",
-    "romanization": "Ya goloden",
-    "translation": "我饿了"
-  },
-  {
-    "id": 22,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Я хочу пить",
-    "romanization": "Ya khochu pit'",
-    "translation": "我渴了"
-  },
-  {
-    "id": 23,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Я хочу есть",
-    "romanization": "Ya khochu yest'",
-    "translation": "我想吃东西"
-  },
-  {
-    "id": 24,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Воды, пожалуйста",
-    "romanization": "Vody, pozhaluysta",
-    "translation": "我想要水"
-  },
-  {
-    "id": 25,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Какая ваша любимая еда?",
-    "romanization": "Kakaya vasha lyubimaya yeda?",
-    "translation": "您最喜欢的食物？"
-  },
-  {
-    "id": 26,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Говядина",
-    "romanization": "Govyadina",
-    "translation": "牛肉"
-  },
-  {
-    "id": 27,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Курица",
-    "romanization": "Kuritsa",
-    "translation": "鸡肉"
-  },
-  {
-    "id": 28,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Рыба",
-    "romanization": "Ryba",
-    "translation": "鱼"
-  },
-  {
-    "id": 29,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Рис",
-    "romanization": "Ris",
-    "translation": "米饭"
-  },
-  {
-    "id": 30,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Хлеб",
-    "romanization": "Khleb",
-    "translation": "面包"
-  },
-  {
-    "id": 31,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Где аэропорт?",
-    "romanization": "Gde aeroport?",
-    "translation": "机场在哪？"
-  },
-  {
-    "id": 32,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Мне нужен билет",
-    "romanization": "Mne nuzhen bilet",
-    "translation": "我需要一张票"
-  },
-  {
-    "id": 33,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Сколько стоит?",
-    "romanization": "Skol'ko stoit?",
-    "translation": "多少钱？"
-  },
-  {
-    "id": 34,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Когда отправляется поезд?",
-    "romanization": "Kogda otpravlyayetsya poyezd?",
-    "translation": "火车几点开？"
-  },
-  {
-    "id": 35,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Какая станция?",
-    "romanization": "Kakaya stantsiya?",
-    "translation": "哪个站？"
-  },
-  {
-    "id": 36,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Извините, где ...?",
-    "romanization": "Izvinite, gde ...?",
-    "translation": "请问...在哪？"
-  },
-  {
-    "id": 37,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Мне нужно такси",
-    "romanization": "Mne nuzhno taksi",
-    "translation": "我要打车"
-  },
-  {
-    "id": 38,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Сюда",
-    "romanization": "Syuda",
-    "translation": "到这里"
-  },
-  {
-    "id": 39,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Остановите здесь, пожалуйста",
-    "romanization": "Ostanovite zdes', pozhaluysta",
-    "translation": "请停车"
-  },
-  {
-    "id": 40,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Как далеко?",
-    "romanization": "Kak daleko?",
-    "translation": "距离多远？"
-  },
-  {
-    "id": 41,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Сколько это стоит?",
-    "romanization": "Skol'ko eto stoit?",
-    "translation": "这个多少钱？"
-  },
-  {
-    "id": 42,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Слишком дорого",
-    "romanization": "Slishkom dorogo",
-    "translation": "太贵了"
-  },
-  {
-    "id": 43,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Дёшево",
-    "romanization": "Dyoshovo",
-    "translation": "便宜"
-  },
-  {
-    "id": 44,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Можно поторговаться?",
-    "romanization": "Mozhno potorgovat'sya?",
-    "translation": "能讲价吗？"
-  },
-  {
-    "id": 45,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Я хочу это",
-    "romanization": "Ya khochu eto",
-    "translation": "我要这个"
-  },
-  {
-    "id": 46,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Где магазин ...?",
-    "romanization": "Gde magazin ...?",
-    "translation": "...店在哪？"
-  },
-  {
-    "id": 47,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Размер",
-    "romanization": "Razmer",
-    "translation": "尺寸"
-  },
-  {
-    "id": 48,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Мне нужна сумка",
-    "romanization": "Mne nuzhna sumka",
-    "translation": "我要一个包"
-  },
-  {
-    "id": 49,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Сдача",
-    "romanization": "Sdacha",
-    "translation": "找零"
-  },
-  {
-    "id": 50,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Чек",
-    "romanization": "Chek",
-    "translation": "收据"
-  },
-  {
-    "id": 51,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Время",
-    "romanization": "Vremya",
-    "translation": "时间"
-  },
-  {
-    "id": 52,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Сегодня",
-    "romanization": "Segodnya",
-    "translation": "今天"
-  },
-  {
-    "id": 53,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Вчера",
-    "romanization": "Vchera",
-    "translation": "昨天"
-  },
-  {
-    "id": 54,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Завтра",
-    "romanization": "Zavtra",
-    "translation": "明天"
-  },
-  {
-    "id": 55,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Утро",
-    "romanization": "Utro",
-    "translation": "早上"
-  },
-  {
-    "id": 56,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Вечер",
-    "romanization": "Vecher",
-    "translation": "晚上"
-  },
-  {
-    "id": 57,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Ночь",
-    "romanization": "Noch'",
-    "translation": "夜里"
-  },
-  {
-    "id": 58,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Сейчас восемь часов",
-    "romanization": "Seychas vosem' chasov",
-    "translation": "现在是8点"
-  },
-  {
-    "id": 59,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Как долго?",
-    "romanization": "Kak dolgo?",
-    "translation": "多久？"
-  },
-  {
-    "id": 60,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "В пять часов",
-    "romanization": "V pyat' chasov",
-    "translation": "5点钟"
-  },
-  {
-    "id": 61,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Где туалет?",
-    "romanization": "Gde tualet?",
-    "translation": "洗手间在哪？"
-  },
-  {
-    "id": 62,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Направо",
-    "romanization": "Napravo",
-    "translation": "向右"
-  },
-  {
-    "id": 63,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Налево",
-    "romanization": "Nalevo",
-    "translation": "向左"
-  },
-  {
-    "id": 64,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Прямо",
-    "romanization": "Pryamo",
-    "translation": "直走"
-  },
-  {
-    "id": 65,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Далеко",
-    "romanization": "Daleko",
-    "translation": "远"
-  },
-  {
-    "id": 66,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Близко",
-    "romanization": "Blizko",
-    "translation": "近"
-  },
-  {
-    "id": 67,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Здесь",
-    "romanization": "Zdes'",
-    "translation": "这里"
-  },
-  {
-    "id": 68,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Там",
-    "romanization": "Tam",
-    "translation": "那里"
-  },
-  {
-    "id": 69,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Улица",
-    "romanization": "Ulitsa",
-    "translation": "街道"
-  },
-  {
-    "id": 70,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Карта",
-    "romanization": "Karta",
-    "translation": "地图"
-  },
-  {
-    "id": 71,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Один",
-    "romanization": "Odin",
-    "translation": "一"
-  },
-  {
-    "id": 72,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Два",
-    "romanization": "Dva",
-    "translation": "二"
-  },
-  {
-    "id": 73,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Три",
-    "romanization": "Tri",
-    "translation": "三"
-  },
-  {
-    "id": 74,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Четыре",
-    "romanization": "Chetyre",
-    "translation": "四"
-  },
-  {
-    "id": 75,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Пять",
-    "romanization": "Pyat'",
-    "translation": "五"
-  },
-  {
-    "id": 76,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Шесть",
-    "romanization": "Shest'",
-    "translation": "六"
-  },
-  {
-    "id": 77,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Семь",
-    "romanization": "Sem'",
-    "translation": "七"
-  },
-  {
-    "id": 78,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Восемь",
-    "romanization": "Vosem'",
-    "translation": "八"
-  },
-  {
-    "id": 79,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Девять",
-    "romanization": "Devyat'",
-    "translation": "九"
-  },
-  {
-    "id": 80,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Десять",
-    "romanization": "Desyat'",
-    "translation": "十"
-  },
-  {
-    "id": 81,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Отец",
-    "romanization": "Otets",
-    "translation": "父亲"
-  },
-  {
-    "id": 82,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Мать",
-    "romanization": "Mat'",
-    "translation": "母亲"
-  },
-  {
-    "id": 83,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Брат",
-    "romanization": "Brat",
-    "translation": "兄弟"
-  },
-  {
-    "id": 84,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Сестра",
-    "romanization": "Sestra",
-    "translation": "姐妹"
-  },
-  {
-    "id": 85,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Муж",
-    "romanization": "Muzh",
-    "translation": "丈夫"
-  },
-  {
-    "id": 86,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Жена",
-    "romanization": "Zhena",
-    "translation": "妻子"
-  },
-  {
-    "id": 87,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Сын",
-    "romanization": "Syn",
-    "translation": "儿子"
-  },
-  {
-    "id": 88,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Дочь",
-    "romanization": "Doch'",
-    "translation": "女儿"
-  },
-  {
-    "id": 89,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Семья",
-    "romanization": "Sem'ya",
-    "translation": "家庭"
-  },
-  {
-    "id": 90,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Дедушка",
-    "romanization": "Dedushka",
-    "translation": "祖父"
-  },
-  {
-    "id": 91,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Да",
-    "romanization": "Da",
-    "translation": "是"
-  },
-  {
-    "id": 92,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Нет",
-    "romanization": "Net",
-    "translation": "不"
-  },
-  {
-    "id": 93,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Пожалуйста",
-    "romanization": "Pozhaluysta",
-    "translation": "请"
-  },
-  {
-    "id": 94,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Извините",
-    "romanization": "Izvinite",
-    "translation": "对不起"
-  },
-  {
-    "id": 95,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Я не понимаю",
-    "romanization": "Ya ne ponimayu",
-    "translation": "我不懂"
-  },
-  {
-    "id": 96,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Я не говорю по-русски",
-    "romanization": "Ya ne govoryu po-russki",
-    "translation": "我不会说俄语"
-  },
-  {
-    "id": 97,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Вы говорите по-китайски?",
-    "romanization": "Vy govorite po-kitayski?",
-    "translation": "你会说中文吗？"
-  },
-  {
-    "id": 98,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Как сказать это слово?",
-    "romanization": "Kak skazat' eto slovo?",
-    "translation": "这个词怎么说？"
-  },
-  {
-    "id": 99,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Что это значит?",
-    "romanization": "Chto eto znachit?",
-    "translation": "什么意思？"
-  },
-  {
-    "id": 100,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Я попробую",
-    "romanization": "Ya poprobuyu",
-    "translation": "我试试"
   },
   {
     "id": 101,
@@ -1112,44 +592,324 @@
     "translation": "可以打包吗？"
   },
   {
-    "id": 146,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Мне нужен врач",
-    "romanization": "Mne nuzhen vrach",
-    "translation": "我需要医生"
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Где аэропорт?",
+    "romanization": "Gde aeroport?",
+    "translation": "机场在哪？"
   },
   {
-    "id": 147,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Где больница?",
-    "romanization": "Gde bol'nitsa?",
-    "translation": "医院在哪？"
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Мне нужен билет",
+    "romanization": "Mne nuzhen bilet",
+    "translation": "我需要一张票"
   },
   {
-    "id": 148,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Где аптека?",
-    "romanization": "Gde apteka?",
-    "translation": "药店在哪？"
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Сколько стоит?",
+    "romanization": "Skol'ko stoit?",
+    "translation": "多少钱？"
   },
   {
-    "id": 149,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "У меня болит голова",
-    "romanization": "U menya bolit golova",
-    "translation": "我头痛"
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Когда отправляется поезд?",
+    "romanization": "Kogda otpravlyayetsya poyezd?",
+    "translation": "火车几点开？"
   },
   {
-    "id": 150,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "У меня температура",
-    "romanization": "U menya temperatura",
-    "translation": "我发烧"
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Какая станция?",
+    "romanization": "Kakaya stantsiya?",
+    "translation": "哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Извините, где ...?",
+    "romanization": "Izvinite, gde ...?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Мне нужно такси",
+    "romanization": "Mne nuzhno taksi",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Сюда",
+    "romanization": "Syuda",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Остановите здесь, пожалуйста",
+    "romanization": "Ostanovite zdes', pozhaluysta",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Как далеко?",
+    "romanization": "Kak daleko?",
+    "translation": "距离多远？"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Где туалет?",
+    "romanization": "Gde tualet?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Направо",
+    "romanization": "Napravo",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Налево",
+    "romanization": "Nalevo",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Прямо",
+    "romanization": "Pryamo",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Далеко",
+    "romanization": "Daleko",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Близко",
+    "romanization": "Blizko",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Здесь",
+    "romanization": "Zdes'",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Там",
+    "romanization": "Tam",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Улица",
+    "romanization": "Ulitsa",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Карта",
+    "romanization": "Karta",
+    "translation": "地图"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Сколько это стоит?",
+    "romanization": "Skol'ko eto stoit?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Слишком дорого",
+    "romanization": "Slishkom dorogo",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Дёшево",
+    "romanization": "Dyoshovo",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Можно поторговаться?",
+    "romanization": "Mozhno potorgovat'sya?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Я хочу это",
+    "romanization": "Ya khochu eto",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Где магазин ...?",
+    "romanization": "Gde magazin ...?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Размер",
+    "romanization": "Razmer",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Мне нужна сумка",
+    "romanization": "Mne nuzhna sumka",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Сдача",
+    "romanization": "Sdacha",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Чек",
+    "romanization": "Chek",
+    "translation": "收据"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Я голоден",
+    "romanization": "Ya goloden",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Я хочу пить",
+    "romanization": "Ya khochu pit'",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Я хочу есть",
+    "romanization": "Ya khochu yest'",
+    "translation": "我想吃东西"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Воды, пожалуйста",
+    "romanization": "Vody, pozhaluysta",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Какая ваша любимая еда?",
+    "romanization": "Kakaya vasha lyubimaya yeda?",
+    "translation": "您最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Говядина",
+    "romanization": "Govyadina",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Курица",
+    "romanization": "Kuritsa",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Рыба",
+    "romanization": "Ryba",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Рис",
+    "romanization": "Ris",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Хлеб",
+    "romanization": "Khleb",
+    "translation": "面包"
   },
   {
     "id": 151,
@@ -1230,6 +990,486 @@
     "text": "Какой номер экстренной службы?",
     "romanization": "Kakoy nomer ekstrennoy sluzhby?",
     "translation": "紧急电话是多少？"
+  },
+  {
+    "id": 220,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Во сколько вы открываетесь?",
+    "romanization": "Vo skolko vy otkryvaetes?",
+    "translation": "几点开门？营业时间"
+  },
+  {
+    "id": 221,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Во сколько вы закрываетесь?",
+    "romanization": "Vo skolko vy zakryvaetes?",
+    "translation": "几点关门？营业时间是几点"
+  },
+  {
+    "id": 222,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Это место занято?",
+    "romanization": "Eto mesto zanyato?",
+    "translation": "这个座位有人吗？可以坐这里"
+  },
+  {
+    "id": 223,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Где касса?",
+    "romanization": "Gde kassa?",
+    "translation": "售票处在哪？买票"
+  },
+  {
+    "id": 224,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Сколько стоит вход?",
+    "romanization": "Skolko stoit vkhod?",
+    "translation": "门票多少钱？景点门票价格"
+  },
+  {
+    "id": 225,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Нужно ли бронировать заранее?",
+    "romanization": "Nuzhno li bronirovat zaraneye?",
+    "translation": "需要提前预订吗？要预约吗"
+  },
+  {
+    "id": 226,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Есть ли скидка для студентов?",
+    "romanization": "Yest li skidka dlya studentov?",
+    "translation": "有学生票吗？学生优惠"
+  },
+  {
+    "id": 227,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Нужно ли давать чаевые?",
+    "romanization": "Nuzhno li davat chaevyye?",
+    "translation": "需要付小费吗？tip 小费"
+  },
+  {
+    "id": 228,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Можно фотографировать здесь?",
+    "romanization": "Mozhno fotografirovat zdes?",
+    "translation": "这里可以拍照吗？能拍照吗"
+  },
+  {
+    "id": 229,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Здесь можно курить?",
+    "romanization": "Zdes mozhno kurit?",
+    "translation": "这里允许吸烟吗？禁烟规定"
+  },
+  {
+    "id": 230,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Я хочу подать жалобу.",
+    "romanization": "Ya khochu podat zhalobu.",
+    "translation": "我要投诉。投诉服务员"
+  },
+  {
+    "id": 231,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Какой местный номер экстренных служб?",
+    "romanization": "Kakoy mestnyy nomer ekstrennykh sluzhb?",
+    "translation": "当地的紧急电话是多少？当地报警电话"
+  },
+  {
+    "id": 232,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Где можно взять такси?",
+    "romanization": "Gde mozhno vzyat taksi?",
+    "translation": "哪里可以打车？出租车在哪"
+  },
+  {
+    "id": 233,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Сколько это займёт времени?",
+    "romanization": "Skolko eto zaymyot vremeni?",
+    "translation": "这需要多长时间？要多久"
+  },
+  {
+    "id": 234,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Какие часы работы?",
+    "romanization": "Kakie chasy raboty?",
+    "translation": "营业时间是几点？开门时间"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Мне нужен врач",
+    "romanization": "Mne nuzhen vrach",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Где больница?",
+    "romanization": "Gde bol'nitsa?",
+    "translation": "医院在哪？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Где аптека?",
+    "romanization": "Gde apteka?",
+    "translation": "药店在哪？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "У меня болит голова",
+    "romanization": "U menya bolit golova",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "У меня температура",
+    "romanization": "U menya temperatura",
+    "translation": "我发烧"
+  },
+  {
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Да",
+    "romanization": "Da",
+    "translation": "是"
+  },
+  {
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Нет",
+    "romanization": "Net",
+    "translation": "不"
+  },
+  {
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Пожалуйста",
+    "romanization": "Pozhaluysta",
+    "translation": "请"
+  },
+  {
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Извините",
+    "romanization": "Izvinite",
+    "translation": "对不起"
+  },
+  {
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Я не понимаю",
+    "romanization": "Ya ne ponimayu",
+    "translation": "我不懂"
+  },
+  {
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Я не говорю по-русски",
+    "romanization": "Ya ne govoryu po-russki",
+    "translation": "我不会说俄语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Вы говорите по-китайски?",
+    "romanization": "Vy govorite po-kitayski?",
+    "translation": "你会说中文吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Как сказать это слово?",
+    "romanization": "Kak skazat' eto slovo?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Что это значит?",
+    "romanization": "Chto eto znachit?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Я попробую",
+    "romanization": "Ya poprobuyu",
+    "translation": "我试试"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Время",
+    "romanization": "Vremya",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Сегодня",
+    "romanization": "Segodnya",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Вчера",
+    "romanization": "Vchera",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Завтра",
+    "romanization": "Zavtra",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Утро",
+    "romanization": "Utro",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Вечер",
+    "romanization": "Vecher",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Ночь",
+    "romanization": "Noch'",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Сейчас восемь часов",
+    "romanization": "Seychas vosem' chasov",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Как долго?",
+    "romanization": "Kak dolgo?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "В пять часов",
+    "romanization": "V pyat' chasov",
+    "translation": "5点钟"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Один",
+    "romanization": "Odin",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Два",
+    "romanization": "Dva",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Три",
+    "romanization": "Tri",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Четыре",
+    "romanization": "Chetyre",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Пять",
+    "romanization": "Pyat'",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Шесть",
+    "romanization": "Shest'",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Семь",
+    "romanization": "Sem'",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Восемь",
+    "romanization": "Vosem'",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Девять",
+    "romanization": "Devyat'",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Десять",
+    "romanization": "Desyat'",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Отец",
+    "romanization": "Otets",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Мать",
+    "romanization": "Mat'",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Брат",
+    "romanization": "Brat",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Сестра",
+    "romanization": "Sestra",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Муж",
+    "romanization": "Muzh",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Жена",
+    "romanization": "Zhena",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Сын",
+    "romanization": "Syn",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Дочь",
+    "romanization": "Doch'",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Семья",
+    "romanization": "Sem'ya",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Дедушка",
+    "romanization": "Dedushka",
+    "translation": "祖父"
   },
   {
     "id": 161,

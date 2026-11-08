@@ -1,5 +1,125 @@
 [
   {
+    "id": 200,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "النجْدَة!",
+    "romanization": "An-najda!",
+    "translation": "救命！"
+  },
+  {
+    "id": 201,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أُحتاجُ إِلَى المُسَاعَدَة!",
+    "romanization": "Uḥtāju ilā al-musāʿada!",
+    "translation": "我需要帮助！"
+  },
+  {
+    "id": 202,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "مِنْ فَضْلِكَ اتَّصِلْ بِالإِسْعَاف!",
+    "romanization": "Min faḍlik ittaṣil bi-l-ʾisāʿāf!",
+    "translation": "请叫救护车！急救电话怎么说"
+  },
+  {
+    "id": 203,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "مِنْ فَضْلِكَ اتَّصِلْ بِالشُّرْطَة.",
+    "romanization": "Min faḍlik ittaṣil bi-sh-shurṭa.",
+    "translation": "请报警。报警电话是多少"
+  },
+  {
+    "id": 204,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "مَا هُوَ رَقْمُ الطَّوَارِئِ هُنَا؟",
+    "romanization": "Mā huwa raqmu ṭ-ṭawāriʾi hunā?",
+    "translation": "这里的紧急电话是多少？紧急电话号码"
+  },
+  {
+    "id": 205,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "فَقِدْتُ جَوَازَ سَفَرِي.",
+    "romanization": "Faqidtu jawāza safarī.",
+    "translation": "我的护照丢了。护照遗失"
+  },
+  {
+    "id": 206,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "سُرِقَتْ مِحْفَظَتِي.",
+    "romanization": "Suriqat miḥfaẓatī.",
+    "translation": "我的钱包被偷了。东西被偷"
+  },
+  {
+    "id": 207,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أُحتاجُ إِلَى الاتِّصَالِ بِالسَّفَارَة.",
+    "romanization": "Uḥtāju ilā al-ittisāli bi-s-safāra.",
+    "translation": "我要联系大使馆。领事馆"
+  },
+  {
+    "id": 208,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أَشْعُرُ بِالْمَرَض.",
+    "romanization": "Ashʿuru bi-l-maraḍ.",
+    "translation": "我身体不舒服。生病了"
+  },
+  {
+    "id": 209,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "عِنْدِي حُمَّى.",
+    "romanization": "ʿIndī ḥummā.",
+    "translation": "我发烧了。体温高"
+  },
+  {
+    "id": 210,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أَنَا حَسَّاسٌ مِنَ البِنْسِلِين.",
+    "romanization": "Anā ḥassāsun mina al-binsilīn.",
+    "translation": "我对青霉素过敏。药物过敏"
+  },
+  {
+    "id": 211,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أَيْنَ أَقْرَبُ مُسْتَشْفَى؟",
+    "romanization": "Ayna aqrabu mustashfā?",
+    "translation": "最近的医院在哪？看医生"
+  },
+  {
+    "id": 212,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أَيْنَ أَقْرَبُ صَيْدَلِيَّة؟",
+    "romanization": "Ayna aqrabu ṣaydaliyya?",
+    "translation": "最近的药店在哪？买药"
+  },
+  {
+    "id": 213,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أُحتاجُ إِلَى رُؤْيَةِ طَبِيبٍ الآن.",
+    "romanization": "Uḥtāju ilā ruʾyati ṭabībin al-ʾān.",
+    "translation": "我现在就要看医生。急诊"
+  },
+  {
+    "id": 214,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "أَحَدٌ يَتْبَعُنِي.",
+    "romanization": "Aḥadun yatbaʿunī.",
+    "translation": "有人在跟踪我。被跟踪"
+  },
+  {
     "id": 1,
     "category": "greetings",
     "category_zh": "问候",
@@ -158,646 +278,6 @@
     "text": "إِلَى اللِّقَاءِ",
     "romanization": "Ilā al-liqāʾ",
     "translation": "再见"
-  },
-  {
-    "id": 21,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "أَنَا جَوْعَانُ",
-    "romanization": "Ana jūʿānu",
-    "translation": "我饿了"
-  },
-  {
-    "id": 22,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "أَنَا عَطْشَانُ",
-    "romanization": "Ana ʿaṭshānu",
-    "translation": "我渴了"
-  },
-  {
-    "id": 23,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "أُرِيدُ الطَّعَامَ",
-    "romanization": "Urīdu aṭ-ṭaʿām",
-    "translation": "我想要食物"
-  },
-  {
-    "id": 24,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "أُرِيدُ الْمَاءَ",
-    "romanization": "Urīdu al-māʾ",
-    "translation": "我想要水"
-  },
-  {
-    "id": 25,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "مَا الطَّعَامُ الْمُفَضَّلُ؟",
-    "romanization": "Mā aṭ-ṭaʿām al-mufaḍḍal?",
-    "translation": "你最喜欢的食物？"
-  },
-  {
-    "id": 26,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "الْبَقَرُ",
-    "romanization": "Al-baqaru",
-    "translation": "牛肉"
-  },
-  {
-    "id": 27,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "الدَّجَاجُ",
-    "romanization": "Ad-dajāju",
-    "translation": "鸡肉"
-  },
-  {
-    "id": 28,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "السَّمَكُ",
-    "romanization": "As-samaku",
-    "translation": "鱼"
-  },
-  {
-    "id": 29,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "الْأُرْزُ",
-    "romanization": "Al-urzu",
-    "translation": "米饭"
-  },
-  {
-    "id": 30,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "الْخُبْزُ",
-    "romanization": "Al-khubzu",
-    "translation": "面包"
-  },
-  {
-    "id": 31,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "أَيْنَ الْمَطَارُ؟",
-    "romanization": "Ayna al-maṭār?",
-    "translation": "机场在哪？"
-  },
-  {
-    "id": 32,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "أُرِيدُ تَذْكِرَةً",
-    "romanization": "Urīdu tadhkiratan",
-    "translation": "我想要一张票"
-  },
-  {
-    "id": 33,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "كَمْ الثَّمَنُ؟",
-    "romanization": "Kam ath-thamanu?",
-    "translation": "多少钱？"
-  },
-  {
-    "id": 34,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "مَتَى يَرْحَلُ الْقِطَارُ؟",
-    "romanization": "Matā yarḥalu al-qiṭāru?",
-    "translation": "火车几点开？"
-  },
-  {
-    "id": 35,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "فِي أَيِّ مَحَطَّةٍ؟",
-    "romanization": "Fī ayyi maḥaṭṭatin?",
-    "translation": "在哪个站？"
-  },
-  {
-    "id": 36,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "مِنْ فَضْلِكَ، أَيْنَ...?",
-    "romanization": "Min faḍlik, ayna ...?",
-    "translation": "请问...在哪？"
-  },
-  {
-    "id": 37,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "أَسْتَأْجِرُ تَاكْسِي",
-    "romanization": "Astaʾjiru tāksī",
-    "translation": "我要打车"
-  },
-  {
-    "id": 38,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "إِلَى هُنَا",
-    "romanization": "Ilā hunā",
-    "translation": "到这里"
-  },
-  {
-    "id": 39,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "تَوَقَّفْ مِنْ فَضْلِكَ",
-    "romanization": "Tawqqaf min faḍlik",
-    "translation": "请停车"
-  },
-  {
-    "id": 40,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "كَمْ الْمَسَافَةُ؟",
-    "romanization": "Kam al-masāfatu?",
-    "translation": "距离多远？"
-  },
-  {
-    "id": 41,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "كَمْ ثَمَنُ هَذَا؟",
-    "romanization": "Kam thamanu hādhā?",
-    "translation": "这个多少钱？"
-  },
-  {
-    "id": 42,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "غَالٍ جِدًّا",
-    "romanization": "Ghālin jiddan",
-    "translation": "太贵了"
-  },
-  {
-    "id": 43,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "رَخِيصٌ",
-    "romanization": "Rakhīṣun",
-    "translation": "便宜"
-  },
-  {
-    "id": 44,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "هَلْ يُمْكِنُ التَّفَاوُضُ؟",
-    "romanization": "Hal yumkinu at-tafāwuḍ?",
-    "translation": "能讲价吗？"
-  },
-  {
-    "id": 45,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "أُرِيدُ هَذَا",
-    "romanization": "Urīdu hādhā",
-    "translation": "我要这个"
-  },
-  {
-    "id": 46,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "أَيْنَ دُكَّانُ...?",
-    "romanization": "Ayna dukkānu ...?",
-    "translation": "...店在哪？"
-  },
-  {
-    "id": 47,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "الْمَقَاسُ",
-    "romanization": "Al-maqāsu",
-    "translation": "尺寸"
-  },
-  {
-    "id": 48,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "أُرِيدُ حَقِيبَةً",
-    "romanization": "Urīdu ḥaqībatan",
-    "translation": "我要一个包"
-  },
-  {
-    "id": 49,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "الْفُولُرُ",
-    "romanization": "Al-fūlu",
-    "translation": "找零"
-  },
-  {
-    "id": 50,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "الْفَاتُورَةُ",
-    "romanization": "Al-fātūratu",
-    "translation": "收据"
-  },
-  {
-    "id": 51,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "الْوَقْتُ",
-    "romanization": "Al-waqtu",
-    "translation": "时间"
-  },
-  {
-    "id": 52,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "الْيَوْمُ",
-    "romanization": "Al-yawmu",
-    "translation": "今天"
-  },
-  {
-    "id": 53,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "أَمْسِ",
-    "romanization": "Amsi",
-    "translation": "昨天"
-  },
-  {
-    "id": 54,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "غَدًا",
-    "romanization": "Ghadan",
-    "translation": "明天"
-  },
-  {
-    "id": 55,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "الصَّبَاحُ",
-    "romanization": "Aṣ-ṣabāḥu",
-    "translation": "早上"
-  },
-  {
-    "id": 56,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "الْمَسَاءُ",
-    "romanization": "Al-masāʾu",
-    "translation": "晚上"
-  },
-  {
-    "id": 57,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "اللَّيْلُ",
-    "romanization": "Al-laylu",
-    "translation": "夜里"
-  },
-  {
-    "id": 58,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "السَّاعَةُ الْآنَ الثَّامِنَةُ",
-    "romanization": "As-sāʿatu al-āna ath-thāminatu",
-    "translation": "现在是8点"
-  },
-  {
-    "id": 59,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "كَمْ مِنَ الْوَقْتِ؟",
-    "romanization": "Kam mina al-waqti?",
-    "translation": "多久？"
-  },
-  {
-    "id": 60,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "فِي السَّاعَةِ الْخَامِسَةِ",
-    "romanization": "Fī as-sāʿati al-khāmisati",
-    "translation": "5点钟"
-  },
-  {
-    "id": 61,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "أَيْنَ الْحَمَّامُ؟",
-    "romanization": "Ayna al-ḥammāmu?",
-    "translation": "洗手间在哪？"
-  },
-  {
-    "id": 62,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "يَمِينًا",
-    "romanization": "Yamīnan",
-    "translation": "向右"
-  },
-  {
-    "id": 63,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "يَسَارًا",
-    "romanization": "Yasāran",
-    "translation": "向左"
-  },
-  {
-    "id": 64,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "مُسْتَقِيمًا",
-    "romanization": "Mustaqīman",
-    "translation": "直走"
-  },
-  {
-    "id": 65,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "بَعِيدٌ",
-    "romanization": "Baʿīdun",
-    "translation": "远"
-  },
-  {
-    "id": 66,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "قَرِيبٌ",
-    "romanization": "Qarībun",
-    "translation": "近"
-  },
-  {
-    "id": 67,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "هُنَا",
-    "romanization": "Hunā",
-    "translation": "这里"
-  },
-  {
-    "id": 68,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "هُنَاكَ",
-    "romanization": "Hunāka",
-    "translation": "那里"
-  },
-  {
-    "id": 69,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "الشَّارِعُ",
-    "romanization": "Ash-shāriʿu",
-    "translation": "街道"
-  },
-  {
-    "id": 70,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "الْخَرِيطَةُ",
-    "romanization": "Al-kharīṭatu",
-    "translation": "地图"
-  },
-  {
-    "id": 71,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "وَاحِدٌ",
-    "romanization": "Wāḥidun",
-    "translation": "一"
-  },
-  {
-    "id": 72,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "اثْنَانِ",
-    "romanization": "Ithnāni",
-    "translation": "二"
-  },
-  {
-    "id": 73,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "ثَلَاثَةٌ",
-    "romanization": "Thalāthatun",
-    "translation": "三"
-  },
-  {
-    "id": 74,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "أَرْبَعَةٌ",
-    "romanization": "Arbaʿatun",
-    "translation": "四"
-  },
-  {
-    "id": 75,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "خَمْسَةٌ",
-    "romanization": "Khamsatun",
-    "translation": "五"
-  },
-  {
-    "id": 76,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "سِتَّةٌ",
-    "romanization": "Sittatun",
-    "translation": "六"
-  },
-  {
-    "id": 77,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "سَبْعَةٌ",
-    "romanization": "Sabʿatun",
-    "translation": "七"
-  },
-  {
-    "id": 78,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "ثَمَانِيَةٌ",
-    "romanization": "Thamāniyatun",
-    "translation": "八"
-  },
-  {
-    "id": 79,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "تِسْعَةٌ",
-    "romanization": "Tisʿatun",
-    "translation": "九"
-  },
-  {
-    "id": 80,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "عَشَرَةٌ",
-    "romanization": "ʿAsharatun",
-    "translation": "十"
-  },
-  {
-    "id": 81,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْأَبُ",
-    "romanization": "Al-abu",
-    "translation": "父亲"
-  },
-  {
-    "id": 82,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْأُمُّ",
-    "romanization": "Al-ummu",
-    "translation": "母亲"
-  },
-  {
-    "id": 83,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْأَخُ",
-    "romanization": "Al-akhu",
-    "translation": "兄弟"
-  },
-  {
-    "id": 84,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْأُخْتُ",
-    "romanization": "Al-ukhtu",
-    "translation": "姐妹"
-  },
-  {
-    "id": 85,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الزَّوْجُ",
-    "romanization": "Az-zawju",
-    "translation": "丈夫"
-  },
-  {
-    "id": 86,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الزَّوْجَةُ",
-    "romanization": "Az-zawjatu",
-    "translation": "妻子"
-  },
-  {
-    "id": 87,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الِابْنُ",
-    "romanization": "Al-ibnu",
-    "translation": "儿子"
-  },
-  {
-    "id": 88,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْبِنْتُ",
-    "romanization": "Al-bintu",
-    "translation": "女儿"
-  },
-  {
-    "id": 89,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْعَائِلَةُ",
-    "romanization": "Al-ʿāʾilatu",
-    "translation": "家庭"
-  },
-  {
-    "id": 90,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "الْجَدُّ",
-    "romanization": "Al-jaddu",
-    "translation": "祖父"
-  },
-  {
-    "id": 91,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "نَعَمْ",
-    "romanization": "Naʿam",
-    "translation": "是"
-  },
-  {
-    "id": 92,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "لَا",
-    "romanization": "Lā",
-    "translation": "不"
-  },
-  {
-    "id": 93,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "مِنْ فَضْلِكَ",
-    "romanization": "Min faḍlik",
-    "translation": "请"
-  },
-  {
-    "id": 94,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "آسِفٌ",
-    "romanization": "Āsifun",
-    "translation": "对不起"
-  },
-  {
-    "id": 95,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "لَا أَفْهَمُ",
-    "romanization": "Lā afhamu",
-    "translation": "我不懂"
-  },
-  {
-    "id": 96,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "لَا أَتَكَلَّمُ الْعَرَبِيَّةَ",
-    "romanization": "Lā atakallamu al-ʿarabiyyata",
-    "translation": "我不会说阿拉伯语"
-  },
-  {
-    "id": 97,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "هَلْ تَتَكَلَّمُ الْإِنْجِلِيزِيَّةَ؟",
-    "romanization": "Hal tatakallamu al-anglīziyyata?",
-    "translation": "你会说英语吗？"
-  },
-  {
-    "id": 98,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "كَيْفَ تُقَالُ هَذِهِ الْكَلِمَةُ؟",
-    "romanization": "Kayfa tuqālu hādhihi al-kalimatu?",
-    "translation": "这个词怎么说？"
-  },
-  {
-    "id": 99,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "مَاذَا تَعْنِي؟",
-    "romanization": "Mādhā taʿnī?",
-    "translation": "什么意思？"
-  },
-  {
-    "id": 100,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "سَأُحَاوِلُ",
-    "romanization": "Sa-uhāwilu",
-    "translation": "我试试"
   },
   {
     "id": 101,
@@ -1104,6 +584,494 @@
     "translation": "咖啡"
   },
   {
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "أَيْنَ الْمَطَارُ؟",
+    "romanization": "Ayna al-maṭār?",
+    "translation": "机场在哪？"
+  },
+  {
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "أُرِيدُ تَذْكِرَةً",
+    "romanization": "Urīdu tadhkiratan",
+    "translation": "我想要一张票"
+  },
+  {
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "كَمْ الثَّمَنُ؟",
+    "romanization": "Kam ath-thamanu?",
+    "translation": "多少钱？"
+  },
+  {
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "مَتَى يَرْحَلُ الْقِطَارُ؟",
+    "romanization": "Matā yarḥalu al-qiṭāru?",
+    "translation": "火车几点开？"
+  },
+  {
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "فِي أَيِّ مَحَطَّةٍ؟",
+    "romanization": "Fī ayyi maḥaṭṭatin?",
+    "translation": "在哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "مِنْ فَضْلِكَ، أَيْنَ...?",
+    "romanization": "Min faḍlik, ayna ...?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "أَسْتَأْجِرُ تَاكْسِي",
+    "romanization": "Astaʾjiru tāksī",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "إِلَى هُنَا",
+    "romanization": "Ilā hunā",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "تَوَقَّفْ مِنْ فَضْلِكَ",
+    "romanization": "Tawqqaf min faḍlik",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "كَمْ الْمَسَافَةُ؟",
+    "romanization": "Kam al-masāfatu?",
+    "translation": "距离多远？"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "أَيْنَ الْحَمَّامُ؟",
+    "romanization": "Ayna al-ḥammāmu?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "يَمِينًا",
+    "romanization": "Yamīnan",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "يَسَارًا",
+    "romanization": "Yasāran",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "مُسْتَقِيمًا",
+    "romanization": "Mustaqīman",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "بَعِيدٌ",
+    "romanization": "Baʿīdun",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "قَرِيبٌ",
+    "romanization": "Qarībun",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "هُنَا",
+    "romanization": "Hunā",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "هُنَاكَ",
+    "romanization": "Hunāka",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "الشَّارِعُ",
+    "romanization": "Ash-shāriʿu",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "الْخَرِيطَةُ",
+    "romanization": "Al-kharīṭatu",
+    "translation": "地图"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "كَمْ ثَمَنُ هَذَا؟",
+    "romanization": "Kam thamanu hādhā?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "غَالٍ جِدًّا",
+    "romanization": "Ghālin jiddan",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "رَخِيصٌ",
+    "romanization": "Rakhīṣun",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "هَلْ يُمْكِنُ التَّفَاوُضُ؟",
+    "romanization": "Hal yumkinu at-tafāwuḍ?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "أُرِيدُ هَذَا",
+    "romanization": "Urīdu hādhā",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "أَيْنَ دُكَّانُ...?",
+    "romanization": "Ayna dukkānu ...?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "الْمَقَاسُ",
+    "romanization": "Al-maqāsu",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "أُرِيدُ حَقِيبَةً",
+    "romanization": "Urīdu ḥaqībatan",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "الْفُولُرُ",
+    "romanization": "Al-fūlu",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "الْفَاتُورَةُ",
+    "romanization": "Al-fātūratu",
+    "translation": "收据"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "أَنَا جَوْعَانُ",
+    "romanization": "Ana jūʿānu",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "أَنَا عَطْشَانُ",
+    "romanization": "Ana ʿaṭshānu",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "أُرِيدُ الطَّعَامَ",
+    "romanization": "Urīdu aṭ-ṭaʿām",
+    "translation": "我想要食物"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "أُرِيدُ الْمَاءَ",
+    "romanization": "Urīdu al-māʾ",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "مَا الطَّعَامُ الْمُفَضَّلُ؟",
+    "romanization": "Mā aṭ-ṭaʿām al-mufaḍḍal?",
+    "translation": "你最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "الْبَقَرُ",
+    "romanization": "Al-baqaru",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "الدَّجَاجُ",
+    "romanization": "Ad-dajāju",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "السَّمَكُ",
+    "romanization": "As-samaku",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "الْأُرْزُ",
+    "romanization": "Al-urzu",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "الْخُبْزُ",
+    "romanization": "Al-khubzu",
+    "translation": "面包"
+  },
+  {
+    "id": 155,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "الصُّورَةُ",
+    "romanization": "Aṣ-ṣūratu",
+    "translation": "拍照"
+  },
+  {
+    "id": 156,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ يُمْكِنُ التَّصْوِيرُ؟",
+    "romanization": "Hal yumkinu at-taṣwīr?",
+    "translation": "可以拍照吗？"
+  },
+  {
+    "id": 157,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "الْمَعْلَمُ السَّيَاحِيُّ",
+    "romanization": "Al-maʿlamu as-siyāḥiyyu",
+    "translation": "旅游景点"
+  },
+  {
+    "id": 158,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "أُرِيدُ دَلِيلًا سِيَاحِيًّا",
+    "romanization": "Urīdu dalīlan siyāḥiyyan",
+    "translation": "我要导游"
+  },
+  {
+    "id": 159,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "كَمْ تَذْكِرَةُ الدُّخُولِ؟",
+    "romanization": "Kam tadhkiratu ad-dukhūl?",
+    "translation": "门票多少钱？"
+  },
+  {
+    "id": 160,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "أَيْنَ الْمَتْحَفُ؟",
+    "romanization": "Ayna al-mathafu?",
+    "translation": "博物馆在哪？"
+  },
+  {
+    "id": 220,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "فِي أَيِّ سَاعَةٍ تَفْتَحُونَ؟",
+    "romanization": "Fī ayyi sāʿatin taftaḥūna?",
+    "translation": "几点开门？营业时间"
+  },
+  {
+    "id": 221,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "فِي أَيِّ سَاعَةٍ تُغْلِقُونَ؟",
+    "romanization": "Fī ayyi sāʿatin tughliqūna?",
+    "translation": "几点关门？营业时间是几点"
+  },
+  {
+    "id": 222,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ هَذَا الْمَقْعَدُ مَحْجُوزٌ؟",
+    "romanization": "Hal haḍa al-maqʿadu maḥjūzun?",
+    "translation": "这个座位有人吗？可以坐这里"
+  },
+  {
+    "id": 223,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "أَيْنَ مَكْتَبُ التَّذَاكِر؟",
+    "romanization": "Ayna maktabu at-tadhākir?",
+    "translation": "售票处在哪？买票"
+  },
+  {
+    "id": 224,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "كَمْ تَعْرِفَةُ الدُّخُول؟",
+    "romanization": "Kam taʿrīfatu ad-dukhūl?",
+    "translation": "门票多少钱？景点门票价格"
+  },
+  {
+    "id": 225,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ أَحْتاجُ إِلَى الحَجْزِ مُسْبَقًا؟",
+    "romanization": "Hal aḥtāju ilā al-ḥajzi musabaqan?",
+    "translation": "需要提前预订吗？要预约吗"
+  },
+  {
+    "id": 226,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ هُنَاكَ خَصْمٌ لِلطُّلَابِ؟",
+    "romanization": "Hal hunāka khaṣmun li-l-ṭullāb?",
+    "translation": "有学生票吗？学生优惠"
+  },
+  {
+    "id": 227,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ أَحْتاجُ إِلَى تَرْكِ بَقَشِيشٍ؟",
+    "romanization": "Hal aḥtāju ilā tarki baqshīsh?",
+    "translation": "需要付小费吗？tip 小费"
+  },
+  {
+    "id": 228,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ يُسْمَحُ بِالتَّصْوِيرِ هُنَا؟",
+    "romanization": "Hal yusmaḥu bi-t-taṣwīri hunā?",
+    "translation": "这里可以拍照吗？能拍照吗"
+  },
+  {
+    "id": 229,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "هَلْ التَّدْخِينُ مَسْمُوحٌ هُنَا؟",
+    "romanization": "Hal at-tadkhīnu masmūḥun hunā?",
+    "translation": "这里允许吸烟吗？禁烟规定"
+  },
+  {
+    "id": 230,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "أُرِيدُ أَنْ أَتَقَدَّمَ بِشَكْوَى.",
+    "romanization": "Urīdu an ataqqaddama bi-shakwā.",
+    "translation": "我要投诉。投诉服务员"
+  },
+  {
+    "id": 231,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "مَا هُوَ رَقْمُ الطَّوَارِئِ المَحَلِّي؟",
+    "romanization": "Mā huwa raqmu ṭ-ṭawāriʾi al-maḥallī?",
+    "translation": "当地的紧急电话是多少？当地报警电话"
+  },
+  {
+    "id": 232,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "أَيْنَ أَجِدُ سَيَّارَةَ الأَجْرَة؟",
+    "romanization": "Ayna ajid sayyārata al-ʾajra?",
+    "translation": "哪里可以打车？出租车在哪"
+  },
+  {
+    "id": 233,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "كَمْ سَيَأْخُذُ ذَلِكَ مِنَ الوَقْت؟",
+    "romanization": "Kam sayʾakhudhu dhālika mina al-waqt?",
+    "translation": "这需要多长时间？要多久"
+  },
+  {
+    "id": 234,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "مَا هِيَ سَاعَاتُ العَمَل؟",
+    "romanization": "Mā hiya sāʿātu al-ʿamal?",
+    "translation": "营业时间是几点？开门时间"
+  },
+  {
     "id": 147,
     "category": "medical",
     "category_zh": "医疗",
@@ -1168,52 +1136,324 @@
     "translation": "请叫急救"
   },
   {
-    "id": 155,
-    "category": "travel",
-    "category_zh": "旅游实用",
-    "text": "الصُّورَةُ",
-    "romanization": "Aṣ-ṣūratu",
-    "translation": "拍照"
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "نَعَمْ",
+    "romanization": "Naʿam",
+    "translation": "是"
   },
   {
-    "id": 156,
-    "category": "travel",
-    "category_zh": "旅游实用",
-    "text": "هَلْ يُمْكِنُ التَّصْوِيرُ؟",
-    "romanization": "Hal yumkinu at-taṣwīr?",
-    "translation": "可以拍照吗？"
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "لَا",
+    "romanization": "Lā",
+    "translation": "不"
   },
   {
-    "id": 157,
-    "category": "travel",
-    "category_zh": "旅游实用",
-    "text": "الْمَعْلَمُ السَّيَاحِيُّ",
-    "romanization": "Al-maʿlamu as-siyāḥiyyu",
-    "translation": "旅游景点"
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "مِنْ فَضْلِكَ",
+    "romanization": "Min faḍlik",
+    "translation": "请"
   },
   {
-    "id": 158,
-    "category": "travel",
-    "category_zh": "旅游实用",
-    "text": "أُرِيدُ دَلِيلًا سِيَاحِيًّا",
-    "romanization": "Urīdu dalīlan siyāḥiyyan",
-    "translation": "我要导游"
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "آسِفٌ",
+    "romanization": "Āsifun",
+    "translation": "对不起"
   },
   {
-    "id": 159,
-    "category": "travel",
-    "category_zh": "旅游实用",
-    "text": "كَمْ تَذْكِرَةُ الدُّخُولِ؟",
-    "romanization": "Kam tadhkiratu ad-dukhūl?",
-    "translation": "门票多少钱？"
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "لَا أَفْهَمُ",
+    "romanization": "Lā afhamu",
+    "translation": "我不懂"
   },
   {
-    "id": 160,
-    "category": "travel",
-    "category_zh": "旅游实用",
-    "text": "أَيْنَ الْمَتْحَفُ؟",
-    "romanization": "Ayna al-mathafu?",
-    "translation": "博物馆在哪？"
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "لَا أَتَكَلَّمُ الْعَرَبِيَّةَ",
+    "romanization": "Lā atakallamu al-ʿarabiyyata",
+    "translation": "我不会说阿拉伯语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "هَلْ تَتَكَلَّمُ الْإِنْجِلِيزِيَّةَ؟",
+    "romanization": "Hal tatakallamu al-anglīziyyata?",
+    "translation": "你会说英语吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "كَيْفَ تُقَالُ هَذِهِ الْكَلِمَةُ؟",
+    "romanization": "Kayfa tuqālu hādhihi al-kalimatu?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "مَاذَا تَعْنِي؟",
+    "romanization": "Mādhā taʿnī?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "سَأُحَاوِلُ",
+    "romanization": "Sa-uhāwilu",
+    "translation": "我试试"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "الْوَقْتُ",
+    "romanization": "Al-waqtu",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "الْيَوْمُ",
+    "romanization": "Al-yawmu",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "أَمْسِ",
+    "romanization": "Amsi",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "غَدًا",
+    "romanization": "Ghadan",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "الصَّبَاحُ",
+    "romanization": "Aṣ-ṣabāḥu",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "الْمَسَاءُ",
+    "romanization": "Al-masāʾu",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "اللَّيْلُ",
+    "romanization": "Al-laylu",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "السَّاعَةُ الْآنَ الثَّامِنَةُ",
+    "romanization": "As-sāʿatu al-āna ath-thāminatu",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "كَمْ مِنَ الْوَقْتِ؟",
+    "romanization": "Kam mina al-waqti?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "فِي السَّاعَةِ الْخَامِسَةِ",
+    "romanization": "Fī as-sāʿati al-khāmisati",
+    "translation": "5点钟"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "وَاحِدٌ",
+    "romanization": "Wāḥidun",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "اثْنَانِ",
+    "romanization": "Ithnāni",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "ثَلَاثَةٌ",
+    "romanization": "Thalāthatun",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "أَرْبَعَةٌ",
+    "romanization": "Arbaʿatun",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "خَمْسَةٌ",
+    "romanization": "Khamsatun",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "سِتَّةٌ",
+    "romanization": "Sittatun",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "سَبْعَةٌ",
+    "romanization": "Sabʿatun",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "ثَمَانِيَةٌ",
+    "romanization": "Thamāniyatun",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "تِسْعَةٌ",
+    "romanization": "Tisʿatun",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "عَشَرَةٌ",
+    "romanization": "ʿAsharatun",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْأَبُ",
+    "romanization": "Al-abu",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْأُمُّ",
+    "romanization": "Al-ummu",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْأَخُ",
+    "romanization": "Al-akhu",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْأُخْتُ",
+    "romanization": "Al-ukhtu",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الزَّوْجُ",
+    "romanization": "Az-zawju",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الزَّوْجَةُ",
+    "romanization": "Az-zawjatu",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الِابْنُ",
+    "romanization": "Al-ibnu",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْبِنْتُ",
+    "romanization": "Al-bintu",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْعَائِلَةُ",
+    "romanization": "Al-ʿāʾilatu",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "الْجَدُّ",
+    "romanization": "Al-jaddu",
+    "translation": "祖父"
   },
   {
     "id": 161,

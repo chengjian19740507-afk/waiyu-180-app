@@ -1,5 +1,125 @@
 [
   {
+    "id": 200,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मदद करें!",
+    "romanization": "Madad karein!",
+    "translation": "救命！"
+  },
+  {
+    "id": 201,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मुझे मदद चाहिए।",
+    "romanization": "Mujhe madad chahiye.",
+    "translation": "我需要帮助！"
+  },
+  {
+    "id": 202,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "कृपया एम्बुलेंस बुलाएं।",
+    "romanization": "Kripya ambulance bulayein.",
+    "translation": "请叫救护车！急救电话怎么说"
+  },
+  {
+    "id": 203,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "कृपया पुलिस को बुलाएं।",
+    "romanization": "Kripya police ko bulayein.",
+    "translation": "请报警。报警电话是多少"
+  },
+  {
+    "id": 204,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "यहां आपातकालीन नंबर क्या है?",
+    "romanization": "Yahaan aapatakaleen number kya hai?",
+    "translation": "这里的紧急电话是多少？紧急电话号码"
+  },
+  {
+    "id": 205,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मेरा पासपोर्ट खो गया।",
+    "romanization": "Mera passport kho gaya.",
+    "translation": "我的护照丢了。护照遗失"
+  },
+  {
+    "id": 206,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मेरा बटुआ चोरी हो गया।",
+    "romanization": "Mera batua chori ho gaya.",
+    "translation": "我的钱包被偷了。东西被偷"
+  },
+  {
+    "id": 207,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मुझे अपने दूतावास से संपर्क करना है।",
+    "romanization": "Mujhe apne dootavas se sampark karna hai.",
+    "translation": "我要联系大使馆。领事馆"
+  },
+  {
+    "id": 208,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मुझे मतलीब हो रही है।",
+    "romanization": "Mujhe matlab ho rahi hai.",
+    "translation": "我身体不舒服。生病了"
+  },
+  {
+    "id": 209,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मुझे बुखार है।",
+    "romanization": "Mujhe bukhar hai.",
+    "translation": "我发烧了。体温高"
+  },
+  {
+    "id": 210,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मुझे पेनिसिलिन से एलर्जी है।",
+    "romanization": "Mujhe penicillin se allergy hai.",
+    "translation": "我对青霉素过敏。药物过敏"
+  },
+  {
+    "id": 211,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "सबसे नज़दीकी अस्पताल कहाँ है?",
+    "romanization": "Sabse nazdeeki aspataal kahan hai?",
+    "translation": "最近的医院在哪？看医生"
+  },
+  {
+    "id": 212,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "सबसे नज़दीकी दवा की दुकान कहाँ है?",
+    "romanization": "Sabse nazdeeki dawa ki dukaan kahan hai?",
+    "translation": "最近的药店在哪？买药"
+  },
+  {
+    "id": 213,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "मुझे अभी डॉक्टर से मिलना है।",
+    "romanization": "Mujhe abhi doctor se milna hai.",
+    "translation": "我现在就要看医生。急诊"
+  },
+  {
+    "id": 214,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "कोई मुझे पीछा कर रहा है।",
+    "romanization": "Koi mujhe peecha kar raha hai.",
+    "translation": "有人在跟踪我。被跟踪"
+  },
+  {
     "id": 1,
     "category": "greetings",
     "category_zh": "问候",
@@ -158,646 +278,6 @@
     "text": "अलविदा",
     "romanization": "Alvida",
     "translation": "再见"
-  },
-  {
-    "id": 21,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "मुझे भूख लगी है",
-    "romanization": "Mujhe bhookh laggi hai",
-    "translation": "我饿了"
-  },
-  {
-    "id": 22,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "मुझे प्यास लगी है",
-    "romanization": "Mujhe pyaas laggi hai",
-    "translation": "我渴了"
-  },
-  {
-    "id": 23,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "मुझे खाना चाहिए",
-    "romanization": "Mujhe khaana chahiye",
-    "translation": "我想要食物"
-  },
-  {
-    "id": 24,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "मुझे पानी चाहिए",
-    "romanization": "Mujhe paani chahiye",
-    "translation": "我想要水"
-  },
-  {
-    "id": 25,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "आपका पसंदीदा खाना क्या है?",
-    "romanization": "Aapka pasandeeda khaana kya hai?",
-    "translation": "你最喜欢的食物？"
-  },
-  {
-    "id": 26,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "गाय का गोश्त",
-    "romanization": "Gaay ka gosht",
-    "translation": "牛肉"
-  },
-  {
-    "id": 27,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "मुर्गी",
-    "romanization": "Murgi",
-    "translation": "鸡肉"
-  },
-  {
-    "id": 28,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "मछली",
-    "romanization": "Machhli",
-    "translation": "鱼"
-  },
-  {
-    "id": 29,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "चावल",
-    "romanization": "Chaaval",
-    "translation": "米饭"
-  },
-  {
-    "id": 30,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "रोटी",
-    "romanization": "Roti",
-    "translation": "面包"
-  },
-  {
-    "id": 31,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "हवाई अड्डा कहाँ है?",
-    "romanization": "Hawai adda kahaan hai?",
-    "translation": "机场在哪？"
-  },
-  {
-    "id": 32,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "मुझे एक टिकट चाहिए",
-    "romanization": "Mujhe ek ticket chahiye",
-    "translation": "我想要一张票"
-  },
-  {
-    "id": 33,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "यह कितने का है?",
-    "romanization": "Yah kitne ka hai?",
-    "translation": "多少钱？"
-  },
-  {
-    "id": 34,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "ट्रेन कब छूटती है?",
-    "romanization": "Train kab chhootati hai?",
-    "translation": "火车几点开？"
-  },
-  {
-    "id": 35,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "कौन सा स्टेशन?",
-    "romanization": "Kaun sa station?",
-    "translation": "在哪个站？"
-  },
-  {
-    "id": 36,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "क्षमा कीजिए, ... कहाँ है?",
-    "romanization": "Kshama kijiye, ... kahaan hai?",
-    "translation": "请问...在哪？"
-  },
-  {
-    "id": 37,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "मुझे टैक्सी चाहिए",
-    "romanization": "Mujhe taxi chahiye",
-    "translation": "我要打车"
-  },
-  {
-    "id": 38,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "यहाँ",
-    "romanization": "Yahaan",
-    "translation": "到这里"
-  },
-  {
-    "id": 39,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "कृपया यहाँ रुकिए",
-    "romanization": "Kripaya yahaan rukie",
-    "translation": "请停车"
-  },
-  {
-    "id": 40,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "कितनी दूर है?",
-    "romanization": "Kitni door hai?",
-    "translation": "距离多远？"
-  },
-  {
-    "id": 41,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "यह कितने का है?",
-    "romanization": "Yah kitne ka hai?",
-    "translation": "这个多少钱？"
-  },
-  {
-    "id": 42,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "बहुत महंगा",
-    "romanization": "Bahut mehanga",
-    "translation": "太贵了"
-  },
-  {
-    "id": 43,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "यह सस्ता है",
-    "romanization": "Yah sasta hai",
-    "translation": "便宜"
-  },
-  {
-    "id": 44,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "क्या मोलभाव कर सकता हूँ?",
-    "romanization": "Kya molbhav kar sakta hoon?",
-    "translation": "能讲价吗？"
-  },
-  {
-    "id": 45,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "मुझे यह चाहिए",
-    "romanization": "Mujhe yeh chahiye",
-    "translation": "我要这个"
-  },
-  {
-    "id": 46,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "... की दुकान कहाँ है?",
-    "romanization": "... ki dukaan kahaan hai?",
-    "translation": "...店在哪？"
-  },
-  {
-    "id": 47,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "साइज़",
-    "romanization": "Size",
-    "translation": "尺寸"
-  },
-  {
-    "id": 48,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "मुझे एक थैला चाहिए",
-    "romanization": "Mujhe ek thaila chahiye",
-    "translation": "我要一个包"
-  },
-  {
-    "id": 49,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "पैसे वापस",
-    "romanization": "Paise wapas",
-    "translation": "找零"
-  },
-  {
-    "id": 50,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "रसीद",
-    "romanization": "Raseed",
-    "translation": "收据"
-  },
-  {
-    "id": 51,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "समय",
-    "romanization": "Samay",
-    "translation": "时间"
-  },
-  {
-    "id": 52,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "आज",
-    "romanization": "Aaj",
-    "translation": "今天"
-  },
-  {
-    "id": 53,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "कल",
-    "romanization": "Kal",
-    "translation": "昨天"
-  },
-  {
-    "id": 54,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "परसों",
-    "romanization": "Parsun",
-    "translation": "明天"
-  },
-  {
-    "id": 55,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "सुबह",
-    "romanization": "Subah",
-    "translation": "早上"
-  },
-  {
-    "id": 56,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "शाम",
-    "romanization": "Shaam",
-    "translation": "晚上"
-  },
-  {
-    "id": 57,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "रात को",
-    "romanization": "Raat ko",
-    "translation": "夜里"
-  },
-  {
-    "id": 58,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "अब आठ बजे हैं",
-    "romanization": "Ab aath baje hain",
-    "translation": "现在是8点"
-  },
-  {
-    "id": 59,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "कितनी देर?",
-    "romanization": "Kitni der?",
-    "translation": "多久？"
-  },
-  {
-    "id": 60,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "पाँच बजे",
-    "romanization": "Paanch baje",
-    "translation": "5点钟"
-  },
-  {
-    "id": 61,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "बाथरूम कहाँ है?",
-    "romanization": "Bathroom kahaan hai?",
-    "translation": "洗手间在哪？"
-  },
-  {
-    "id": 62,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "दाएँ मुड़िए",
-    "romanization": "Daaye murie",
-    "translation": "向右"
-  },
-  {
-    "id": 63,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "बाएँ मुड़िए",
-    "romanization": "Baaye murie",
-    "translation": "向左"
-  },
-  {
-    "id": 64,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "सीधे जाइए",
-    "romanization": "Seedhe jaie",
-    "translation": "直走"
-  },
-  {
-    "id": 65,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "यह दूर है",
-    "romanization": "Yah door hai",
-    "translation": "远"
-  },
-  {
-    "id": 66,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "यह पास है",
-    "romanization": "Yah paas hai",
-    "translation": "近"
-  },
-  {
-    "id": 67,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "यहाँ",
-    "romanization": "Yahaan",
-    "translation": "这里"
-  },
-  {
-    "id": 68,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "वहाँ",
-    "romanization": "Vahaan",
-    "translation": "那里"
-  },
-  {
-    "id": 69,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "गली",
-    "romanization": "Gali",
-    "translation": "街道"
-  },
-  {
-    "id": 70,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "नक्शा",
-    "romanization": "Naksha",
-    "translation": "地图"
-  },
-  {
-    "id": 71,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "एक",
-    "romanization": "Ek",
-    "translation": "一"
-  },
-  {
-    "id": 72,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "दो",
-    "romanization": "Do",
-    "translation": "二"
-  },
-  {
-    "id": 73,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "तीन",
-    "romanization": "Teen",
-    "translation": "三"
-  },
-  {
-    "id": 74,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "चार",
-    "romanization": "Chaar",
-    "translation": "四"
-  },
-  {
-    "id": 75,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "पाँच",
-    "romanization": "Paanch",
-    "translation": "五"
-  },
-  {
-    "id": 76,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "छह",
-    "romanization": "Chah",
-    "translation": "六"
-  },
-  {
-    "id": 77,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "सात",
-    "romanization": "Saat",
-    "translation": "七"
-  },
-  {
-    "id": 78,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "आठ",
-    "romanization": "Aath",
-    "translation": "八"
-  },
-  {
-    "id": 79,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "नौ",
-    "romanization": "Nau",
-    "translation": "九"
-  },
-  {
-    "id": 80,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "दस",
-    "romanization": "Das",
-    "translation": "十"
-  },
-  {
-    "id": 81,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "पिता",
-    "romanization": "Pita",
-    "translation": "父亲"
-  },
-  {
-    "id": 82,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "माता",
-    "romanization": "Mata",
-    "translation": "母亲"
-  },
-  {
-    "id": 83,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "भाई",
-    "romanization": "Bhaai",
-    "translation": "兄弟"
-  },
-  {
-    "id": 84,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "बहन",
-    "romanization": "Behno",
-    "translation": "姐妹"
-  },
-  {
-    "id": 85,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "पति",
-    "romanization": "Pati",
-    "translation": "丈夫"
-  },
-  {
-    "id": 86,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "पत्नी",
-    "romanization": "Patni",
-    "translation": "妻子"
-  },
-  {
-    "id": 87,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "बेटा",
-    "romanization": "Beta",
-    "translation": "儿子"
-  },
-  {
-    "id": 88,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "बेटी",
-    "romanization": "Beti",
-    "translation": "女儿"
-  },
-  {
-    "id": 89,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "परिवार",
-    "romanization": "Parivaar",
-    "translation": "家庭"
-  },
-  {
-    "id": 90,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "दादा",
-    "romanization": "Daada",
-    "translation": "祖父"
-  },
-  {
-    "id": 91,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "हाँ",
-    "romanization": "Haan",
-    "translation": "是"
-  },
-  {
-    "id": 92,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "नहीं",
-    "romanization": "Nahin",
-    "translation": "不"
-  },
-  {
-    "id": 93,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "कृपया",
-    "romanization": "Kripaya",
-    "translation": "请"
-  },
-  {
-    "id": 94,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "माफ़ कीजिए",
-    "romanization": "Maaf kijiye",
-    "translation": "对不起"
-  },
-  {
-    "id": 95,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "मुझे समझ नहीं आया",
-    "romanization": "Mujhe samajh nahi aaya",
-    "translation": "我不懂"
-  },
-  {
-    "id": 96,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "मैं अंग्रेज़ी नहीं बोलता",
-    "romanization": "Main angrezi nahi bolta",
-    "translation": "我不会说英语"
-  },
-  {
-    "id": 97,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "क्या आप चीनी बोलते हैं?",
-    "romanization": "Kya aap Cheeni bolte hain?",
-    "translation": "你会说中文吗？"
-  },
-  {
-    "id": 98,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "यह शब्द कैसे कहते हैं?",
-    "romanization": "Yah shabd kaise kahte hain?",
-    "translation": "这个词怎么说？"
-  },
-  {
-    "id": 99,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "इसका क्या मतलब है?",
-    "romanization": "Iska kya matlab hai?",
-    "translation": "什么意思？"
-  },
-  {
-    "id": 100,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "मैं कोशिश करूँगा",
-    "romanization": "Main koshish karunga",
-    "translation": "我试试"
   },
   {
     "id": 101,
@@ -960,54 +440,6 @@
     "translation": "请打扫房间"
   },
   {
-    "id": 121,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "मैं व्यापारिक यात्रा पर हूँ",
-    "romanization": "Main vyaapaarik yatra par hoon",
-    "translation": "我是来商务出差的"
-  },
-  {
-    "id": 122,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "मेरे पास व्यापार वीज़ा है",
-    "romanization": "Mere paas vyaapaar visa hai",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 123,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "मैं यहाँ काम के लिए आया हूँ",
-    "romanization": "Main yahaan kaam ke liye aaya hoon",
-    "translation": "我来工作"
-  },
-  {
-    "id": 124,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "मैं यहाँ पढ़ाई कर रहा हूँ",
-    "romanization": "Main yahaan padhaai kar raha hoon",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 125,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "मेरे पास छात्र वीज़ा है",
-    "romanization": "Mere paas chhaatr visa hai",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 126,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "मेरा उद्देश्य पढ़ाई है",
-    "romanization": "Mera uddeshy padhaai hai",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 127,
     "category": "frontdesk",
     "category_zh": "前台常用",
@@ -1078,6 +510,14 @@
     "text": "क्या आप मेरे लिए टैक्सी बुला सकते हैं?",
     "romanization": "Kya aap mere liye taxi bula sakte hain?",
     "translation": "请帮我叫出租车"
+  },
+  {
+    "id": 171,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "नाश्ते का समय क्या है?",
+    "romanization": "Naashte ka samay kya hai?",
+    "translation": "请问早餐时间？"
   },
   {
     "id": 136,
@@ -1160,44 +600,324 @@
     "translation": "可以打包吗？"
   },
   {
-    "id": 146,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "मुझे डॉक्टर चाहिए",
-    "romanization": "Mujhe doctor chahiye",
-    "translation": "我需要医生"
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "हवाई अड्डा कहाँ है?",
+    "romanization": "Hawai adda kahaan hai?",
+    "translation": "机场在哪？"
   },
   {
-    "id": 147,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "अस्पताल कहाँ है?",
-    "romanization": "Aspataal kahaan hai?",
-    "translation": "医院在哪？"
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "मुझे एक टिकट चाहिए",
+    "romanization": "Mujhe ek ticket chahiye",
+    "translation": "我想要一张票"
   },
   {
-    "id": 148,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "दवाखाना कहाँ है?",
-    "romanization": "Davaakhana kahaan hai?",
-    "translation": "药店在哪？"
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "यह कितने का है?",
+    "romanization": "Yah kitne ka hai?",
+    "translation": "多少钱？"
   },
   {
-    "id": 149,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "मुझे सिरदर्द है",
-    "romanization": "Mujhe sardard hai",
-    "translation": "我头痛"
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "ट्रेन कब छूटती है?",
+    "romanization": "Train kab chhootati hai?",
+    "translation": "火车几点开？"
   },
   {
-    "id": 150,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "मुझे बुखार है",
-    "romanization": "Mujhe buukhaar hai",
-    "translation": "我发烧"
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "कौन सा स्टेशन?",
+    "romanization": "Kaun sa station?",
+    "translation": "在哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "क्षमा कीजिए, ... कहाँ है?",
+    "romanization": "Kshama kijiye, ... kahaan hai?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "मुझे टैक्सी चाहिए",
+    "romanization": "Mujhe taxi chahiye",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "यहाँ",
+    "romanization": "Yahaan",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "कृपया यहाँ रुकिए",
+    "romanization": "Kripaya yahaan rukie",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "कितनी दूर है?",
+    "romanization": "Kitni door hai?",
+    "translation": "距离多远？"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "बाथरूम कहाँ है?",
+    "romanization": "Bathroom kahaan hai?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "दाएँ मुड़िए",
+    "romanization": "Daaye murie",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "बाएँ मुड़िए",
+    "romanization": "Baaye murie",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "सीधे जाइए",
+    "romanization": "Seedhe jaie",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "यह दूर है",
+    "romanization": "Yah door hai",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "यह पास है",
+    "romanization": "Yah paas hai",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "यहाँ",
+    "romanization": "Yahaan",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "वहाँ",
+    "romanization": "Vahaan",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "गली",
+    "romanization": "Gali",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "नक्शा",
+    "romanization": "Naksha",
+    "translation": "地图"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "यह कितने का है?",
+    "romanization": "Yah kitne ka hai?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "बहुत महंगा",
+    "romanization": "Bahut mehanga",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "यह सस्ता है",
+    "romanization": "Yah sasta hai",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "क्या मोलभाव कर सकता हूँ?",
+    "romanization": "Kya molbhav kar sakta hoon?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "मुझे यह चाहिए",
+    "romanization": "Mujhe yeh chahiye",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "... की दुकान कहाँ है?",
+    "romanization": "... ki dukaan kahaan hai?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "साइज़",
+    "romanization": "Size",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "मुझे एक थैला चाहिए",
+    "romanization": "Mujhe ek thaila chahiye",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "पैसे वापस",
+    "romanization": "Paise wapas",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "रसीद",
+    "romanization": "Raseed",
+    "translation": "收据"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "मुझे भूख लगी है",
+    "romanization": "Mujhe bhookh laggi hai",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "मुझे प्यास लगी है",
+    "romanization": "Mujhe pyaas laggi hai",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "मुझे खाना चाहिए",
+    "romanization": "Mujhe khaana chahiye",
+    "translation": "我想要食物"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "मुझे पानी चाहिए",
+    "romanization": "Mujhe paani chahiye",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "आपका पसंदीदा खाना क्या है?",
+    "romanization": "Aapka pasandeeda khaana kya hai?",
+    "translation": "你最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "गाय का गोश्त",
+    "romanization": "Gaay ka gosht",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "मुर्गी",
+    "romanization": "Murgi",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "मछली",
+    "romanization": "Machhli",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "चावल",
+    "romanization": "Chaaval",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "रोटी",
+    "romanization": "Roti",
+    "translation": "面包"
   },
   {
     "id": 151,
@@ -1280,92 +1000,164 @@
     "translation": "紧急电话是多少？"
   },
   {
-    "id": 161,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "आपका कुलनाम क्या है?",
-    "romanization": "Aapaka kulnaam kya hai?",
-    "translation": "请问您贵姓？"
+    "id": 220,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "आप कितने बजे खुलते हैं?",
+    "romanization": "Aap kitne baje khulte hain?",
+    "translation": "几点开门？营业时间"
   },
   {
-    "id": 162,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "मेरा नाम...",
-    "romanization": "Mera naam...",
-    "translation": "我叫..."
+    "id": 221,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "आप कितने बजे बंद होते हैं?",
+    "romanization": "Aap kitne baje band hote hain?",
+    "translation": "几点关门？营业时间是几点"
   },
   {
-    "id": 163,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "आपसे मिलकर प्रसन्नता हुई",
-    "romanization": "Aapse milkar prasannata hui",
-    "translation": "很高兴认识您"
+    "id": 222,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "क्या यह सीट खाली है?",
+    "romanization": "Kya yeh seat khaali hai?",
+    "translation": "这个座位有人吗？可以坐这里"
   },
   {
-    "id": 164,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "आपका पद क्या है?",
-    "romanization": "Aapaka pad kya hai?",
-    "translation": "请问您的职务是？"
+    "id": 223,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "टिकट काउंटर कहाँ है?",
+    "romanization": "Ticket counter kahan hai?",
+    "translation": "售票处在哪？买票"
   },
   {
-    "id": 165,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "क्या हम मीटिंग का समय तय कर सकते हैं?",
-    "romanization": "Kya ham meeting ka samay tay kar sakte hain?",
-    "translation": "我们能约个时间吗？"
+    "id": 224,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "प्रवेश शुल्क कितना है?",
+    "romanization": "Pravish shulk kitna hai?",
+    "translation": "门票多少钱？景点门票价格"
   },
   {
-    "id": 166,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "यह मेरा विज़िटिंग कार्ड है",
-    "romanization": "Yah mera visiting card hai",
-    "translation": "这是我的名片"
+    "id": 225,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "क्या पहले से बुकिंग करनी होगी?",
+    "romanization": "Kya pehle se booking karni hogi?",
+    "translation": "需要提前预订吗？要预约吗"
   },
   {
-    "id": 167,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "कृपया मुझे ईमेल कीजिए",
-    "romanization": "Kripaya mujhe email kijiye",
-    "translation": "请发邮件给我"
+    "id": 226,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "क्या छात्रों के लिए छूट है?",
+    "romanization": "Kya chhatron ke liye chhoot hai?",
+    "translation": "有学生票吗？学生优惠"
   },
   {
-    "id": 168,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "कृपया मुझे वीचैट पर जोड़िए",
-    "romanization": "Kripaya mujhe WeChat par jodein",
-    "translation": "请加我微信"
+    "id": 227,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "क्या मुझे टिप देनी चाहिए?",
+    "romanization": "Kya mujhe tip deni chahiye?",
+    "translation": "需要付小费吗？tip 小费"
   },
   {
-    "id": 169,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "आपकी आतिथ्य के लिए धन्यवाद",
-    "romanization": "Aapki aatithay ke liye dhanyavaad",
-    "translation": "谢谢您的款待"
+    "id": 228,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "क्या मैं यहां फोटो खींच सकता हूं?",
+    "romanization": "Kya main yahan photo kheen sakta hoon?",
+    "translation": "这里可以拍照吗？能拍照吗"
   },
   {
-    "id": 170,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "फिर मिलेंगे",
-    "romanization": "Phir milenge",
-    "translation": "后会有期"
+    "id": 229,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "क्या यहां धूम्रपान कर सकते हैं?",
+    "romanization": "Kya yahan dhumrapan kar sakte hain?",
+    "translation": "这里允许吸烟吗？禁烟规定"
   },
   {
-    "id": 171,
-    "category": "frontdesk",
-    "category_zh": "前台常用",
-    "text": "नाश्ते का समय क्या है?",
-    "romanization": "Naashte ka samay kya hai?",
-    "translation": "请问早餐时间？"
+    "id": 230,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "मैं शिकायत दर्ज करना चाहता हूं।",
+    "romanization": "Main shikayat darj karna chahta hoon.",
+    "translation": "我要投诉。投诉服务员"
+  },
+  {
+    "id": 231,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "यहां का स्थानीय आपातकालीन नंबर क्या है?",
+    "romanization": "Yahaan ka sthaniya aapatakaleen number kya hai?",
+    "translation": "当地的紧急电话是多少？当地报警电话"
+  },
+  {
+    "id": 232,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "मैं टैक्सी कहां से ले सकता हूं?",
+    "romanization": "Main taxi kahan se le sakta hoon?",
+    "translation": "哪里可以打车？出租车在哪"
+  },
+  {
+    "id": 233,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "इसमें कितना समय लगेगा?",
+    "romanization": "Ismein kitna samay lagega?",
+    "translation": "这需要多长时间？要多久"
+  },
+  {
+    "id": 234,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "खुलने का समय क्या है?",
+    "romanization": "Khulne ka samay kya hai?",
+    "translation": "营业时间是几点？开门时间"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "मुझे डॉक्टर चाहिए",
+    "romanization": "Mujhe doctor chahiye",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "अस्पताल कहाँ है?",
+    "romanization": "Aspataal kahaan hai?",
+    "translation": "医院在哪？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "दवाखाना कहाँ है?",
+    "romanization": "Davaakhana kahaan hai?",
+    "translation": "药店在哪？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "मुझे सिरदर्द है",
+    "romanization": "Mujhe sardard hai",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "मुझे बुखार है",
+    "romanization": "Mujhe buukhaar hai",
+    "translation": "我发烧"
   },
   {
     "id": 172,
@@ -1408,6 +1200,374 @@
     "translation": "请叫救护车"
   },
   {
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "हाँ",
+    "romanization": "Haan",
+    "translation": "是"
+  },
+  {
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "नहीं",
+    "romanization": "Nahin",
+    "translation": "不"
+  },
+  {
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "कृपया",
+    "romanization": "Kripaya",
+    "translation": "请"
+  },
+  {
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "माफ़ कीजिए",
+    "romanization": "Maaf kijiye",
+    "translation": "对不起"
+  },
+  {
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "मुझे समझ नहीं आया",
+    "romanization": "Mujhe samajh nahi aaya",
+    "translation": "我不懂"
+  },
+  {
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "मैं अंग्रेज़ी नहीं बोलता",
+    "romanization": "Main angrezi nahi bolta",
+    "translation": "我不会说英语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "क्या आप चीनी बोलते हैं?",
+    "romanization": "Kya aap Cheeni bolte hain?",
+    "translation": "你会说中文吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "यह शब्द कैसे कहते हैं?",
+    "romanization": "Yah shabd kaise kahte hain?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "इसका क्या मतलब है?",
+    "romanization": "Iska kya matlab hai?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "मैं कोशिश करूँगा",
+    "romanization": "Main koshish karunga",
+    "translation": "我试试"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "समय",
+    "romanization": "Samay",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "आज",
+    "romanization": "Aaj",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "कल",
+    "romanization": "Kal",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "परसों",
+    "romanization": "Parsun",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "सुबह",
+    "romanization": "Subah",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "शाम",
+    "romanization": "Shaam",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "रात को",
+    "romanization": "Raat ko",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "अब आठ बजे हैं",
+    "romanization": "Ab aath baje hain",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "कितनी देर?",
+    "romanization": "Kitni der?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "पाँच बजे",
+    "romanization": "Paanch baje",
+    "translation": "5点钟"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "एक",
+    "romanization": "Ek",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "दो",
+    "romanization": "Do",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "तीन",
+    "romanization": "Teen",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "चार",
+    "romanization": "Chaar",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "पाँच",
+    "romanization": "Paanch",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "छह",
+    "romanization": "Chah",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "सात",
+    "romanization": "Saat",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "आठ",
+    "romanization": "Aath",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "नौ",
+    "romanization": "Nau",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "दस",
+    "romanization": "Das",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "पिता",
+    "romanization": "Pita",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "माता",
+    "romanization": "Mata",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "भाई",
+    "romanization": "Bhaai",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "बहन",
+    "romanization": "Behno",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "पति",
+    "romanization": "Pati",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "पत्नी",
+    "romanization": "Patni",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "बेटा",
+    "romanization": "Beta",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "बेटी",
+    "romanization": "Beti",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "परिवार",
+    "romanization": "Parivaar",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "दादा",
+    "romanization": "Daada",
+    "translation": "祖父"
+  },
+  {
+    "id": 121,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "मैं व्यापारिक यात्रा पर हूँ",
+    "romanization": "Main vyaapaarik yatra par hoon",
+    "translation": "我是来商务出差的"
+  },
+  {
+    "id": 122,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "मेरे पास व्यापार वीज़ा है",
+    "romanization": "Mere paas vyaapaar visa hai",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 123,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "मैं यहाँ काम के लिए आया हूँ",
+    "romanization": "Main yahaan kaam ke liye aaya hoon",
+    "translation": "我来工作"
+  },
+  {
+    "id": 124,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "मैं यहाँ पढ़ाई कर रहा हूँ",
+    "romanization": "Main yahaan padhaai kar raha hoon",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 125,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "मेरे पास छात्र वीज़ा है",
+    "romanization": "Mere paas chhaatr visa hai",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 126,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "मेरा उद्देश्य पढ़ाई है",
+    "romanization": "Mera uddeshy padhaai hai",
+    "translation": "我的目的是学习"
+  },
+  {
     "id": 177,
     "category": "visa",
     "category_zh": "签证类型",
@@ -1438,5 +1598,85 @@
     "text": "मैं विस्तार के लिए आवेदन करना चाहता हूँ",
     "romanization": "Main vistaar ke liye aavedan karna chahta hoon",
     "translation": "我想申请延期"
+  },
+  {
+    "id": 161,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "आपका कुलनाम क्या है?",
+    "romanization": "Aapaka kulnaam kya hai?",
+    "translation": "请问您贵姓？"
+  },
+  {
+    "id": 162,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "मेरा नाम...",
+    "romanization": "Mera naam...",
+    "translation": "我叫..."
+  },
+  {
+    "id": 163,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "आपसे मिलकर प्रसन्नता हुई",
+    "romanization": "Aapse milkar prasannata hui",
+    "translation": "很高兴认识您"
+  },
+  {
+    "id": 164,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "आपका पद क्या है?",
+    "romanization": "Aapaka pad kya hai?",
+    "translation": "请问您的职务是？"
+  },
+  {
+    "id": 165,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "क्या हम मीटिंग का समय तय कर सकते हैं?",
+    "romanization": "Kya ham meeting ka samay tay kar sakte hain?",
+    "translation": "我们能约个时间吗？"
+  },
+  {
+    "id": 166,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "यह मेरा विज़िटिंग कार्ड है",
+    "romanization": "Yah mera visiting card hai",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 167,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "कृपया मुझे ईमेल कीजिए",
+    "romanization": "Kripaya mujhe email kijiye",
+    "translation": "请发邮件给我"
+  },
+  {
+    "id": 168,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "कृपया मुझे वीचैट पर जोड़िए",
+    "romanization": "Kripaya mujhe WeChat par jodein",
+    "translation": "请加我微信"
+  },
+  {
+    "id": 169,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "आपकी आतिथ्य के लिए धन्यवाद",
+    "romanization": "Aapki aatithay ke liye dhanyavaad",
+    "translation": "谢谢您的款待"
+  },
+  {
+    "id": 170,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "फिर मिलेंगे",
+    "romanization": "Phir milenge",
+    "translation": "后会有期"
   }
 ]

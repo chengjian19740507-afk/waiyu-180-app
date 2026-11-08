@@ -1,5 +1,125 @@
 [
   {
+    "id": 200,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Cứu tôi!",
+    "romanization": "Cứu tôi!",
+    "translation": "救命！"
+  },
+  {
+    "id": 201,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi cần giúp đỡ!",
+    "romanization": "Tôi cần giúp đỡ!",
+    "translation": "我需要帮助！"
+  },
+  {
+    "id": 202,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Xin gọi xe cứu thương!",
+    "romanization": "Xin gọi xe cứu thương!",
+    "translation": "请叫救护车！急救电话怎么说"
+  },
+  {
+    "id": 203,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Xin gọi cảnh sát.",
+    "romanization": "Xin gọi cảnh sát.",
+    "translation": "请报警。报警电话是多少"
+  },
+  {
+    "id": 204,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Số điện thoại khẩn cấp ở đây là gì?",
+    "romanization": "Số điện thoại khẩn cấp ở đây là gì?",
+    "translation": "这里的紧急电话是多少？紧急电话号码"
+  },
+  {
+    "id": 205,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi đánh mất hộ chiếu.",
+    "romanization": "Tôi đánh mất hộ chiếu.",
+    "translation": "我的护照丢了。护照遗失"
+  },
+  {
+    "id": 206,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Ví của tôi bị trộm.",
+    "romanization": "Ví của tôi bị trộm.",
+    "translation": "我的钱包被偷了。东西被偷"
+  },
+  {
+    "id": 207,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi cần liên lạc với đại sứ quán.",
+    "romanization": "Tôi cần liên lạc với đại sứ quán.",
+    "translation": "我要联系大使馆。领事馆"
+  },
+  {
+    "id": 208,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi thấy không khỏe.",
+    "romanization": "Tôi thấy không khỏe.",
+    "translation": "我身体不舒服。生病了"
+  },
+  {
+    "id": 209,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi bị sốt.",
+    "romanization": "Tôi bị sốt.",
+    "translation": "我发烧了。体温高"
+  },
+  {
+    "id": 210,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi dị ứng với penicillin.",
+    "romanization": "Tôi dị ứng với penicillin.",
+    "translation": "我对青霉素过敏。药物过敏"
+  },
+  {
+    "id": 211,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Bệnh viện gần nhất ở đâu?",
+    "romanization": "Bệnh viện gần nhất ở đâu?",
+    "translation": "最近的医院在哪？看医生"
+  },
+  {
+    "id": 212,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Nhà thuốc gần nhất ở đâu?",
+    "romanization": "Nhà thuốc gần nhất ở đâu?",
+    "translation": "最近的药店在哪？买药"
+  },
+  {
+    "id": 213,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Tôi cần gặp bác sĩ ngay.",
+    "romanization": "Tôi cần gặp bác sĩ ngay.",
+    "translation": "我现在就要看医生。急诊"
+  },
+  {
+    "id": 214,
+    "category": "emergency",
+    "category_zh": "紧急求助",
+    "text": "Có người đang theo dõi tôi.",
+    "romanization": "Có người đang theo dõi tôi.",
+    "translation": "有人在跟踪我。被跟踪"
+  },
+  {
     "id": 1,
     "category": "greetings",
     "category_zh": "问候",
@@ -158,646 +278,6 @@
     "text": "Tạm biệt",
     "romanization": "Tạm biệt",
     "translation": "再见"
-  },
-  {
-    "id": 21,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Tôi đói",
-    "romanization": "Tôi đói",
-    "translation": "我饿了"
-  },
-  {
-    "id": 22,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Tôi khát",
-    "romanization": "Tôi khát",
-    "translation": "我渴了"
-  },
-  {
-    "id": 23,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Tôi muốn ăn",
-    "romanization": "Tôi muốn ăn",
-    "translation": "我想要食物"
-  },
-  {
-    "id": 24,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Tôi muốn nước",
-    "romanization": "Tôi muốn nước",
-    "translation": "我想要水"
-  },
-  {
-    "id": 25,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Món ăn yêu thích của bạn là gì?",
-    "romanization": "Món ăn yêu thích của bạn là gì?",
-    "translation": "你最喜欢的食物？"
-  },
-  {
-    "id": 26,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Thịt bò",
-    "romanization": "Thịt bò",
-    "translation": "牛肉"
-  },
-  {
-    "id": 27,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Thịt gà",
-    "romanization": "Thịt gà",
-    "translation": "鸡肉"
-  },
-  {
-    "id": 28,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Cá",
-    "romanization": "Cá",
-    "translation": "鱼"
-  },
-  {
-    "id": 29,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Cơm",
-    "romanization": "Cơm",
-    "translation": "米饭"
-  },
-  {
-    "id": 30,
-    "category": "food",
-    "category_zh": "饮食",
-    "text": "Bánh mì",
-    "romanization": "Bánh mì",
-    "translation": "面包"
-  },
-  {
-    "id": 31,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Sân bay ở đâu?",
-    "romanization": "Sân bay ở đâu?",
-    "translation": "机场在哪？"
-  },
-  {
-    "id": 32,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Tôi muốn mua vé",
-    "romanization": "Tôi muốn mua vé",
-    "translation": "我想要一张票"
-  },
-  {
-    "id": 33,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Bao nhiêu tiền?",
-    "romanization": "Bao nhiêu tiền?",
-    "translation": "多少钱？"
-  },
-  {
-    "id": 34,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Tàu khởi hành lúc mấy giờ?",
-    "romanization": "Tàu khởi hành lúc mấy giờ?",
-    "translation": "火车几点开？"
-  },
-  {
-    "id": 35,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Ga nào?",
-    "romanization": "Ga nào?",
-    "translation": "在哪个站？"
-  },
-  {
-    "id": 36,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Xin lỗi, ... ở đâu?",
-    "romanization": "Xin lỗi, ... ở đâu?",
-    "translation": "请问...在哪？"
-  },
-  {
-    "id": 37,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Tôi muốn đón taxi",
-    "romanization": "Tôi muốn đón taxi",
-    "translation": "我要打车"
-  },
-  {
-    "id": 38,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Đến đây",
-    "romanization": "Đến đây",
-    "translation": "到这里"
-  },
-  {
-    "id": 39,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Dừng lại đây",
-    "romanization": "Dừng lại đây",
-    "translation": "请停车"
-  },
-  {
-    "id": 40,
-    "category": "transport",
-    "category_zh": "交通",
-    "text": "Cách xa bao nhiêu?",
-    "romanization": "Cách xa bao nhiêu?",
-    "translation": "距离多远？"
-  },
-  {
-    "id": 41,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Cái này bao nhiêu tiền?",
-    "romanization": "Cái này bao nhiêu tiền?",
-    "translation": "这个多少钱？"
-  },
-  {
-    "id": 42,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Đắt quá",
-    "romanization": "Đắt quá",
-    "translation": "太贵了"
-  },
-  {
-    "id": 43,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Rẻ",
-    "romanization": "Rẻ",
-    "translation": "便宜"
-  },
-  {
-    "id": 44,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Có thể trả giá không?",
-    "romanization": "Có thể trả giá không?",
-    "translation": "能讲价吗？"
-  },
-  {
-    "id": 45,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Tôi muốn cái này",
-    "romanization": "Tôi muốn cái này",
-    "translation": "我要这个"
-  },
-  {
-    "id": 46,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Cửa hàng ... ở đâu?",
-    "romanization": "Cửa hàng ... ở đâu?",
-    "translation": "...店在哪？"
-  },
-  {
-    "id": 47,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Kích cỡ",
-    "romanization": "Kích cỡ",
-    "translation": "尺寸"
-  },
-  {
-    "id": 48,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Tôi muốn một cái túi",
-    "romanization": "Tôi muốn một cái túi",
-    "translation": "我要一个包"
-  },
-  {
-    "id": 49,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Tiền thừa",
-    "romanization": "Tiền thừa",
-    "translation": "找零"
-  },
-  {
-    "id": 50,
-    "category": "shopping",
-    "category_zh": "购物",
-    "text": "Hóa đơn",
-    "romanization": "Hóa đơn",
-    "translation": "收据"
-  },
-  {
-    "id": 51,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Mấy giờ rồi?",
-    "romanization": "Mấy giờ rồi?",
-    "translation": "时间"
-  },
-  {
-    "id": 52,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Hôm nay",
-    "romanization": "Hôm nay",
-    "translation": "今天"
-  },
-  {
-    "id": 53,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Hôm qua",
-    "romanization": "Hôm qua",
-    "translation": "昨天"
-  },
-  {
-    "id": 54,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Ngày mai",
-    "romanization": "Ngày mai",
-    "translation": "明天"
-  },
-  {
-    "id": 55,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Buổi sáng",
-    "romanization": "Buổi sáng",
-    "translation": "早上"
-  },
-  {
-    "id": 56,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Buổi tối",
-    "romanization": "Buổi tối",
-    "translation": "晚上"
-  },
-  {
-    "id": 57,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Ban đêm",
-    "romanization": "Ban đêm",
-    "translation": "夜里"
-  },
-  {
-    "id": 58,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Bây giờ là tám giờ",
-    "romanization": "Bây giờ là tám giờ",
-    "translation": "现在是8点"
-  },
-  {
-    "id": 59,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Bao lâu?",
-    "romanization": "Bao lâu?",
-    "translation": "多久？"
-  },
-  {
-    "id": 60,
-    "category": "time",
-    "category_zh": "时间日期",
-    "text": "Lúc năm giờ",
-    "romanization": "Lúc năm giờ",
-    "translation": "5点钟"
-  },
-  {
-    "id": 61,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Nhà vệ sinh ở đâu?",
-    "romanization": "Nhà vệ sinh ở đâu?",
-    "translation": "洗手间在哪？"
-  },
-  {
-    "id": 62,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Rẽ phải",
-    "romanization": "Rẽ phải",
-    "translation": "向右"
-  },
-  {
-    "id": 63,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Rẽ trái",
-    "romanization": "Rẽ trái",
-    "translation": "向左"
-  },
-  {
-    "id": 64,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Đi thẳng",
-    "romanization": "Đi thẳng",
-    "translation": "直走"
-  },
-  {
-    "id": 65,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Xa",
-    "romanization": "Xa",
-    "translation": "远"
-  },
-  {
-    "id": 66,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Gần",
-    "romanization": "Gần",
-    "translation": "近"
-  },
-  {
-    "id": 67,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Đây",
-    "romanization": "Đây",
-    "translation": "这里"
-  },
-  {
-    "id": 68,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Ở đó",
-    "romanization": "Ở đó",
-    "translation": "那里"
-  },
-  {
-    "id": 69,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Đường",
-    "romanization": "Đường",
-    "translation": "街道"
-  },
-  {
-    "id": 70,
-    "category": "directions",
-    "category_zh": "问路",
-    "text": "Bản đồ",
-    "romanization": "Bản đồ",
-    "translation": "地图"
-  },
-  {
-    "id": 71,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Một",
-    "romanization": "Một",
-    "translation": "一"
-  },
-  {
-    "id": 72,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Hai",
-    "romanization": "Hai",
-    "translation": "二"
-  },
-  {
-    "id": 73,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Ba",
-    "romanization": "Ba",
-    "translation": "三"
-  },
-  {
-    "id": 74,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Bốn",
-    "romanization": "Bốn",
-    "translation": "四"
-  },
-  {
-    "id": 75,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Năm",
-    "romanization": "Năm",
-    "translation": "五"
-  },
-  {
-    "id": 76,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Sáu",
-    "romanization": "Sáu",
-    "translation": "六"
-  },
-  {
-    "id": 77,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Bảy",
-    "romanization": "Bảy",
-    "translation": "七"
-  },
-  {
-    "id": 78,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Tám",
-    "romanization": "Tám",
-    "translation": "八"
-  },
-  {
-    "id": 79,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Chín",
-    "romanization": "Chín",
-    "translation": "九"
-  },
-  {
-    "id": 80,
-    "category": "numbers",
-    "category_zh": "数字",
-    "text": "Mười",
-    "romanization": "Mười",
-    "translation": "十"
-  },
-  {
-    "id": 81,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Cha",
-    "romanization": "Cha",
-    "translation": "父亲"
-  },
-  {
-    "id": 82,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Mẹ",
-    "romanization": "Mẹ",
-    "translation": "母亲"
-  },
-  {
-    "id": 83,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Anh trai",
-    "romanization": "Anh trai",
-    "translation": "兄弟"
-  },
-  {
-    "id": 84,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Chị em gái",
-    "romanization": "Chị em gái",
-    "translation": "姐妹"
-  },
-  {
-    "id": 85,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Chồng",
-    "romanization": "Chồng",
-    "translation": "丈夫"
-  },
-  {
-    "id": 86,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Vợ",
-    "romanization": "Vợ",
-    "translation": "妻子"
-  },
-  {
-    "id": 87,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Con trai",
-    "romanization": "Con trai",
-    "translation": "儿子"
-  },
-  {
-    "id": 88,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Con gái",
-    "romanization": "Con gái",
-    "translation": "女儿"
-  },
-  {
-    "id": 89,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Gia đình",
-    "romanization": "Gia đình",
-    "translation": "家庭"
-  },
-  {
-    "id": 90,
-    "category": "family",
-    "category_zh": "家庭",
-    "text": "Ông nội",
-    "romanization": "Ông nội",
-    "translation": "祖父"
-  },
-  {
-    "id": 91,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Vâng",
-    "romanization": "Vâng",
-    "translation": "是"
-  },
-  {
-    "id": 92,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Không",
-    "romanization": "Không",
-    "translation": "不"
-  },
-  {
-    "id": 93,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Xin",
-    "romanization": "Xin",
-    "translation": "请"
-  },
-  {
-    "id": 94,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Xin lỗi",
-    "romanization": "Xin lỗi",
-    "translation": "对不起"
-  },
-  {
-    "id": 95,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Tôi không hiểu",
-    "romanization": "Tôi không hiểu",
-    "translation": "我不懂"
-  },
-  {
-    "id": 96,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Tôi không nói được tiếng Anh",
-    "romanization": "Tôi không nói được tiếng Anh",
-    "translation": "我不会说英语"
-  },
-  {
-    "id": 97,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Bạn nói tiếng Trung không?",
-    "romanization": "Bạn nói tiếng Trung không?",
-    "translation": "你会说中文吗？"
-  },
-  {
-    "id": 98,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Từ này nói thế nào?",
-    "romanization": "Từ này nói thế nào?",
-    "translation": "这个词怎么说？"
-  },
-  {
-    "id": 99,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Nghĩa là gì?",
-    "romanization": "Nghĩa là gì?",
-    "translation": "什么意思？"
-  },
-  {
-    "id": 100,
-    "category": "common",
-    "category_zh": "常用表达",
-    "text": "Tôi sẽ thử",
-    "romanization": "Tôi sẽ thử",
-    "translation": "我试试"
   },
   {
     "id": 101,
@@ -960,54 +440,6 @@
     "translation": "请打扫房间"
   },
   {
-    "id": 121,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tôi đi công tác",
-    "romanization": "Tôi đi công tác",
-    "translation": "我是来商务出差的"
-  },
-  {
-    "id": 122,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tôi có visa công tác",
-    "romanization": "Tôi có visa công tác",
-    "translation": "我有商务签证"
-  },
-  {
-    "id": 123,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tôi đến để làm việc",
-    "romanization": "Tôi đến để làm việc",
-    "translation": "我来工作"
-  },
-  {
-    "id": 124,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tôi học ở đây",
-    "romanization": "Tôi học ở đây",
-    "translation": "我在这里学习"
-  },
-  {
-    "id": 125,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Tôi có visa du học sinh",
-    "romanization": "Tôi có visa du học sinh",
-    "translation": "我有学生签证"
-  },
-  {
-    "id": 126,
-    "category": "visa",
-    "category_zh": "签证类型",
-    "text": "Mục đích của tôi là học tập",
-    "romanization": "Mục đích của tôi là học tập",
-    "translation": "我的目的是学习"
-  },
-  {
     "id": 127,
     "category": "frontdesk",
     "category_zh": "前台常用",
@@ -1078,6 +510,14 @@
     "text": "Xin gọi taxi giúp tôi",
     "romanization": "Xin gọi taxi giúp tôi",
     "translation": "请帮我叫出租车"
+  },
+  {
+    "id": 171,
+    "category": "frontdesk",
+    "category_zh": "前台常用",
+    "text": "Bữa sáng lúc mấy giờ?",
+    "romanization": "Bữa sáng lúc mấy giờ?",
+    "translation": "请问早餐时间？"
   },
   {
     "id": 136,
@@ -1160,44 +600,324 @@
     "translation": "可以打包吗？"
   },
   {
-    "id": 146,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Tôi cần gặp bác sĩ",
-    "romanization": "Tôi cần gặp bác sĩ",
-    "translation": "我需要医生"
+    "id": 31,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Sân bay ở đâu?",
+    "romanization": "Sân bay ở đâu?",
+    "translation": "机场在哪？"
   },
   {
-    "id": 147,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Bệnh viện ở đâu?",
-    "romanization": "Bệnh viện ở đâu?",
-    "translation": "医院在哪？"
+    "id": 32,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Tôi muốn mua vé",
+    "romanization": "Tôi muốn mua vé",
+    "translation": "我想要一张票"
   },
   {
-    "id": 148,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Nhà thuốc ở đâu?",
-    "romanization": "Nhà thuốc ở đâu?",
-    "translation": "药店在哪？"
+    "id": 33,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Bao nhiêu tiền?",
+    "romanization": "Bao nhiêu tiền?",
+    "translation": "多少钱？"
   },
   {
-    "id": 149,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Tôi đau đầu",
-    "romanization": "Tôi đau đầu",
-    "translation": "我头痛"
+    "id": 34,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Tàu khởi hành lúc mấy giờ?",
+    "romanization": "Tàu khởi hành lúc mấy giờ?",
+    "translation": "火车几点开？"
   },
   {
-    "id": 150,
-    "category": "medical",
-    "category_zh": "医疗",
-    "text": "Tôi bị sốt",
-    "romanization": "Tôi bị sốt",
-    "translation": "我发烧"
+    "id": 35,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Ga nào?",
+    "romanization": "Ga nào?",
+    "translation": "在哪个站？"
+  },
+  {
+    "id": 36,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Xin lỗi, ... ở đâu?",
+    "romanization": "Xin lỗi, ... ở đâu?",
+    "translation": "请问...在哪？"
+  },
+  {
+    "id": 37,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Tôi muốn đón taxi",
+    "romanization": "Tôi muốn đón taxi",
+    "translation": "我要打车"
+  },
+  {
+    "id": 38,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Đến đây",
+    "romanization": "Đến đây",
+    "translation": "到这里"
+  },
+  {
+    "id": 39,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Dừng lại đây",
+    "romanization": "Dừng lại đây",
+    "translation": "请停车"
+  },
+  {
+    "id": 40,
+    "category": "transport",
+    "category_zh": "交通",
+    "text": "Cách xa bao nhiêu?",
+    "romanization": "Cách xa bao nhiêu?",
+    "translation": "距离多远？"
+  },
+  {
+    "id": 61,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Nhà vệ sinh ở đâu?",
+    "romanization": "Nhà vệ sinh ở đâu?",
+    "translation": "洗手间在哪？"
+  },
+  {
+    "id": 62,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Rẽ phải",
+    "romanization": "Rẽ phải",
+    "translation": "向右"
+  },
+  {
+    "id": 63,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Rẽ trái",
+    "romanization": "Rẽ trái",
+    "translation": "向左"
+  },
+  {
+    "id": 64,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Đi thẳng",
+    "romanization": "Đi thẳng",
+    "translation": "直走"
+  },
+  {
+    "id": 65,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Xa",
+    "romanization": "Xa",
+    "translation": "远"
+  },
+  {
+    "id": 66,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Gần",
+    "romanization": "Gần",
+    "translation": "近"
+  },
+  {
+    "id": 67,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Đây",
+    "romanization": "Đây",
+    "translation": "这里"
+  },
+  {
+    "id": 68,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Ở đó",
+    "romanization": "Ở đó",
+    "translation": "那里"
+  },
+  {
+    "id": 69,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Đường",
+    "romanization": "Đường",
+    "translation": "街道"
+  },
+  {
+    "id": 70,
+    "category": "directions",
+    "category_zh": "问路",
+    "text": "Bản đồ",
+    "romanization": "Bản đồ",
+    "translation": "地图"
+  },
+  {
+    "id": 41,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Cái này bao nhiêu tiền?",
+    "romanization": "Cái này bao nhiêu tiền?",
+    "translation": "这个多少钱？"
+  },
+  {
+    "id": 42,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Đắt quá",
+    "romanization": "Đắt quá",
+    "translation": "太贵了"
+  },
+  {
+    "id": 43,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Rẻ",
+    "romanization": "Rẻ",
+    "translation": "便宜"
+  },
+  {
+    "id": 44,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Có thể trả giá không?",
+    "romanization": "Có thể trả giá không?",
+    "translation": "能讲价吗？"
+  },
+  {
+    "id": 45,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Tôi muốn cái này",
+    "romanization": "Tôi muốn cái này",
+    "translation": "我要这个"
+  },
+  {
+    "id": 46,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Cửa hàng ... ở đâu?",
+    "romanization": "Cửa hàng ... ở đâu?",
+    "translation": "...店在哪？"
+  },
+  {
+    "id": 47,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Kích cỡ",
+    "romanization": "Kích cỡ",
+    "translation": "尺寸"
+  },
+  {
+    "id": 48,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Tôi muốn một cái túi",
+    "romanization": "Tôi muốn một cái túi",
+    "translation": "我要一个包"
+  },
+  {
+    "id": 49,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Tiền thừa",
+    "romanization": "Tiền thừa",
+    "translation": "找零"
+  },
+  {
+    "id": 50,
+    "category": "shopping",
+    "category_zh": "购物",
+    "text": "Hóa đơn",
+    "romanization": "Hóa đơn",
+    "translation": "收据"
+  },
+  {
+    "id": 21,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Tôi đói",
+    "romanization": "Tôi đói",
+    "translation": "我饿了"
+  },
+  {
+    "id": 22,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Tôi khát",
+    "romanization": "Tôi khát",
+    "translation": "我渴了"
+  },
+  {
+    "id": 23,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Tôi muốn ăn",
+    "romanization": "Tôi muốn ăn",
+    "translation": "我想要食物"
+  },
+  {
+    "id": 24,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Tôi muốn nước",
+    "romanization": "Tôi muốn nước",
+    "translation": "我想要水"
+  },
+  {
+    "id": 25,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Món ăn yêu thích của bạn là gì?",
+    "romanization": "Món ăn yêu thích của bạn là gì?",
+    "translation": "你最喜欢的食物？"
+  },
+  {
+    "id": 26,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Thịt bò",
+    "romanization": "Thịt bò",
+    "translation": "牛肉"
+  },
+  {
+    "id": 27,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Thịt gà",
+    "romanization": "Thịt gà",
+    "translation": "鸡肉"
+  },
+  {
+    "id": 28,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Cá",
+    "romanization": "Cá",
+    "translation": "鱼"
+  },
+  {
+    "id": 29,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Cơm",
+    "romanization": "Cơm",
+    "translation": "米饭"
+  },
+  {
+    "id": 30,
+    "category": "food",
+    "category_zh": "饮食",
+    "text": "Bánh mì",
+    "romanization": "Bánh mì",
+    "translation": "面包"
   },
   {
     "id": 151,
@@ -1280,92 +1000,164 @@
     "translation": "紧急电话是多少？"
   },
   {
-    "id": 161,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Xin hỏi quý tên?",
-    "romanization": "Xin hỏi quý tên?",
-    "translation": "请问您贵姓？"
+    "id": 220,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Mấy giờ mở cửa?",
+    "romanization": "Mấy giờ mở cửa?",
+    "translation": "几点开门？营业时间"
   },
   {
-    "id": 162,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Tên tôi là ...",
-    "romanization": "Tên tôi là ...",
-    "translation": "我叫..."
+    "id": 221,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Mấy giờ đóng cửa?",
+    "romanization": "Mấy giờ đóng cửa?",
+    "translation": "几点关门？营业时间是几点"
   },
   {
-    "id": 163,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Rất hân hạnh được gặp quý vị",
-    "romanization": "Rất hân hạnh được gặp quý vị",
-    "translation": "很高兴认识您"
+    "id": 222,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Ghế này còn trống không?",
+    "romanization": "Ghế này còn trống không?",
+    "translation": "这个座位有人吗？可以坐这里"
   },
   {
-    "id": 164,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Chức vụ của bạn là gì?",
-    "romanization": "Chức vụ của bạn là gì?",
-    "translation": "请问您的职务是？"
+    "id": 223,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Phòng vé ở đâu?",
+    "romanization": "Phòng vé ở đâu?",
+    "translation": "售票处在哪？买票"
   },
   {
-    "id": 165,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Chúng ta hẹn gặp được không?",
-    "romanization": "Chúng ta hẹn gặp được không?",
-    "translation": "我们能约个时间吗？"
+    "id": 224,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Vé vào cửa bao nhiêu?",
+    "romanization": "Vé vào cửa bao nhiêu?",
+    "translation": "门票多少钱？景点门票价格"
   },
   {
-    "id": 166,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Đây là danh thiếp của tôi",
-    "romanization": "Đây là danh thiếp của tôi",
-    "translation": "这是我的名片"
+    "id": 225,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Cần đặt trước không?",
+    "romanization": "Cần đặt trước không?",
+    "translation": "需要提前预订吗？要预约吗"
   },
   {
-    "id": 167,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Xin gửi email cho tôi",
-    "romanization": "Xin gửi email cho tôi",
-    "translation": "请发邮件给我"
+    "id": 226,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Có giảm giá cho sinh viên không?",
+    "romanization": "Có giảm giá cho sinh viên không?",
+    "translation": "有学生票吗？学生优惠"
   },
   {
-    "id": 168,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Xin thêm tôi vào WeChat",
-    "romanization": "Xin thêm tôi vào WeChat",
-    "translation": "请加我微信"
+    "id": 227,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Có cần để tiền hoa hồng không?",
+    "romanization": "Có cần để tiền hoa hồng không?",
+    "translation": "需要付小费吗？tip 小费"
   },
   {
-    "id": 169,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Cảm ơn sự tiếp đãi của quý vị",
-    "romanization": "Cảm ơn sự tiếp đãi của quý vị",
-    "translation": "谢谢您的款待"
+    "id": 228,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Tôi có thể chụp ảnh ở đây không?",
+    "romanization": "Tôi có thể chụp ảnh ở đây không?",
+    "translation": "这里可以拍照吗？能拍照吗"
   },
   {
-    "id": 170,
-    "category": "work",
-    "category_zh": "工作场景",
-    "text": "Hy vọng được gặp lại",
-    "romanization": "Hy vọng được gặp lại",
-    "translation": "后会有期"
+    "id": 229,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Ở đây có được hút thuốc không?",
+    "romanization": "Ở đây có được hút thuốc không?",
+    "translation": "这里允许吸烟吗？禁烟规定"
   },
   {
-    "id": 171,
-    "category": "frontdesk",
-    "category_zh": "前台常用",
-    "text": "Bữa sáng lúc mấy giờ?",
-    "romanization": "Bữa sáng lúc mấy giờ?",
-    "translation": "请问早餐时间？"
+    "id": 230,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Tôi muốn khiếu nại.",
+    "romanization": "Tôi muốn khiếu nại.",
+    "translation": "我要投诉。投诉服务员"
+  },
+  {
+    "id": 231,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Số khẩn cấp của địa phương là gì?",
+    "romanization": "Số khẩn cấp của địa phương là gì?",
+    "translation": "当地的紧急电话是多少？当地报警电话"
+  },
+  {
+    "id": 232,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Tôi bắt xe taxi ở đâu?",
+    "romanization": "Tôi bắt xe taxi ở đâu?",
+    "translation": "哪里可以打车？出租车在哪"
+  },
+  {
+    "id": 233,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Mất bao lâu?",
+    "romanization": "Mất bao lâu?",
+    "translation": "这需要多长时间？要多久"
+  },
+  {
+    "id": 234,
+    "category": "travel",
+    "category_zh": "旅游实用",
+    "text": "Giờ mở cửa là mấy giờ?",
+    "romanization": "Giờ mở cửa là mấy giờ?",
+    "translation": "营业时间是几点？开门时间"
+  },
+  {
+    "id": 146,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Tôi cần gặp bác sĩ",
+    "romanization": "Tôi cần gặp bác sĩ",
+    "translation": "我需要医生"
+  },
+  {
+    "id": 147,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Bệnh viện ở đâu?",
+    "romanization": "Bệnh viện ở đâu?",
+    "translation": "医院在哪？"
+  },
+  {
+    "id": 148,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Nhà thuốc ở đâu?",
+    "romanization": "Nhà thuốc ở đâu?",
+    "translation": "药店在哪？"
+  },
+  {
+    "id": 149,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Tôi đau đầu",
+    "romanization": "Tôi đau đầu",
+    "translation": "我头痛"
+  },
+  {
+    "id": 150,
+    "category": "medical",
+    "category_zh": "医疗",
+    "text": "Tôi bị sốt",
+    "romanization": "Tôi bị sốt",
+    "translation": "我发烧"
   },
   {
     "id": 172,
@@ -1408,6 +1200,374 @@
     "translation": "请叫救护车"
   },
   {
+    "id": 91,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Vâng",
+    "romanization": "Vâng",
+    "translation": "是"
+  },
+  {
+    "id": 92,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Không",
+    "romanization": "Không",
+    "translation": "不"
+  },
+  {
+    "id": 93,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Xin",
+    "romanization": "Xin",
+    "translation": "请"
+  },
+  {
+    "id": 94,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Xin lỗi",
+    "romanization": "Xin lỗi",
+    "translation": "对不起"
+  },
+  {
+    "id": 95,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Tôi không hiểu",
+    "romanization": "Tôi không hiểu",
+    "translation": "我不懂"
+  },
+  {
+    "id": 96,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Tôi không nói được tiếng Anh",
+    "romanization": "Tôi không nói được tiếng Anh",
+    "translation": "我不会说英语"
+  },
+  {
+    "id": 97,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Bạn nói tiếng Trung không?",
+    "romanization": "Bạn nói tiếng Trung không?",
+    "translation": "你会说中文吗？"
+  },
+  {
+    "id": 98,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Từ này nói thế nào?",
+    "romanization": "Từ này nói thế nào?",
+    "translation": "这个词怎么说？"
+  },
+  {
+    "id": 99,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Nghĩa là gì?",
+    "romanization": "Nghĩa là gì?",
+    "translation": "什么意思？"
+  },
+  {
+    "id": 100,
+    "category": "common",
+    "category_zh": "常用表达",
+    "text": "Tôi sẽ thử",
+    "romanization": "Tôi sẽ thử",
+    "translation": "我试试"
+  },
+  {
+    "id": 51,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Mấy giờ rồi?",
+    "romanization": "Mấy giờ rồi?",
+    "translation": "时间"
+  },
+  {
+    "id": 52,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Hôm nay",
+    "romanization": "Hôm nay",
+    "translation": "今天"
+  },
+  {
+    "id": 53,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Hôm qua",
+    "romanization": "Hôm qua",
+    "translation": "昨天"
+  },
+  {
+    "id": 54,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Ngày mai",
+    "romanization": "Ngày mai",
+    "translation": "明天"
+  },
+  {
+    "id": 55,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Buổi sáng",
+    "romanization": "Buổi sáng",
+    "translation": "早上"
+  },
+  {
+    "id": 56,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Buổi tối",
+    "romanization": "Buổi tối",
+    "translation": "晚上"
+  },
+  {
+    "id": 57,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Ban đêm",
+    "romanization": "Ban đêm",
+    "translation": "夜里"
+  },
+  {
+    "id": 58,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Bây giờ là tám giờ",
+    "romanization": "Bây giờ là tám giờ",
+    "translation": "现在是8点"
+  },
+  {
+    "id": 59,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Bao lâu?",
+    "romanization": "Bao lâu?",
+    "translation": "多久？"
+  },
+  {
+    "id": 60,
+    "category": "time",
+    "category_zh": "时间日期",
+    "text": "Lúc năm giờ",
+    "romanization": "Lúc năm giờ",
+    "translation": "5点钟"
+  },
+  {
+    "id": 71,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Một",
+    "romanization": "Một",
+    "translation": "一"
+  },
+  {
+    "id": 72,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Hai",
+    "romanization": "Hai",
+    "translation": "二"
+  },
+  {
+    "id": 73,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Ba",
+    "romanization": "Ba",
+    "translation": "三"
+  },
+  {
+    "id": 74,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Bốn",
+    "romanization": "Bốn",
+    "translation": "四"
+  },
+  {
+    "id": 75,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Năm",
+    "romanization": "Năm",
+    "translation": "五"
+  },
+  {
+    "id": 76,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Sáu",
+    "romanization": "Sáu",
+    "translation": "六"
+  },
+  {
+    "id": 77,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Bảy",
+    "romanization": "Bảy",
+    "translation": "七"
+  },
+  {
+    "id": 78,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Tám",
+    "romanization": "Tám",
+    "translation": "八"
+  },
+  {
+    "id": 79,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Chín",
+    "romanization": "Chín",
+    "translation": "九"
+  },
+  {
+    "id": 80,
+    "category": "numbers",
+    "category_zh": "数字",
+    "text": "Mười",
+    "romanization": "Mười",
+    "translation": "十"
+  },
+  {
+    "id": 81,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Cha",
+    "romanization": "Cha",
+    "translation": "父亲"
+  },
+  {
+    "id": 82,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Mẹ",
+    "romanization": "Mẹ",
+    "translation": "母亲"
+  },
+  {
+    "id": 83,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Anh trai",
+    "romanization": "Anh trai",
+    "translation": "兄弟"
+  },
+  {
+    "id": 84,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Chị em gái",
+    "romanization": "Chị em gái",
+    "translation": "姐妹"
+  },
+  {
+    "id": 85,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Chồng",
+    "romanization": "Chồng",
+    "translation": "丈夫"
+  },
+  {
+    "id": 86,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Vợ",
+    "romanization": "Vợ",
+    "translation": "妻子"
+  },
+  {
+    "id": 87,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Con trai",
+    "romanization": "Con trai",
+    "translation": "儿子"
+  },
+  {
+    "id": 88,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Con gái",
+    "romanization": "Con gái",
+    "translation": "女儿"
+  },
+  {
+    "id": 89,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Gia đình",
+    "romanization": "Gia đình",
+    "translation": "家庭"
+  },
+  {
+    "id": 90,
+    "category": "family",
+    "category_zh": "家庭",
+    "text": "Ông nội",
+    "romanization": "Ông nội",
+    "translation": "祖父"
+  },
+  {
+    "id": 121,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Tôi đi công tác",
+    "romanization": "Tôi đi công tác",
+    "translation": "我是来商务出差的"
+  },
+  {
+    "id": 122,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Tôi có visa công tác",
+    "romanization": "Tôi có visa công tác",
+    "translation": "我有商务签证"
+  },
+  {
+    "id": 123,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Tôi đến để làm việc",
+    "romanization": "Tôi đến để làm việc",
+    "translation": "我来工作"
+  },
+  {
+    "id": 124,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Tôi học ở đây",
+    "romanization": "Tôi học ở đây",
+    "translation": "我在这里学习"
+  },
+  {
+    "id": 125,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Tôi có visa du học sinh",
+    "romanization": "Tôi có visa du học sinh",
+    "translation": "我有学生签证"
+  },
+  {
+    "id": 126,
+    "category": "visa",
+    "category_zh": "签证类型",
+    "text": "Mục đích của tôi là học tập",
+    "romanization": "Mục đích của tôi là học tập",
+    "translation": "我的目的是学习"
+  },
+  {
     "id": 177,
     "category": "visa",
     "category_zh": "签证类型",
@@ -1438,5 +1598,85 @@
     "text": "Tôi muốn xin gia hạn",
     "romanization": "Tôi muốn xin gia hạn",
     "translation": "我想申请延期"
+  },
+  {
+    "id": 161,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Xin hỏi quý tên?",
+    "romanization": "Xin hỏi quý tên?",
+    "translation": "请问您贵姓？"
+  },
+  {
+    "id": 162,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Tên tôi là ...",
+    "romanization": "Tên tôi là ...",
+    "translation": "我叫..."
+  },
+  {
+    "id": 163,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Rất hân hạnh được gặp quý vị",
+    "romanization": "Rất hân hạnh được gặp quý vị",
+    "translation": "很高兴认识您"
+  },
+  {
+    "id": 164,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Chức vụ của bạn là gì?",
+    "romanization": "Chức vụ của bạn là gì?",
+    "translation": "请问您的职务是？"
+  },
+  {
+    "id": 165,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Chúng ta hẹn gặp được không?",
+    "romanization": "Chúng ta hẹn gặp được không?",
+    "translation": "我们能约个时间吗？"
+  },
+  {
+    "id": 166,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Đây là danh thiếp của tôi",
+    "romanization": "Đây là danh thiếp của tôi",
+    "translation": "这是我的名片"
+  },
+  {
+    "id": 167,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Xin gửi email cho tôi",
+    "romanization": "Xin gửi email cho tôi",
+    "translation": "请发邮件给我"
+  },
+  {
+    "id": 168,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Xin thêm tôi vào WeChat",
+    "romanization": "Xin thêm tôi vào WeChat",
+    "translation": "请加我微信"
+  },
+  {
+    "id": 169,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Cảm ơn sự tiếp đãi của quý vị",
+    "romanization": "Cảm ơn sự tiếp đãi của quý vị",
+    "translation": "谢谢您的款待"
+  },
+  {
+    "id": 170,
+    "category": "work_business",
+    "category_zh": "工作场景",
+    "text": "Hy vọng được gặp lại",
+    "romanization": "Hy vọng được gặp lại",
+    "translation": "后会有期"
   }
 ]
