@@ -2,7 +2,7 @@
 
 # Travel-Ready 180 · 2,340 Phrases in 13 Languages
 
-**One phrase per moment. Say it the moment you land. 13 languages · 2,340 phrases · 18 real travel scenarios · offline speech.**
+**One phrase per moment. Say it the moment you land. 13 languages · 2,730 phrases · 19 real travel scenarios · free forever · offline speech.**
 
 [Live Demo](https://chengjian19740507-afk.github.io/waiyu-180-app/) ·
 [Privacy Policy](https://chengjian19740507-afk.github.io/waiyu-180-app/privacy.html) ·
@@ -15,16 +15,16 @@
 
 ## What this is
 
-The worst part of travelling abroad is freezing mid-sentence. **13 languages and 18 real travel scenarios** — enough to get you through most countries in the world, from immigration to hotel check-in, ordering food to asking for directions. Every entry shows **original text + romanization + Chinese**, and plays on tap. **Fully offline, no sign-up, no backend.**
+The worst part of travelling abroad is freezing mid-sentence. **13 languages and 19 real travel scenarios** — enough to get you through most countries in the world, from immigration to hotel check-in, ordering food to asking for directions. Every entry shows **original text + romanization + Chinese**, and plays on tap. **Fully offline, no sign-up, no backend.**
 
 - 🌐 **13 languages**: English / Spanish / French / Arabic / Russian / German / Hindi / Portuguese / Japanese / Korean / Vietnamese / Italian / Thai
-- 💬 **2,340 phrases**: 180 per language across 18 scenarios
+- 💬 **2,730 phrases**: 210 per language across 19 scenarios
 - 📚 **7,000 words**: 1,000 high-frequency words each with IPA, for 7 languages
 - 🔊 **Offline speech**: browser-native `SpeechSynthesis` on web — **your text never leaves your device**
 - 📱 **WeChat Mini Program**: AppID `wxc90a6aebcd03229c` — search "出国无忧外语180句"
 - 🕊️ **No tracking**: no account, no analytics, no ads, no data collection
 
-## The 18 scenarios
+## The 19 scenarios
 
 Greetings · Self-introduction · Airport & Immigration · Hotel Check-in · Front Desk · Food & Dining · Transport · Shopping · Time & Date · Directions · Numbers · Family · Common Phrases · Restaurants · Medical · Travel Essentials · Business · Social Etiquette · Visa Types
 
@@ -54,7 +54,7 @@ python3 -m http.server 8000
 Pure static HTML + CSS + JavaScript. **Zero dependencies, zero backend, zero build step.**
 
 - Native browser `SpeechSynthesis` (Chrome / Safari / Edge) — no network needed
-- `localStorage` for language preference and unlock state
+- `localStorage` for language preference only (no payment state, no payment channel)
 - Hosted on GitHub Pages
 - Responsive on phone / tablet / desktop
 - Right-to-left rendering for Arabic

@@ -7,7 +7,7 @@ import { dirname, join } from 'node:path';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const LANGS = ['en','es','fr','ar','ru','de','hi','pt','ja','ko','vi','it','th'];
 const VOCAB_LANGS = ['en','es','fr','ru','ja','ko','ar'];
-const EXPECT_SENTENCES = 180;
+const EXPECT_SENTENCES = 210;
 const EXPECT_VOCAB = 1000;
 const REQUIRED = ['id','category','category_zh','text','romanization','translation'];
 

@@ -1,3 +1,6 @@
+> ℹ️ **暂未启用（2026-11-17）** —— 商用授权暂不开放：项目定位为非营利公益工具，全部内容免费。
+> 本文件仅作存档，不构成任何收费安排。
+
 北极虎商业授权协议 (Polar Tiger Commercial License v1.0)
 Copyright © 2026 北极虎 (chengjian19740507@gmail.com)
 

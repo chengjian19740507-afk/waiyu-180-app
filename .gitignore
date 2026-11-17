@@ -2,3 +2,10 @@ tip-alipay-src.jpg
 .DS_Store
 *.pyc
 __pycache__/
+
+# 本地资料，不入库
+商标注册/
+阿里云RAM授权策略-粘贴用.json
+waiyu-100-app/
+waiyu-180-audio/
+商标图样/

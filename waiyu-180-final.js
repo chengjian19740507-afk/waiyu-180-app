@@ -93,32 +93,24 @@
   };
 
 
-  // ============ 付费门控 ============
-  // 免费仅问候 + 自我介绍两类，其他 16 类需打赏后解锁
-  // 免费 11 类（与小程序 v1.3.0 完全一致）
-  // 紧急求助免费 = 紧急时刻不该撞付费墙，且是最好的获客钩子
-  const FREE_CATS = new Set([
+  // ============ 访问规则（全部开放 · 2026-11-17） ============
+  // 决策：非营利公益工具 —— 所有类目永久免费，无任何收款通道。
+  // 与小程序 v1.3.3 完全一致（小程序侧见 utils/access.js）。
+  // 保留 FREE_CATS / isUnlocked 接口，旧调用方不会报错，后续若政策变化只改这一处。
+  const ALL_CATS = [
     'emergency', 'greetings', 'intro', 'airport', 'hotel', 'frontdesk',
-    'restaurant', 'transport', 'directions', 'shopping', 'food'
-  ]);
-  const UNLOCK_HASH = '9e6c21a3ae299809c8f25fad38a79809f7b86d33654ebddd31a88bdd5b0181ee';
-
-  async function sha256(text) {
-    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
-    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
-  }
+    'restaurant', 'transport', 'directions', 'shopping', 'food',
+    'travel', 'medical', 'common', 'time', 'numbers', 'family',
+    'work', 'social', 'visa'
+  ];
+  const FREE_CATS = new Set(ALL_CATS);
 
   function isUnlocked() {
-    return localStorage.getItem('paid') === '1';
-  }
-
-  async function tryUnlock(code) {
-    const hash = await sha256(code.trim());
-    return hash === UNLOCK_HASH;
+    return true;
   }
 
   // 类目定义（2026-11-08 与小程序 v1.3.0 完全对齐）
-  // 顺序原则：紧急求助排第一 → 免费类目聚在一起（旅行动线）→ 付费类目聚在一起（游客价值）
+  // 顺序原则：紧急求助排第一 → 旅行动线类目聚在一起 → 深度场景类目聚在一起（游客价值）
   const catDefs = [
     { key: 'emergency', zh: '紧急求助' },
     { key: 'greetings', zh: '问候' },
@@ -209,77 +201,18 @@
 
   function renderCats() {
     catsEl.innerHTML = '';
-    const unlocked = isUnlocked();
     for (const cat of availableCats()) {
       const btn = document.createElement('button');
-      const isFree = FREE_CATS.has(cat.key);
-      // 「全部」与付费分类都需解锁后才可见；仅免费分类（问候/自我介绍）默认开放
-      const locked = !unlocked && (!isFree || cat.key === 'all');
+      // 全部类目免费开放（v1.3.3 起无锁定）
+      const locked = false;
       btn.className = 'chip'
         + (cat.key === currentCat ? ' active' : '')
         + (locked ? ' locked' : '');
       btn.innerHTML = cat.zh + (locked ? ' <span class="lock-icon">🔒</span>' : '');
       btn.dataset.cat = cat.key;
-      btn.addEventListener('click', () => {
-        if (locked) {
-          showPaywall();
-        } else {
-          filter(cat.key);
-        }
-      });
+      btn.addEventListener('click', () => filter(cat.key));
       catsEl.appendChild(btn);
     }
-  }
-
-  // ============ 付费弹窗 ============
-  const paywallModal = document.getElementById('paywall-modal');
-  const paywallCodeEl = document.getElementById('paywall-code');
-  const paywallErrorEl = document.getElementById('paywall-error');
-  const paywallSuccessEl = document.getElementById('paywall-success');
-
-  function showPaywall() {
-    paywallCodeEl.value = '';
-    paywallErrorEl.hidden = true;
-    paywallSuccessEl.hidden = true;
-    paywallModal.hidden = false;
-    setTimeout(() => paywallCodeEl.focus(), 100);
-  }
-
-  function closePaywall() {
-    paywallModal.hidden = true;
-  }
-
-  async function handleUnlock() {
-    const code = paywallCodeEl.value;
-    if (!code) {
-      paywallErrorEl.textContent = '请输入解锁码';
-      paywallErrorEl.hidden = false;
-      return;
-    }
-    const ok = await tryUnlock(code);
-    if (ok) {
-      localStorage.setItem('paid', '1');
-      paywallSuccessEl.textContent = '✅ 解锁成功！全部内容已开放';
-      paywallSuccessEl.hidden = false;
-      setTimeout(() => {
-        closePaywall();
-        renderCats();
-        filter('all');
-      }, 1200);
-    } else {
-      paywallErrorEl.textContent = '解锁码错误，请检查后重试';
-      paywallErrorEl.hidden = false;
-    }
-  }
-
-  if (paywallModal) {
-    document.getElementById('paywall-unlock-btn').addEventListener('click', handleUnlock);
-    paywallCodeEl.addEventListener('keydown', e => {
-      if (e.key === 'Enter') handleUnlock();
-    });
-    paywallModal.querySelectorAll('[data-close]').forEach(el => {
-      el.addEventListener('click', closePaywall);
-    });
   }
 
   function filter(cat) {
@@ -302,24 +235,6 @@
     const cfg = LANGS[currentLang];
     titleEl.textContent = `${cfg.label}`;
     subtitleEl.textContent = cfg.sub;
-    // 未解锁 + 默认进入「全部」：展示付费提示，不显示免费句子
-    if (currentCat === 'all' && !isUnlocked()) {
-      const freeCount = allData.filter(s => FREE_CATS.has(s.category)).length;
-      cardsEl.innerHTML = `
-        <div style="padding:60px 20px;text-align:center;color:#94a3b8">
-          <div style="font-size:48px;margin-bottom:16px">🔒</div>
-          <div style="font-size:18px;color:#475569;margin-bottom:12px;font-weight:600">解锁后查看全部 210 句</div>
-          <div style="font-size:14px;margin-bottom:24px">当前已开放：<strong style="color:#10b981">${freeCount} 句</strong>（免费分类）<br>解锁后：210 句 · 19 个分类 · 全部语种</div>
-          <button onclick="document.getElementById('paywall-trigger-btn')?.click() || document.getElementById('paywall-modal').removeAttribute('hidden')"
-                  style="padding:12px 32px;background:#3b82f6;color:white;border:none;border-radius:8px;font-size:16px;cursor:pointer;font-weight:500">
-            输入解锁码
-          </button>
-          <div style="font-size:12px;margin-top:24px;color:#94a3b8">也可以先点击 <strong style="color:#475569">问候 / 自我介绍</strong> 查看免费内容</div>
-        </div>
-      `;
-      statsEl.textContent = `共 210 句 · 当前 0（未解锁）`;
-      return;
-    }
     let list;
     if (currentCat === 'all') {
       list = [...allData];
@@ -735,43 +650,6 @@
     switchMode('vocab');
   }
 
-  // === 悬浮打赏按钮 + 弹窗 ===
-  const tipFab = document.getElementById('tip-fab');
-  const tipModal = document.getElementById('tip-modal');
-  tipFab.hidden = false;
-
-  // 5 张卡片浏览后脉冲一次（每个用户只触发一次）
-  const PULSE_KEY = 'waiyu-tip-pulse-v1';
-  if (!localStorage.getItem(PULSE_KEY)) {
-    const viewed = new Set();
-    const cardObs = new IntersectionObserver(entries => {
-      entries.forEach(e => {
-        if (e.isIntersecting && e.target.dataset.id) viewed.add(e.target.dataset.id);
-      });
-      if (viewed.size >= 5) {
-        tipFab.classList.add('pulse');
-        setTimeout(() => tipFab.classList.remove('pulse'), 3500);
-        localStorage.setItem(PULSE_KEY, '1');
-        cardObs.disconnect();
-      }
-    }, { threshold: 0.5 });
-    const observeAll = () => cardsEl.querySelectorAll('.card').forEach(c => cardObs.observe(c));
-    new MutationObserver(observeAll).observe(cardsEl, { childList: true });
-    observeAll();
-  }
-
-  // FAB 点击 → 打开弹窗
-  tipFab.addEventListener('click', () => { tipModal.hidden = false; });
-
-  // 弹窗关闭（背景或关闭按钮）
-  tipModal.addEventListener('click', e => {
-    if (e.target.dataset && e.target.dataset.close !== undefined) tipModal.hidden = true;
-  });
-
-  // ESC 键关闭弹窗
-  document.addEventListener('keydown', e => {
-    if (e.code === 'Escape' && !tipModal.hidden) tipModal.hidden = true;
-  });
   } catch(e) {
     console.error("IIFE ERROR:", e);
     document.body.insertAdjacentHTML("beforeend", "<pre style=\"position:fixed;top:0;left:0;background:red;color:white;padding:10px;z-index:9999\">IIFE ERROR: " + e.message + "</pre>");

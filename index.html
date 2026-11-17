@@ -139,20 +139,7 @@
 </main>
 
 <footer class="tip">
-  <p>觉得有用？支持开发者持续更新 👇</p>
-  <div class="tip-buttons">
-    <a class="tip-btn wechat" href="#" onclick="alert('微信扫一扫赞赏码：请联系开发者获取');return false;">💬 微信赞赏</a>
-  </div>
-  <div class="tip-card">
-    <div class="tip-card-item">
-      <img src="tip-card.png" alt="微信赞赏码 · 北极虎" loading="lazy" />
-      <p class="tip-card-hint">↓ 微信扫码 · 北极虎的赞赏码</p>
-    </div>
-    <div class="tip-card-item">
-      <img src="tip-alipay.png" alt="支付宝收款码 · 北极虎" loading="lazy" />
-      <p class="tip-card-hint">↓ 支付宝扫一扫 · 北极虎的收款码</p>
-    </div>
-  </div>
+  <p>全部场景永久免费 · 无需注册 · 离线可用 👇</p>
   <p class="links">
     <a href="https://github.com/chengjian19740507-afk/waiyu-180-app" target="_blank" rel="noopener">⭐ GitHub 源码</a>
     <a href="privacy.html">隐私协议</a>
@@ -178,42 +165,7 @@
   </article>
 </template>
 
-<!-- 悬浮打赏按钮 -->
-<button class="tip-fab" id="tip-fab" aria-label="支持开发者" hidden>☕</button>
 
-<!-- 打赏弹窗 -->
-<!-- 付费门控弹窗 -->
-<div class="paywall-modal" id="paywall-modal" hidden role="dialog" aria-modal="true" aria-labelledby="paywall-title">
-  <div class="paywall-modal-backdrop" data-close></div>
-  <div class="paywall-modal-card">
-    <button class="paywall-modal-close" aria-label="关闭" data-close>×</button>
-    <h2 id="paywall-title">🔒 解锁全部内容</h2>
-    <p class="paywall-desc">本应用由 <strong>北极虎</strong> 独立维护。免费开放 <strong>紧急求助 + 问候 + 自我介绍 + 机场海关 + 宾馆入住 + 前台常用 + 餐厅 + 交通 + 问路 + 购物 + 饮食</strong> 共 11 类，其他 <strong>8 类</strong>需要打赏后解锁。</p>
-
-    <div class="paywall-tip-section">
-      <p class="paywall-tip-title">打赏方式（任选其一）</p>
-      <div class="paywall-tip-codes">
-        <div class="paywall-tip-code">
-          <img src="tip-card.png" alt="微信赞赏码" loading="lazy" />
-          <p>↓ 微信扫一扫</p>
-        </div>
-        <div class="paywall-tip-code">
-          <img src="tip-alipay.png" alt="支付宝收款码" loading="lazy" />
-          <p>↓ 支付宝扫一扫</p>
-        </div>
-      </div>
-      <p class="paywall-tip-hint">打赏后请微信联系 <strong>北极虎</strong> 索取解锁码（无期限）</p>
-    </div>
-
-    <div class="paywall-unlock-section">
-      <p class="paywall-tip-title">输入解锁码</p>
-      <input type="text" id="paywall-code" placeholder="联系开发者获取解锁码" autocomplete="off" spellcheck="false" />
-      <button id="paywall-unlock-btn">解锁</button>
-      <p id="paywall-error" class="paywall-error" hidden></p>
-      <p id="paywall-success" class="paywall-success" hidden></p>
-    </div>
-  </div>
-</div>
 
 <!-- 声音设置弹窗 -->
 <div class="voice-modal" id="voice-modal" hidden role="dialog" aria-modal="true" aria-labelledby="voice-modal-title">
@@ -228,24 +180,6 @@
   </div>
 </div>
 
-<div class="tip-modal" id="tip-modal" hidden role="dialog" aria-modal="true" aria-labelledby="tip-modal-title">
-  <div class="tip-modal-backdrop" data-close></div>
-  <div class="tip-modal-card">
-    <button class="tip-modal-close" aria-label="关闭" data-close>×</button>
-    <h2 id="tip-modal-title">觉得有用？支持一下</h2>
-    <p class="tip-modal-desc">如果你愿意，请我喝杯咖啡 ☕ · 北极虎 持续更新</p>
-    <div class="tip-modal-codes">
-      <div class="tip-modal-code">
-        <img src="tip-card.png" alt="微信赞赏码" loading="lazy" />
-        <p>↓ 微信扫一扫</p>
-      </div>
-      <div class="tip-modal-code">
-        <img src="tip-alipay.png" alt="支付宝收款码" loading="lazy" />
-        <p>↓ 支付宝扫一扫</p>
-      </div>
-    </div>
-  </div>
-</div>
 
 <script src="waiyu-180-final.js"></script>
 </body>
