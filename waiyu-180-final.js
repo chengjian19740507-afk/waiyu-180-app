@@ -1,4 +1,4 @@
-// 出国旅游常用外语 · 13 语种 × 210 句
+// 出国无忧常用语 · 13 语种 × 210 句
 (async () => {
   try {
   const langsEl = document.getElementById('langs');
@@ -77,19 +77,19 @@
   ensureVoices(); // 预加载
 
   const LANGS = {
-    en: { label: '英语出国旅游常用外语', sub: '文字+语音 · 英语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
-    es: { label: '西语出国旅游常用外语', sub: '文字+语音 · 西语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
-    fr: { label: '法语出国旅游常用外语', sub: '文字+语音 · 法语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
-    ar: { label: '阿语出国旅游常用外语', sub: '文字+罗马字 · 阿语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
-    ru: { label: '俄语出国旅游常用外语', sub: '文字+语音 · 俄语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
-    de: { label: '德语出国旅游常用外语', sub: '文字+语音 · 德语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-de.json', tts: 'speech', lang: 'de-DE' },
-    hi: { label: '印地语出国旅游常用外语', sub: '文字+罗马字 · 印地语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-hi.json', tts: 'speech', lang: 'hi-IN' },
-    pt: { label: '葡萄牙语出国旅游常用外语', sub: '文字+语音 · 葡萄牙语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-pt.json', tts: 'speech', lang: 'pt-BR' },
-    ja: { label: '日语出国旅游常用外语', sub: '文字+罗马字 · 日语假名发音 · 出国旅游常用外语 210 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
-    ko: { label: '韩语出国旅游常用外语', sub: '文字+罗马字 · 韩语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
-    vi: { label: '越南语出国旅游常用外语', sub: '文字+罗马字 · 越南语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-vi.json', tts: 'speech', lang: 'vi-VN' },
-    it: { label: '意大利语出国旅游常用外语', sub: '文字+语音 · 意大利语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-it.json', tts: 'speech', lang: 'it-IT' },
-    th: { label: '泰语出国旅游常用外语', sub: '文字+罗马字 · 泰语母语发音 · 出国旅游常用外语 210 句', file: 'sentences-th.json', tts: 'speech', lang: 'th-TH' },
+    en: { label: '英语 · 出国无忧', sub: '文字+语音 · 英语母语发音 · 出国无忧常用语 210 句', file: 'sentences-en.json', tts: 'speech', lang: 'en-US' },
+    es: { label: '西语 · 出国无忧', sub: '文字+语音 · 西语母语发音 · 出国无忧常用语 210 句', file: 'sentences-es.json', tts: 'speech', lang: 'es-ES' },
+    fr: { label: '法语 · 出国无忧', sub: '文字+语音 · 法语母语发音 · 出国无忧常用语 210 句', file: 'sentences-fr.json', tts: 'speech', lang: 'fr-FR' },
+    ar: { label: '阿语 · 出国无忧', sub: '文字+罗马字 · 阿语母语发音 · 出国无忧常用语 210 句', file: 'sentences-ar.json', tts: 'speech', lang: 'ar-SA' },
+    ru: { label: '俄语 · 出国无忧', sub: '文字+语音 · 俄语母语发音 · 出国无忧常用语 210 句', file: 'sentences-ru.json', tts: 'speech', lang: 'ru-RU' },
+    de: { label: '德语 · 出国无忧', sub: '文字+语音 · 德语母语发音 · 出国无忧常用语 210 句', file: 'sentences-de.json', tts: 'speech', lang: 'de-DE' },
+    hi: { label: '印地语 · 出国无忧', sub: '文字+罗马字 · 印地语母语发音 · 出国无忧常用语 210 句', file: 'sentences-hi.json', tts: 'speech', lang: 'hi-IN' },
+    pt: { label: '葡萄牙语 · 出国无忧', sub: '文字+语音 · 葡萄牙语母语发音 · 出国无忧常用语 210 句', file: 'sentences-pt.json', tts: 'speech', lang: 'pt-BR' },
+    ja: { label: '日语 · 出国无忧', sub: '文字+罗马字 · 日语假名发音 · 出国无忧常用语 210 句', file: 'sentences-ja.json', tts: 'speech', lang: 'ja-JP' },
+    ko: { label: '韩语 · 出国无忧', sub: '文字+罗马字 · 韩语母语发音 · 出国无忧常用语 210 句', file: 'sentences-ko.json', tts: 'speech', lang: 'ko-KR' },
+    vi: { label: '越南语 · 出国无忧', sub: '文字+罗马字 · 越南语母语发音 · 出国无忧常用语 210 句', file: 'sentences-vi.json', tts: 'speech', lang: 'vi-VN' },
+    it: { label: '意大利语 · 出国无忧', sub: '文字+语音 · 意大利语母语发音 · 出国无忧常用语 210 句', file: 'sentences-it.json', tts: 'speech', lang: 'it-IT' },
+    th: { label: '泰语 · 出国无忧', sub: '文字+罗马字 · 泰语母语发音 · 出国无忧常用语 210 句', file: 'sentences-th.json', tts: 'speech', lang: 'th-TH' },
   };
 
 
