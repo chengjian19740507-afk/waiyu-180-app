@@ -1,7 +1,7 @@
 {
   "name": "waiyu-180-app",
   "version": "2.0.0",
-  "description": "出境无忧 · 13 语种 2730 句速查 · 全部场景免费 · 离线发音",
+  "description": "出境无忧 · 13 语种 2730 句速查 · 全部场景暂时免费 · 离线发音",
   "private": true,
   "scripts": {
     "check:atlas": "node scripts/check-atlas.mjs",
